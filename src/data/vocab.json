@@ -1,0 +1,6622 @@
+[
+  {
+    "word": "analyze",
+    "ipa": "/ˈænəlaɪz/",
+    "meaning": "분석하다",
+    "example": "Scientists analyze the data to find patterns.",
+    "synonyms": "examine, study, dissect",
+    "deck": "Core 125",
+    "section": "core",
+    "id": "analyze-0"
+  },
+  {
+    "word": "hypothesis",
+    "ipa": "/haɪˈpɑːθəsɪs/",
+    "meaning": "가설",
+    "example": "The experiment confirmed her hypothesis.",
+    "synonyms": "theory, assumption, premise",
+    "deck": "Core 125",
+    "section": "core",
+    "id": "hypothesis-1"
+  },
+  {
+    "word": "evidence",
+    "ipa": "/ˈevɪdəns/",
+    "meaning": "증거",
+    "example": "There is strong evidence for climate change.",
+    "synonyms": "proof, data, support",
+    "deck": "Core 125",
+    "section": "core",
+    "id": "evidence-2"
+  },
+  {
+    "word": "conclude",
+    "ipa": "/kənˈkluːd/",
+    "meaning": "결론짓다",
+    "example": "We can conclude that the plan worked.",
+    "synonyms": "deduce, infer, determine",
+    "deck": "Core 125",
+    "section": "core",
+    "id": "conclude-3"
+  },
+  {
+    "word": "significant",
+    "ipa": "/sɪɡˈnɪfɪkənt/",
+    "meaning": "중요한, 상당한",
+    "example": "There was a significant drop in prices.",
+    "synonyms": "important, notable, considerable",
+    "deck": "Core 125",
+    "section": "core",
+    "id": "significant-4"
+  },
+  {
+    "word": "evaluate",
+    "ipa": "/ɪˈvæljueɪt/",
+    "meaning": "평가하다",
+    "example": "Teachers evaluate student progress each term.",
+    "synonyms": "assess, appraise, judge",
+    "deck": "Core 125",
+    "section": "core",
+    "id": "evaluate-5"
+  },
+  {
+    "word": "interpret",
+    "ipa": "/ɪnˈtɜːrprət/",
+    "meaning": "해석하다",
+    "example": "How do you interpret this poem?",
+    "synonyms": "explain, decode, construe",
+    "deck": "Core 125",
+    "section": "core",
+    "id": "interpret-6"
+  },
+  {
+    "word": "contradict",
+    "ipa": "/ˌkɑːntrəˈdɪkt/",
+    "meaning": "모순되다, 반박하다",
+    "example": "The results contradict earlier findings.",
+    "synonyms": "oppose, refute, conflict with",
+    "deck": "Core 125",
+    "section": "core",
+    "id": "contradict-7"
+  },
+  {
+    "word": "derive",
+    "ipa": "/dɪˈraɪv/",
+    "meaning": "끌어내다, 유래하다",
+    "example": "The word derives from Latin.",
+    "synonyms": "obtain, originate, stem from",
+    "deck": "Core 125",
+    "section": "core",
+    "id": "derive-8"
+  },
+  {
+    "word": "coherent",
+    "ipa": "/koʊˈhɪrənt/",
+    "meaning": "일관된, 논리정연한",
+    "example": "She gave a coherent explanation.",
+    "synonyms": "logical, consistent, clear",
+    "deck": "Core 125",
+    "section": "core",
+    "id": "coherent-9"
+  },
+  {
+    "word": "abundant",
+    "ipa": "/əˈbʌndənt/",
+    "meaning": "풍부한",
+    "example": "The region has abundant natural resources.",
+    "synonyms": "plentiful, ample, copious",
+    "deck": "Core 125",
+    "section": "core",
+    "id": "abundant-10"
+  },
+  {
+    "word": "scarce",
+    "ipa": "/skers/",
+    "meaning": "부족한, 드문",
+    "example": "Clean water is scarce in the desert.",
+    "synonyms": "rare, limited, sparse",
+    "deck": "Core 125",
+    "section": "core",
+    "id": "scarce-11"
+  },
+  {
+    "word": "fragile",
+    "ipa": "/ˈfrædʒəl/",
+    "meaning": "부서지기 쉬운, 취약한",
+    "example": "The vase is extremely fragile.",
+    "synonyms": "delicate, brittle, frail",
+    "deck": "Core 125",
+    "section": "core",
+    "id": "fragile-12"
+  },
+  {
+    "word": "robust",
+    "ipa": "/roʊˈbʌst/",
+    "meaning": "튼튼한, 견고한",
+    "example": "The system has a robust design.",
+    "synonyms": "sturdy, strong, resilient",
+    "deck": "Core 125",
+    "section": "core",
+    "id": "robust-13"
+  },
+  {
+    "word": "ambiguous",
+    "ipa": "/æmˈbɪɡjuəs/",
+    "meaning": "모호한",
+    "example": "His answer was ambiguous.",
+    "synonyms": "unclear, vague, equivocal",
+    "deck": "Core 125",
+    "section": "core",
+    "id": "ambiguous-14"
+  },
+  {
+    "word": "prominent",
+    "ipa": "/ˈprɑːmɪnənt/",
+    "meaning": "두드러진, 저명한",
+    "example": "She is a prominent scientist.",
+    "synonyms": "notable, eminent, leading",
+    "deck": "Core 125",
+    "section": "core",
+    "id": "prominent-15"
+  },
+  {
+    "word": "subtle",
+    "ipa": "/ˈsʌtl/",
+    "meaning": "미묘한, 교묘한",
+    "example": "There is a subtle difference between them.",
+    "synonyms": "slight, delicate, nuanced",
+    "deck": "Core 125",
+    "section": "core",
+    "id": "subtle-16"
+  },
+  {
+    "word": "inevitable",
+    "ipa": "/ɪnˈevɪtəbl/",
+    "meaning": "불가피한",
+    "example": "Change is inevitable.",
+    "synonyms": "unavoidable, certain, bound to happen",
+    "deck": "Core 125",
+    "section": "core",
+    "id": "inevitable-17"
+  },
+  {
+    "word": "versatile",
+    "ipa": "/ˈvɜːrsətl/",
+    "meaning": "다재다능한, 다용도의",
+    "example": "A versatile tool for many jobs.",
+    "synonyms": "adaptable, flexible, all-purpose",
+    "deck": "Core 125",
+    "section": "core",
+    "id": "versatile-18"
+  },
+  {
+    "word": "feasible",
+    "ipa": "/ˈfiːzəbl/",
+    "meaning": "실현 가능한",
+    "example": "Is this plan feasible?",
+    "synonyms": "possible, viable, achievable",
+    "deck": "Core 125",
+    "section": "core",
+    "id": "feasible-19"
+  },
+  {
+    "word": "acquire",
+    "ipa": "/əˈkwaɪər/",
+    "meaning": "얻다, 습득하다",
+    "example": "Children acquire language quickly.",
+    "synonyms": "gain, obtain, attain",
+    "deck": "Core 125",
+    "section": "core",
+    "id": "acquire-20"
+  },
+  {
+    "word": "enhance",
+    "ipa": "/ɪnˈhæns/",
+    "meaning": "향상시키다",
+    "example": "Exercise can enhance your mood.",
+    "synonyms": "improve, boost, strengthen",
+    "deck": "Core 125",
+    "section": "core",
+    "id": "enhance-21"
+  },
+  {
+    "word": "diminish",
+    "ipa": "/dɪˈmɪnɪʃ/",
+    "meaning": "줄어들다, 약화시키다",
+    "example": "His influence began to diminish.",
+    "synonyms": "decrease, reduce, lessen",
+    "deck": "Core 125",
+    "section": "core",
+    "id": "diminish-22"
+  },
+  {
+    "word": "facilitate",
+    "ipa": "/fəˈsɪlɪteɪt/",
+    "meaning": "용이하게 하다",
+    "example": "Technology facilitates communication.",
+    "synonyms": "ease, enable, assist",
+    "deck": "Core 125",
+    "section": "core",
+    "id": "facilitate-23"
+  },
+  {
+    "word": "implement",
+    "ipa": "/ˈɪmplɪment/",
+    "meaning": "실행하다, 시행하다",
+    "example": "They will implement new rules.",
+    "synonyms": "carry out, execute, apply",
+    "deck": "Core 125",
+    "section": "core",
+    "id": "implement-24"
+  },
+  {
+    "word": "sustain",
+    "ipa": "/səˈsteɪn/",
+    "meaning": "지속하다, 유지하다",
+    "example": "It's hard to sustain growth.",
+    "synonyms": "maintain, keep up, support",
+    "deck": "Core 125",
+    "section": "core",
+    "id": "sustain-25"
+  },
+  {
+    "word": "accumulate",
+    "ipa": "/əˈkjuːmjəleɪt/",
+    "meaning": "축적하다, 쌓이다",
+    "example": "Dust began to accumulate.",
+    "synonyms": "gather, build up, amass",
+    "deck": "Core 125",
+    "section": "core",
+    "id": "accumulate-26"
+  },
+  {
+    "word": "eliminate",
+    "ipa": "/ɪˈlɪmɪneɪt/",
+    "meaning": "제거하다, 없애다",
+    "example": "We must eliminate errors.",
+    "synonyms": "remove, eradicate, get rid of",
+    "deck": "Core 125",
+    "section": "core",
+    "id": "eliminate-27"
+  },
+  {
+    "word": "compromise",
+    "ipa": "/ˈkɑːmprəmaɪz/",
+    "meaning": "타협하다; 손상시키다",
+    "example": "Both sides had to compromise.",
+    "synonyms": "settle, negotiate; undermine",
+    "deck": "Core 125",
+    "section": "core",
+    "id": "compromise-28"
+  },
+  {
+    "word": "anticipate",
+    "ipa": "/ænˈtɪsɪpeɪt/",
+    "meaning": "예상하다, 기대하다",
+    "example": "We anticipate heavy traffic.",
+    "synonyms": "expect, foresee, predict",
+    "deck": "Core 125",
+    "section": "core",
+    "id": "anticipate-29"
+  },
+  {
+    "word": "diverse",
+    "ipa": "/daɪˈvɜːrs/",
+    "meaning": "다양한",
+    "example": "The city has a diverse population.",
+    "synonyms": "varied, mixed, assorted",
+    "deck": "Core 125",
+    "section": "core",
+    "id": "diverse-30"
+  },
+  {
+    "word": "obstacle",
+    "ipa": "/ˈɑːbstəkl/",
+    "meaning": "장애물",
+    "example": "Fear is the biggest obstacle.",
+    "synonyms": "barrier, hurdle, impediment",
+    "deck": "Core 125",
+    "section": "core",
+    "id": "obstacle-31"
+  },
+  {
+    "word": "reluctant",
+    "ipa": "/rɪˈlʌktənt/",
+    "meaning": "꺼리는, 마지못한",
+    "example": "She was reluctant to leave.",
+    "synonyms": "unwilling, hesitant, averse",
+    "deck": "Core 125",
+    "section": "core",
+    "id": "reluctant-32"
+  },
+  {
+    "word": "genuine",
+    "ipa": "/ˈdʒenjuɪn/",
+    "meaning": "진짜의, 진실한",
+    "example": "He showed genuine concern.",
+    "synonyms": "authentic, real, sincere",
+    "deck": "Core 125",
+    "section": "core",
+    "id": "genuine-33"
+  },
+  {
+    "word": "crucial",
+    "ipa": "/ˈkruːʃl/",
+    "meaning": "결정적인, 중대한",
+    "example": "Timing is crucial in this job.",
+    "synonyms": "critical, vital, essential",
+    "deck": "Core 125",
+    "section": "core",
+    "id": "crucial-34"
+  },
+  {
+    "word": "neglect",
+    "ipa": "/nɪˈɡlekt/",
+    "meaning": "소홀히 하다, 방치하다",
+    "example": "Don't neglect your health.",
+    "synonyms": "ignore, overlook, disregard",
+    "deck": "Core 125",
+    "section": "core",
+    "id": "neglect-35"
+  },
+  {
+    "word": "accommodate",
+    "ipa": "/əˈkɑːmədeɪt/",
+    "meaning": "수용하다, 편의를 봐주다",
+    "example": "The hall can accommodate 500 people.",
+    "synonyms": "hold, house, fit",
+    "deck": "Core 125",
+    "section": "core",
+    "id": "accommodate-36"
+  },
+  {
+    "word": "endure",
+    "ipa": "/ɪnˈdʊr/",
+    "meaning": "견디다, 지속되다",
+    "example": "They had to endure hardship.",
+    "synonyms": "bear, withstand, tolerate",
+    "deck": "Core 125",
+    "section": "core",
+    "id": "endure-37"
+  },
+  {
+    "word": "emphasize",
+    "ipa": "/ˈemfəsaɪz/",
+    "meaning": "강조하다",
+    "example": "He emphasized the need for safety.",
+    "synonyms": "stress, highlight, underline",
+    "deck": "Core 125",
+    "section": "core",
+    "id": "emphasize-38"
+  },
+  {
+    "word": "reveal",
+    "ipa": "/rɪˈviːl/",
+    "meaning": "드러내다, 폭로하다",
+    "example": "The study reveals surprising results.",
+    "synonyms": "disclose, expose, uncover",
+    "deck": "Core 125",
+    "section": "core",
+    "id": "reveal-39"
+  },
+  {
+    "word": "perspective",
+    "ipa": "/pərˈspektɪv/",
+    "meaning": "관점, 시각",
+    "example": "Try to see it from her perspective.",
+    "synonyms": "viewpoint, outlook, angle",
+    "deck": "Core 125",
+    "section": "core",
+    "id": "perspective-40"
+  },
+  {
+    "word": "consequence",
+    "ipa": "/ˈkɑːnsɪkwens/",
+    "meaning": "결과, 영향",
+    "example": "Every action has a consequence.",
+    "synonyms": "result, outcome, effect",
+    "deck": "Core 125",
+    "section": "core",
+    "id": "consequence-41"
+  },
+  {
+    "word": "principle",
+    "ipa": "/ˈprɪnsəpl/",
+    "meaning": "원칙, 원리",
+    "example": "He acts on strong principles.",
+    "synonyms": "rule, doctrine, tenet",
+    "deck": "Core 125",
+    "section": "core",
+    "id": "principle-42"
+  },
+  {
+    "word": "tendency",
+    "ipa": "/ˈtendənsi/",
+    "meaning": "경향, 성향",
+    "example": "She has a tendency to worry.",
+    "synonyms": "inclination, propensity, trend",
+    "deck": "Core 125",
+    "section": "core",
+    "id": "tendency-43"
+  },
+  {
+    "word": "phenomenon",
+    "ipa": "/fəˈnɑːmɪnən/",
+    "meaning": "현상",
+    "example": "Auroras are a natural phenomenon.",
+    "synonyms": "occurrence, event, marvel",
+    "deck": "Core 125",
+    "section": "core",
+    "id": "phenomenon-44"
+  },
+  {
+    "word": "notion",
+    "ipa": "/ˈnoʊʃn/",
+    "meaning": "개념, 생각",
+    "example": "He rejected the notion entirely.",
+    "synonyms": "idea, concept, belief",
+    "deck": "Core 125",
+    "section": "core",
+    "id": "notion-45"
+  },
+  {
+    "word": "context",
+    "ipa": "/ˈkɑːntekst/",
+    "meaning": "맥락, 문맥",
+    "example": "Words depend on context.",
+    "synonyms": "setting, background, circumstances",
+    "deck": "Core 125",
+    "section": "core",
+    "id": "context-46"
+  },
+  {
+    "word": "criterion",
+    "ipa": "/kraɪˈtɪriən/",
+    "meaning": "기준 (복수 criteria)",
+    "example": "Price is one criterion for choosing.",
+    "synonyms": "standard, benchmark, measure",
+    "deck": "Core 125",
+    "section": "core",
+    "id": "criterion-47"
+  },
+  {
+    "word": "implication",
+    "ipa": "/ˌɪmplɪˈkeɪʃn/",
+    "meaning": "함의, 영향",
+    "example": "Consider the implications of this rule.",
+    "synonyms": "consequence, suggestion, ramification",
+    "deck": "Core 125",
+    "section": "core",
+    "id": "implication-48"
+  },
+  {
+    "word": "paradox",
+    "ipa": "/ˈpærədɑːks/",
+    "meaning": "역설",
+    "example": "It's a paradox that less can be more.",
+    "synonyms": "contradiction, irony, puzzle",
+    "deck": "Core 125",
+    "section": "core",
+    "id": "paradox-49"
+  },
+  {
+    "word": "meticulous",
+    "ipa": "/məˈtɪkjələs/",
+    "meaning": "꼼꼼한, 세심한",
+    "example": "She is meticulous about details.",
+    "synonyms": "thorough, careful, scrupulous",
+    "deck": "Core 125",
+    "section": "core",
+    "id": "meticulous-50"
+  },
+  {
+    "word": "pragmatic",
+    "ipa": "/præɡˈmætɪk/",
+    "meaning": "실용적인, 현실적인",
+    "example": "We need a pragmatic solution.",
+    "synonyms": "practical, realistic, sensible",
+    "deck": "Core 125",
+    "section": "core",
+    "id": "pragmatic-51"
+  },
+  {
+    "word": "superficial",
+    "ipa": "/ˌsuːpərˈfɪʃl/",
+    "meaning": "피상적인, 표면적인",
+    "example": "His knowledge is superficial.",
+    "synonyms": "shallow, cursory, surface-level",
+    "deck": "Core 125",
+    "section": "core",
+    "id": "superficial-52"
+  },
+  {
+    "word": "profound",
+    "ipa": "/prəˈfaʊnd/",
+    "meaning": "깊은, 심오한",
+    "example": "The book had a profound effect.",
+    "synonyms": "deep, intense, far-reaching",
+    "deck": "Core 125",
+    "section": "core",
+    "id": "profound-53"
+  },
+  {
+    "word": "arbitrary",
+    "ipa": "/ˈɑːrbɪtreri/",
+    "meaning": "임의의, 자의적인",
+    "example": "The rules seem arbitrary.",
+    "synonyms": "random, capricious, unjustified",
+    "deck": "Core 125",
+    "section": "core",
+    "id": "arbitrary-54"
+  },
+  {
+    "word": "redundant",
+    "ipa": "/rɪˈdʌndənt/",
+    "meaning": "불필요한, 중복된",
+    "example": "Cut the redundant sentences.",
+    "synonyms": "superfluous, excess, repetitive",
+    "deck": "Core 125",
+    "section": "core",
+    "id": "redundant-55"
+  },
+  {
+    "word": "inherent",
+    "ipa": "/ɪnˈhɪrənt/",
+    "meaning": "내재된, 본질적인",
+    "example": "Risk is inherent in investing.",
+    "synonyms": "intrinsic, built-in, innate",
+    "deck": "Core 125",
+    "section": "core",
+    "id": "inherent-56"
+  },
+  {
+    "word": "nuanced",
+    "ipa": "/ˈnuːɑːnst/",
+    "meaning": "미묘한 차이가 있는",
+    "example": "She gave a nuanced argument.",
+    "synonyms": "subtle, layered, sophisticated",
+    "deck": "Core 125",
+    "section": "core",
+    "id": "nuanced-57"
+  },
+  {
+    "word": "trivial",
+    "ipa": "/ˈtrɪviəl/",
+    "meaning": "사소한, 하찮은",
+    "example": "Don't worry about trivial matters.",
+    "synonyms": "minor, insignificant, petty",
+    "deck": "Core 125",
+    "section": "core",
+    "id": "trivial-58"
+  },
+  {
+    "word": "compelling",
+    "ipa": "/kəmˈpelɪŋ/",
+    "meaning": "설득력 있는, 강렬한",
+    "example": "He made a compelling case.",
+    "synonyms": "convincing, persuasive, gripping",
+    "deck": "Core 125",
+    "section": "core",
+    "id": "compelling-59"
+  },
+  {
+    "word": "intricate",
+    "ipa": "/ˈɪntrɪkət/",
+    "meaning": "복잡한, 정교한",
+    "example": "The watch has an intricate design.",
+    "synonyms": "complex, elaborate, detailed",
+    "deck": "Core 125",
+    "section": "core",
+    "id": "intricate-60"
+  },
+  {
+    "word": "plausible",
+    "ipa": "/ˈplɔːzəbl/",
+    "meaning": "그럴듯한, 타당한",
+    "example": "That's a plausible explanation.",
+    "synonyms": "credible, believable, reasonable",
+    "deck": "Core 125",
+    "section": "core",
+    "id": "plausible-61"
+  },
+  {
+    "word": "obsolete",
+    "ipa": "/ˌɑːbsəˈliːt/",
+    "meaning": "구식의, 더 이상 안 쓰는",
+    "example": "The technology is now obsolete.",
+    "synonyms": "outdated, antiquated, defunct",
+    "deck": "Core 125",
+    "section": "core",
+    "id": "obsolete-62"
+  },
+  {
+    "word": "resilient",
+    "ipa": "/rɪˈzɪliənt/",
+    "meaning": "회복력 있는, 탄력적인",
+    "example": "Children are remarkably resilient.",
+    "synonyms": "tough, adaptable, hardy",
+    "deck": "Core 125",
+    "section": "core",
+    "id": "resilient-63"
+  },
+  {
+    "word": "ubiquitous",
+    "ipa": "/juːˈbɪkwɪtəs/",
+    "meaning": "어디에나 있는, 편재하는",
+    "example": "Smartphones are ubiquitous.",
+    "synonyms": "omnipresent, pervasive, widespread",
+    "deck": "Core 125",
+    "section": "core",
+    "id": "ubiquitous-64"
+  },
+  {
+    "word": "alleviate",
+    "ipa": "/əˈliːvieɪt/",
+    "meaning": "완화하다, 경감하다",
+    "example": "The medicine alleviates pain.",
+    "synonyms": "ease, relieve, mitigate",
+    "deck": "Core 125",
+    "section": "core",
+    "id": "alleviate-65"
+  },
+  {
+    "word": "exacerbate",
+    "ipa": "/ɪɡˈzæsərbeɪt/",
+    "meaning": "악화시키다",
+    "example": "Stress can exacerbate the illness.",
+    "synonyms": "worsen, aggravate, intensify",
+    "deck": "Core 125",
+    "section": "core",
+    "id": "exacerbate-66"
+  },
+  {
+    "word": "undermine",
+    "ipa": "/ˌʌndərˈmaɪn/",
+    "meaning": "약화시키다, 훼손하다",
+    "example": "Gossip can undermine trust.",
+    "synonyms": "weaken, erode, sabotage",
+    "deck": "Core 125",
+    "section": "core",
+    "id": "undermine-67"
+  },
+  {
+    "word": "advocate",
+    "ipa": "/ˈædvəkeɪt/",
+    "meaning": "옹호하다, 주장하다",
+    "example": "She advocates for reform.",
+    "synonyms": "support, champion, endorse",
+    "deck": "Core 125",
+    "section": "core",
+    "id": "advocate-68"
+  },
+  {
+    "word": "scrutinize",
+    "ipa": "/ˈskruːtənaɪz/",
+    "meaning": "면밀히 조사하다",
+    "example": "Auditors scrutinize the accounts.",
+    "synonyms": "examine, inspect, analyze",
+    "deck": "Core 125",
+    "section": "core",
+    "id": "scrutinize-69"
+  },
+  {
+    "word": "reconcile",
+    "ipa": "/ˈrekənsaɪl/",
+    "meaning": "화해시키다, 조화시키다",
+    "example": "It's hard to reconcile the two views.",
+    "synonyms": "resolve, harmonize, settle",
+    "deck": "Core 125",
+    "section": "core",
+    "id": "reconcile-70"
+  },
+  {
+    "word": "perpetuate",
+    "ipa": "/pərˈpetʃueɪt/",
+    "meaning": "영속시키다, 지속시키다",
+    "example": "The myth perpetuates stereotypes.",
+    "synonyms": "sustain, maintain, prolong",
+    "deck": "Core 125",
+    "section": "core",
+    "id": "perpetuate-71"
+  },
+  {
+    "word": "substantiate",
+    "ipa": "/səbˈstænʃieɪt/",
+    "meaning": "입증하다, 실증하다",
+    "example": "He couldn't substantiate the claim.",
+    "synonyms": "prove, verify, confirm",
+    "deck": "Core 125",
+    "section": "core",
+    "id": "substantiate-72"
+  },
+  {
+    "word": "undertake",
+    "ipa": "/ˌʌndərˈteɪk/",
+    "meaning": "착수하다, 떠맡다",
+    "example": "They will undertake the project.",
+    "synonyms": "take on, embark on, assume",
+    "deck": "Core 125",
+    "section": "core",
+    "id": "undertake-73"
+  },
+  {
+    "word": "culminate",
+    "ipa": "/ˈkʌlmɪneɪt/",
+    "meaning": "정점에 이르다, 절정에 달하다",
+    "example": "Years of work culminated in success.",
+    "synonyms": "climax, peak, conclude",
+    "deck": "Core 125",
+    "section": "core",
+    "id": "culminate-74"
+  },
+  {
+    "word": "circumvent",
+    "ipa": "/ˌsɜːrkəmˈvent/",
+    "meaning": "우회하다, 피하다",
+    "example": "They tried to circumvent the rules.",
+    "synonyms": "bypass, evade, sidestep",
+    "deck": "Core 125",
+    "section": "core",
+    "id": "circumvent-75"
+  },
+  {
+    "word": "augment",
+    "ipa": "/ɔːɡˈment/",
+    "meaning": "증대시키다, 늘리다",
+    "example": "He augments his income with freelance work.",
+    "synonyms": "increase, boost, supplement",
+    "deck": "Core 125",
+    "section": "core",
+    "id": "augment-76"
+  },
+  {
+    "word": "delineate",
+    "ipa": "/dɪˈlɪnieɪt/",
+    "meaning": "묘사하다, 윤곽을 그리다",
+    "example": "The report delineates the strategy.",
+    "synonyms": "outline, describe, define",
+    "deck": "Core 125",
+    "section": "core",
+    "id": "delineate-77"
+  },
+  {
+    "word": "mitigate",
+    "ipa": "/ˈmɪtɪɡeɪt/",
+    "meaning": "완화하다, 경감하다",
+    "example": "Steps to mitigate the damage.",
+    "synonyms": "reduce, lessen, alleviate",
+    "deck": "Core 125",
+    "section": "core",
+    "id": "mitigate-78"
+  },
+  {
+    "word": "oversee",
+    "ipa": "/ˌoʊvərˈsiː/",
+    "meaning": "감독하다, 총괄하다",
+    "example": "She oversees the entire team.",
+    "synonyms": "supervise, manage, direct",
+    "deck": "Core 125",
+    "section": "core",
+    "id": "oversee-79"
+  },
+  {
+    "word": "paradigm",
+    "ipa": "/ˈpærədaɪm/",
+    "meaning": "패러다임, 전형",
+    "example": "This marks a paradigm shift.",
+    "synonyms": "model, framework, pattern",
+    "deck": "Core 125",
+    "section": "core",
+    "id": "paradigm-80"
+  },
+  {
+    "word": "discrepancy",
+    "ipa": "/dɪˈskrepənsi/",
+    "meaning": "불일치, 차이",
+    "example": "There's a discrepancy in the figures.",
+    "synonyms": "difference, inconsistency, gap",
+    "deck": "Core 125",
+    "section": "core",
+    "id": "discrepancy-81"
+  },
+  {
+    "word": "consensus",
+    "ipa": "/kənˈsensəs/",
+    "meaning": "합의, 의견일치",
+    "example": "They reached a consensus.",
+    "synonyms": "agreement, accord, unanimity",
+    "deck": "Core 125",
+    "section": "core",
+    "id": "consensus-82"
+  },
+  {
+    "word": "premise",
+    "ipa": "/ˈpremɪs/",
+    "meaning": "전제",
+    "example": "The argument rests on a false premise.",
+    "synonyms": "assumption, basis, hypothesis",
+    "deck": "Core 125",
+    "section": "core",
+    "id": "premise-83"
+  },
+  {
+    "word": "anomaly",
+    "ipa": "/əˈnɑːməli/",
+    "meaning": "변칙, 이례",
+    "example": "The data showed an anomaly.",
+    "synonyms": "irregularity, deviation, aberration",
+    "deck": "Core 125",
+    "section": "core",
+    "id": "anomaly-84"
+  },
+  {
+    "word": "correlation",
+    "ipa": "/ˌkɔːrəˈleɪʃn/",
+    "meaning": "상관관계",
+    "example": "There's a correlation between the two.",
+    "synonyms": "link, association, relationship",
+    "deck": "Core 125",
+    "section": "core",
+    "id": "correlation-85"
+  },
+  {
+    "word": "dilemma",
+    "ipa": "/dɪˈlemə/",
+    "meaning": "딜레마, 진퇴양난",
+    "example": "She faced a moral dilemma.",
+    "synonyms": "predicament, quandary, bind",
+    "deck": "Core 125",
+    "section": "core",
+    "id": "dilemma-86"
+  },
+  {
+    "word": "rationale",
+    "ipa": "/ˌræʃəˈnæl/",
+    "meaning": "근거, 이론적 근거",
+    "example": "What's the rationale behind this?",
+    "synonyms": "reasoning, justification, basis",
+    "deck": "Core 125",
+    "section": "core",
+    "id": "rationale-87"
+  },
+  {
+    "word": "spectrum",
+    "ipa": "/ˈspektrəm/",
+    "meaning": "범위, 스펙트럼",
+    "example": "Opinions span a wide spectrum.",
+    "synonyms": "range, scope, gamut",
+    "deck": "Core 125",
+    "section": "core",
+    "id": "spectrum-88"
+  },
+  {
+    "word": "synthesis",
+    "ipa": "/ˈsɪnθəsɪs/",
+    "meaning": "종합, 통합",
+    "example": "The essay is a synthesis of ideas.",
+    "synonyms": "combination, integration, fusion",
+    "deck": "Core 125",
+    "section": "core",
+    "id": "synthesis-89"
+  },
+  {
+    "word": "conjecture",
+    "ipa": "/kənˈdʒektʃər/",
+    "meaning": "추측, 억측",
+    "example": "That's pure conjecture, not fact.",
+    "synonyms": "speculation, guess, hypothesis",
+    "deck": "Core 125",
+    "section": "core",
+    "id": "conjecture-90"
+  },
+  {
+    "word": "threshold",
+    "ipa": "/ˈθreʃhoʊld/",
+    "meaning": "문턱, 한계점",
+    "example": "Pain threshold varies by person.",
+    "synonyms": "limit, boundary, cutoff",
+    "deck": "Core 125",
+    "section": "core",
+    "id": "threshold-91"
+  },
+  {
+    "word": "trajectory",
+    "ipa": "/trəˈdʒektəri/",
+    "meaning": "궤도, 진로",
+    "example": "The company's growth trajectory is steep.",
+    "synonyms": "path, course, arc",
+    "deck": "Core 125",
+    "section": "core",
+    "id": "trajectory-92"
+  },
+  {
+    "word": "magnitude",
+    "ipa": "/ˈmæɡnɪtuːd/",
+    "meaning": "규모, 중요도",
+    "example": "The magnitude of the problem is huge.",
+    "synonyms": "scale, extent, size",
+    "deck": "Core 125",
+    "section": "core",
+    "id": "magnitude-93"
+  },
+  {
+    "word": "precedent",
+    "ipa": "/ˈpresɪdənt/",
+    "meaning": "선례, 전례",
+    "example": "The ruling sets a precedent.",
+    "synonyms": "example, model, prior case",
+    "deck": "Core 125",
+    "section": "core",
+    "id": "precedent-94"
+  },
+  {
+    "word": "skeptical",
+    "ipa": "/ˈskeptɪkl/",
+    "meaning": "회의적인",
+    "example": "I'm skeptical of his promises.",
+    "synonyms": "doubtful, dubious, unconvinced",
+    "deck": "Core 125",
+    "section": "core",
+    "id": "skeptical-95"
+  },
+  {
+    "word": "indifferent",
+    "ipa": "/ɪnˈdɪfrənt/",
+    "meaning": "무관심한",
+    "example": "He seemed indifferent to the news.",
+    "synonyms": "apathetic, unconcerned, aloof",
+    "deck": "Core 125",
+    "section": "core",
+    "id": "indifferent-96"
+  },
+  {
+    "word": "assertive",
+    "ipa": "/əˈsɜːrtɪv/",
+    "meaning": "적극적인, 자기주장이 강한",
+    "example": "Be assertive without being rude.",
+    "synonyms": "confident, forceful, self-assured",
+    "deck": "Core 125",
+    "section": "core",
+    "id": "assertive-97"
+  },
+  {
+    "word": "candid",
+    "ipa": "/ˈkændɪd/",
+    "meaning": "솔직한, 거리낌 없는",
+    "example": "She gave a candid answer.",
+    "synonyms": "frank, honest, straightforward",
+    "deck": "Core 125",
+    "section": "core",
+    "id": "candid-98"
+  },
+  {
+    "word": "pretentious",
+    "ipa": "/prɪˈtenʃəs/",
+    "meaning": "허세 부리는, 가식적인",
+    "example": "The review sounded pretentious.",
+    "synonyms": "affected, showy, pompous",
+    "deck": "Core 125",
+    "section": "core",
+    "id": "pretentious-99"
+  },
+  {
+    "word": "condescending",
+    "ipa": "/ˌkɑːndɪˈsendɪŋ/",
+    "meaning": "거들먹거리는, 잘난 체하는",
+    "example": "His tone was condescending.",
+    "synonyms": "patronizing, superior, haughty",
+    "deck": "Core 125",
+    "section": "core",
+    "id": "condescending-100"
+  },
+  {
+    "word": "ambivalent",
+    "ipa": "/æmˈbɪvələnt/",
+    "meaning": "양가적인, 망설이는",
+    "example": "She felt ambivalent about moving.",
+    "synonyms": "conflicted, undecided, torn",
+    "deck": "Core 125",
+    "section": "core",
+    "id": "ambivalent-101"
+  },
+  {
+    "word": "diligent",
+    "ipa": "/ˈdɪlɪdʒənt/",
+    "meaning": "부지런한, 성실한",
+    "example": "A diligent student always prepares.",
+    "synonyms": "hardworking, conscientious, industrious",
+    "deck": "Core 125",
+    "section": "core",
+    "id": "diligent-102"
+  },
+  {
+    "word": "arrogant",
+    "ipa": "/ˈærəɡənt/",
+    "meaning": "오만한",
+    "example": "His arrogant attitude annoyed everyone.",
+    "synonyms": "conceited, haughty, egotistical",
+    "deck": "Core 125",
+    "section": "core",
+    "id": "arrogant-103"
+  },
+  {
+    "word": "empathetic",
+    "ipa": "/ˌempəˈθetɪk/",
+    "meaning": "공감하는",
+    "example": "A good nurse is empathetic.",
+    "synonyms": "compassionate, understanding, caring",
+    "deck": "Core 125",
+    "section": "core",
+    "id": "empathetic-104"
+  },
+  {
+    "word": "cynical",
+    "ipa": "/ˈsɪnɪkl/",
+    "meaning": "냉소적인",
+    "example": "He's cynical about politics.",
+    "synonyms": "distrustful, pessimistic, jaded",
+    "deck": "Core 125",
+    "section": "core",
+    "id": "cynical-105"
+  },
+  {
+    "word": "tenacious",
+    "ipa": "/təˈneɪʃəs/",
+    "meaning": "끈질긴, 집요한",
+    "example": "A tenacious negotiator.",
+    "synonyms": "persistent, determined, dogged",
+    "deck": "Core 125",
+    "section": "core",
+    "id": "tenacious-106"
+  },
+  {
+    "word": "complacent",
+    "ipa": "/kəmˈpleɪsnt/",
+    "meaning": "자기만족적인, 안주하는",
+    "example": "Success made them complacent.",
+    "synonyms": "smug, self-satisfied, unconcerned",
+    "deck": "Core 125",
+    "section": "core",
+    "id": "complacent-107"
+  },
+  {
+    "word": "meticulously",
+    "ipa": "/məˈtɪkjələsli/",
+    "meaning": "꼼꼼하게 (부사)",
+    "example": "He meticulously checked each line.",
+    "synonyms": "carefully, precisely, thoroughly",
+    "deck": "Core 125",
+    "section": "core",
+    "id": "meticulously-108"
+  },
+  {
+    "word": "reluctantly",
+    "ipa": "/rɪˈlʌktəntli/",
+    "meaning": "마지못해 (부사)",
+    "example": "She reluctantly agreed.",
+    "synonyms": "unwillingly, hesitantly, grudgingly",
+    "deck": "Core 125",
+    "section": "core",
+    "id": "reluctantly-109"
+  },
+  {
+    "word": "albeit",
+    "ipa": "/ɔːlˈbiːɪt/",
+    "meaning": "비록 ~이지만",
+    "example": "He agreed, albeit reluctantly.",
+    "synonyms": "although, even though, though",
+    "deck": "Core 125",
+    "section": "core",
+    "id": "albeit-110"
+  },
+  {
+    "word": "notwithstanding",
+    "ipa": "/ˌnɑːtwɪθˈstændɪŋ/",
+    "meaning": "~에도 불구하고",
+    "example": "Notwithstanding the risks, they proceeded.",
+    "synonyms": "despite, in spite of, regardless",
+    "deck": "Core 125",
+    "section": "core",
+    "id": "notwithstanding-111"
+  },
+  {
+    "word": "henceforth",
+    "ipa": "/ˌhensˈfɔːrθ/",
+    "meaning": "이후로, 지금부터",
+    "example": "Henceforth, the rule applies to all.",
+    "synonyms": "from now on, hereafter",
+    "deck": "Core 125",
+    "section": "core",
+    "id": "henceforth-112"
+  },
+  {
+    "word": "inadvertently",
+    "ipa": "/ˌɪnədˈvɜːrtntli/",
+    "meaning": "무심코, 부주의로",
+    "example": "She inadvertently deleted the file.",
+    "synonyms": "accidentally, unintentionally",
+    "deck": "Core 125",
+    "section": "core",
+    "id": "inadvertently-113"
+  },
+  {
+    "word": "ostensibly",
+    "ipa": "/ɑːˈstensəbli/",
+    "meaning": "표면상, 겉보기에",
+    "example": "He left, ostensibly to rest.",
+    "synonyms": "apparently, seemingly, supposedly",
+    "deck": "Core 125",
+    "section": "core",
+    "id": "ostensibly-114"
+  },
+  {
+    "word": "inevitably",
+    "ipa": "/ɪnˈevɪtəbli/",
+    "meaning": "필연적으로",
+    "example": "Costs will inevitably rise.",
+    "synonyms": "unavoidably, certainly, necessarily",
+    "deck": "Core 125",
+    "section": "core",
+    "id": "inevitably-115"
+  },
+  {
+    "word": "predominantly",
+    "ipa": "/prɪˈdɑːmɪnəntli/",
+    "meaning": "주로, 대부분",
+    "example": "The audience was predominantly young.",
+    "synonyms": "mainly, mostly, chiefly",
+    "deck": "Core 125",
+    "section": "core",
+    "id": "predominantly-116"
+  },
+  {
+    "word": "comprehensive",
+    "ipa": "/ˌkɑːmprɪˈhensɪv/",
+    "meaning": "포괄적인, 종합적인",
+    "example": "A comprehensive review of the data.",
+    "synonyms": "thorough, complete, all-inclusive",
+    "deck": "Core 125",
+    "section": "core",
+    "id": "comprehensive-117"
+  },
+  {
+    "word": "unprecedented",
+    "ipa": "/ʌnˈpresɪdentɪd/",
+    "meaning": "전례 없는",
+    "example": "An unprecedented level of support.",
+    "synonyms": "unparalleled, novel, exceptional",
+    "deck": "Core 125",
+    "section": "core",
+    "id": "unprecedented-118"
+  },
+  {
+    "word": "prerequisite",
+    "ipa": "/ˌpriːˈrekwəzɪt/",
+    "meaning": "전제 조건, 필수 요건",
+    "example": "Trust is a prerequisite for teamwork.",
+    "synonyms": "requirement, precondition, necessity",
+    "deck": "Core 125",
+    "section": "core",
+    "id": "prerequisite-119"
+  },
+  {
+    "word": "juxtapose",
+    "ipa": "/ˈdʒʌkstəpoʊz/",
+    "meaning": "나란히 놓다, 병치하다",
+    "example": "The artist juxtaposes light and dark.",
+    "synonyms": "contrast, place side by side",
+    "deck": "Core 125",
+    "section": "core",
+    "id": "juxtapose-120"
+  },
+  {
+    "word": "dichotomy",
+    "ipa": "/daɪˈkɑːtəmi/",
+    "meaning": "이분법, 양분",
+    "example": "The dichotomy between work and life.",
+    "synonyms": "division, split, contrast",
+    "deck": "Core 125",
+    "section": "core",
+    "id": "dichotomy-121"
+  },
+  {
+    "word": "ramification",
+    "ipa": "/ˌræmɪfɪˈkeɪʃn/",
+    "meaning": "(복잡한) 결과, 영향",
+    "example": "Consider the ramifications of this.",
+    "synonyms": "consequence, implication, repercussion",
+    "deck": "Core 125",
+    "section": "core",
+    "id": "ramification-122"
+  },
+  {
+    "word": "quintessential",
+    "ipa": "/ˌkwɪntɪˈsenʃl/",
+    "meaning": "전형적인, 정수의",
+    "example": "He's the quintessential gentleman.",
+    "synonyms": "typical, archetypal, classic",
+    "deck": "Core 125",
+    "section": "core",
+    "id": "quintessential-123"
+  },
+  {
+    "word": "pervasive",
+    "ipa": "/pərˈveɪsɪv/",
+    "meaning": "만연한, 널리 퍼진",
+    "example": "Corruption was pervasive in the system.",
+    "synonyms": "widespread, prevalent, rampant",
+    "deck": "Core 125",
+    "section": "core",
+    "id": "pervasive-124"
+  },
+  {
+    "word": "substantial",
+    "ipa": "/səbˈstænʃl/",
+    "meaning": "large in size or importance",
+    "example": "A substantial number of students agreed.",
+    "synonyms": "basic: big / a lot of",
+    "deck": "80 to 130 Booster",
+    "section": "booster-1",
+    "id": "substantial-125"
+  },
+  {
+    "word": "detrimental",
+    "ipa": "/ˌdetrɪˈmentl/",
+    "meaning": "harmful, damaging",
+    "example": "Stress is detrimental to health.",
+    "synonyms": "basic: very bad",
+    "deck": "80 to 130 Booster",
+    "section": "booster-1",
+    "id": "detrimental-126"
+  },
+  {
+    "word": "beneficial",
+    "ipa": "/ˌbenɪˈfɪʃl/",
+    "meaning": "producing good results",
+    "example": "Exercise is beneficial for the mind.",
+    "synonyms": "basic: good / useful",
+    "deck": "80 to 130 Booster",
+    "section": "booster-1",
+    "id": "beneficial-127"
+  },
+  {
+    "word": "crucial / pivotal",
+    "ipa": "/ˈkruːʃl/, /ˈpɪvətl/",
+    "meaning": "extremely important",
+    "example": "Timing is pivotal in negotiations.",
+    "synonyms": "basic: important",
+    "deck": "80 to 130 Booster",
+    "section": "booster-1",
+    "id": "crucial-pivotal-128"
+  },
+  {
+    "word": "demonstrate",
+    "ipa": "/ˈdemənstreɪt/",
+    "meaning": "to clearly prove or display",
+    "example": "The data demonstrates a clear trend.",
+    "synonyms": "basic: show",
+    "deck": "80 to 130 Booster",
+    "section": "booster-1",
+    "id": "demonstrate-129"
+  },
+  {
+    "word": "obtain / deteriorate",
+    "ipa": "/əbˈteɪn/, /dɪˈtɪriəreɪt/",
+    "meaning": "acquire / become worse",
+    "example": "His health began to deteriorate.",
+    "synonyms": "basic: get / get worse",
+    "deck": "80 to 130 Booster",
+    "section": "booster-1",
+    "id": "obtain-deteriorate-130"
+  },
+  {
+    "word": "perceive / regard",
+    "ipa": "/pərˈsiːv/, /rɪˈɡɑːrd/",
+    "meaning": "to view or interpret",
+    "example": "Many perceive the rule as unfair.",
+    "synonyms": "basic: think",
+    "deck": "80 to 130 Booster",
+    "section": "booster-1",
+    "id": "perceive-regard-131"
+  },
+  {
+    "word": "considerable",
+    "ipa": "/kənˈsɪdərəbl/",
+    "meaning": "notably large",
+    "example": "She has considerable experience.",
+    "synonyms": "basic: a lot",
+    "deck": "80 to 130 Booster",
+    "section": "booster-1",
+    "id": "considerable-132"
+  },
+  {
+    "word": "enhance / refine",
+    "ipa": "/ɪnˈhæns/, /rɪˈfaɪn/",
+    "meaning": "to improve",
+    "example": "Feedback helps refine the design.",
+    "synonyms": "basic: make better",
+    "deck": "80 to 130 Booster",
+    "section": "booster-1",
+    "id": "enhance-refine-133"
+  },
+  {
+    "word": "occur / arise",
+    "ipa": "/əˈkɜːr/, /əˈraɪz/",
+    "meaning": "to take place",
+    "example": "Problems may arise unexpectedly.",
+    "synonyms": "basic: happen",
+    "deck": "80 to 130 Booster",
+    "section": "booster-1",
+    "id": "occur-arise-134"
+  },
+  {
+    "word": "utilize / employ",
+    "ipa": "/ˈjuːtəlaɪz/, /ɪmˈplɔɪ/",
+    "meaning": "to put to use",
+    "example": "They employ a new strategy.",
+    "synonyms": "basic: use",
+    "deck": "80 to 130 Booster",
+    "section": "booster-1",
+    "id": "utilize-employ-135"
+  },
+  {
+    "word": "numerous",
+    "ipa": "/ˈnuːmərəs/",
+    "meaning": "a great number of",
+    "example": "Numerous studies confirm this.",
+    "synonyms": "basic: many / lots of",
+    "deck": "80 to 130 Booster",
+    "section": "booster-1",
+    "id": "numerous-136"
+  },
+  {
+    "word": "facilitate / aid",
+    "ipa": "/fəˈsɪlɪteɪt/",
+    "meaning": "to make easier",
+    "example": "Tools that facilitate learning.",
+    "synonyms": "basic: help",
+    "deck": "80 to 130 Booster",
+    "section": "booster-1",
+    "id": "facilitate-aid-137"
+  },
+  {
+    "word": "initiate / commence",
+    "ipa": "/ɪˈnɪʃieɪt/, /kəˈmens/",
+    "meaning": "to begin",
+    "example": "They initiated the project.",
+    "synonyms": "basic: start",
+    "deck": "80 to 130 Booster",
+    "section": "booster-1",
+    "id": "initiate-commence-138"
+  },
+  {
+    "word": "conclude / terminate",
+    "ipa": "/kənˈkluːd/, /ˈtɜːrmɪneɪt/",
+    "meaning": "to bring to an end",
+    "example": "The meeting concluded early.",
+    "synonyms": "basic: end",
+    "deck": "80 to 130 Booster",
+    "section": "booster-1",
+    "id": "conclude-terminate-139"
+  },
+  {
+    "word": "furthermore",
+    "ipa": "/ˌfɜːrðərˈmɔːr/",
+    "meaning": "adds a point (= moreover)",
+    "example": "The plan is costly. Furthermore, it is risky.",
+    "synonyms": "",
+    "deck": "80 to 130 Booster",
+    "section": "booster-2",
+    "id": "furthermore-140"
+  },
+  {
+    "word": "nevertheless",
+    "ipa": "/ˌnevərðəˈles/",
+    "meaning": "contrast (= even so)",
+    "example": "It rained; nevertheless, we continued.",
+    "synonyms": "",
+    "deck": "80 to 130 Booster",
+    "section": "booster-2",
+    "id": "nevertheless-141"
+  },
+  {
+    "word": "consequently",
+    "ipa": "/ˈkɑːnsɪkwentli/",
+    "meaning": "result (= as a result)",
+    "example": "He overslept; consequently, he missed the bus.",
+    "synonyms": "",
+    "deck": "80 to 130 Booster",
+    "section": "booster-2",
+    "id": "consequently-142"
+  },
+  {
+    "word": "in contrast",
+    "ipa": "/ɪn ˈkɑːntræst/",
+    "meaning": "opposite idea",
+    "example": "Sales rose in Asia. In contrast, Europe fell.",
+    "synonyms": "",
+    "deck": "80 to 130 Booster",
+    "section": "booster-2",
+    "id": "in-contrast-143"
+  },
+  {
+    "word": "on the other hand",
+    "ipa": "/ɑːn ðə ˈʌðər hænd/",
+    "meaning": "shows the other side",
+    "example": "It's cheap; on the other hand, it's fragile.",
+    "synonyms": "",
+    "deck": "80 to 130 Booster",
+    "section": "booster-2",
+    "id": "on-the-other-hand-144"
+  },
+  {
+    "word": "for instance",
+    "ipa": "/fɔːr ˈɪnstəns/",
+    "meaning": "gives an example",
+    "example": "Many cities, for instance Seoul, are dense.",
+    "synonyms": "",
+    "deck": "80 to 130 Booster",
+    "section": "booster-2",
+    "id": "for-instance-145"
+  },
+  {
+    "word": "in other words",
+    "ipa": "/ɪn ˈʌðər wɜːrdz/",
+    "meaning": "restates / clarifies",
+    "example": "He was let go — in other words, fired.",
+    "synonyms": "",
+    "deck": "80 to 130 Booster",
+    "section": "booster-2",
+    "id": "in-other-words-146"
+  },
+  {
+    "word": "despite / in spite of",
+    "ipa": "/dɪˈspaɪt/",
+    "meaning": "contrast + noun",
+    "example": "Despite the rain, the event went on.",
+    "synonyms": "",
+    "deck": "80 to 130 Booster",
+    "section": "booster-2",
+    "id": "despite-in-spite-of-147"
+  },
+  {
+    "word": "whereas",
+    "ipa": "/werˈæz/",
+    "meaning": "direct contrast",
+    "example": "He likes tea, whereas she prefers coffee.",
+    "synonyms": "",
+    "deck": "80 to 130 Booster",
+    "section": "booster-2",
+    "id": "whereas-148"
+  },
+  {
+    "word": "thereby",
+    "ipa": "/ˌðerˈbaɪ/",
+    "meaning": "by that means",
+    "example": "Costs fell, thereby boosting profit.",
+    "synonyms": "",
+    "deck": "80 to 130 Booster",
+    "section": "booster-2",
+    "id": "thereby-149"
+  },
+  {
+    "word": "in essence",
+    "ipa": "/ɪn ˈesns/",
+    "meaning": "summarizing the core",
+    "example": "In essence, the theory is simple.",
+    "synonyms": "",
+    "deck": "80 to 130 Booster",
+    "section": "booster-2",
+    "id": "in-essence-150"
+  },
+  {
+    "word": "to a certain extent",
+    "ipa": "/ˌsɜːrtn ɪkˈstent/",
+    "meaning": "partial agreement",
+    "example": "I agree, to a certain extent.",
+    "synonyms": "",
+    "deck": "80 to 130 Booster",
+    "section": "booster-2",
+    "id": "to-a-certain-extent-151"
+  },
+  {
+    "word": "not only ... but also",
+    "ipa": "—",
+    "meaning": "adds emphasis",
+    "example": "Not only fast but also reliable.",
+    "synonyms": "",
+    "deck": "80 to 130 Booster",
+    "section": "booster-2",
+    "id": "not-only-but-also-152"
+  },
+  {
+    "word": "as a result of",
+    "ipa": "—",
+    "meaning": "cause",
+    "example": "Prices rose as a result of demand.",
+    "synonyms": "",
+    "deck": "80 to 130 Booster",
+    "section": "booster-2",
+    "id": "as-a-result-of-153"
+  },
+  {
+    "word": "in conclusion",
+    "ipa": "/ɪn kənˈkluːʒn/",
+    "meaning": "signals an ending",
+    "example": "In conclusion, the policy works.",
+    "synonyms": "",
+    "deck": "80 to 130 Booster",
+    "section": "booster-2",
+    "id": "in-conclusion-154"
+  },
+  {
+    "word": "illustrate",
+    "ipa": "/ˈɪləstreɪt/",
+    "meaning": "to make clear with an example",
+    "example": "This case illustrates the risk.",
+    "synonyms": "show, exemplify, depict",
+    "deck": "80 to 130 Booster",
+    "section": "booster-3",
+    "id": "illustrate-155"
+  },
+  {
+    "word": "indicate",
+    "ipa": "/ˈɪndɪkeɪt/",
+    "meaning": "to point to / suggest",
+    "example": "The results indicate improvement.",
+    "synonyms": "suggest, show, signal",
+    "deck": "80 to 130 Booster",
+    "section": "booster-3",
+    "id": "indicate-156"
+  },
+  {
+    "word": "acquire",
+    "ipa": "/əˈkwaɪər/",
+    "meaning": "to gain or learn",
+    "example": "Children acquire habits early.",
+    "synonyms": "gain, obtain, develop",
+    "deck": "80 to 130 Booster",
+    "section": "booster-3",
+    "id": "acquire-157"
+  },
+  {
+    "word": "assess",
+    "ipa": "/əˈses/",
+    "meaning": "to evaluate",
+    "example": "We must assess the risks.",
+    "synonyms": "evaluate, judge, appraise",
+    "deck": "80 to 130 Booster",
+    "section": "booster-3",
+    "id": "assess-158"
+  },
+  {
+    "word": "emphasize",
+    "ipa": "/ˈemfəsaɪz/",
+    "meaning": "to stress importance",
+    "example": "He emphasized honesty.",
+    "synonyms": "stress, highlight, underscore",
+    "deck": "80 to 130 Booster",
+    "section": "booster-3",
+    "id": "emphasize-159"
+  },
+  {
+    "word": "contribute",
+    "ipa": "/kənˈtrɪbjuːt/",
+    "meaning": "to add to / help cause",
+    "example": "Diet contributes to health.",
+    "synonyms": "add, donate, play a part",
+    "deck": "80 to 130 Booster",
+    "section": "booster-3",
+    "id": "contribute-160"
+  },
+  {
+    "word": "determine",
+    "ipa": "/dɪˈtɜːrmɪn/",
+    "meaning": "to decide / find out",
+    "example": "Tests determine the cause.",
+    "synonyms": "establish, ascertain, decide",
+    "deck": "80 to 130 Booster",
+    "section": "booster-3",
+    "id": "determine-161"
+  },
+  {
+    "word": "reflect",
+    "ipa": "/rɪˈflekt/",
+    "meaning": "to show / think deeply",
+    "example": "Prices reflect demand.",
+    "synonyms": "mirror, reveal, ponder",
+    "deck": "80 to 130 Booster",
+    "section": "booster-3",
+    "id": "reflect-162"
+  },
+  {
+    "word": "reinforce",
+    "ipa": "/ˌriːɪnˈfɔːrs/",
+    "meaning": "to strengthen",
+    "example": "Praise reinforces good behavior.",
+    "synonyms": "strengthen, support, bolster",
+    "deck": "80 to 130 Booster",
+    "section": "booster-3",
+    "id": "reinforce-163"
+  },
+  {
+    "word": "undertake",
+    "ipa": "/ˌʌndərˈteɪk/",
+    "meaning": "to take on a task",
+    "example": "They undertook a survey.",
+    "synonyms": "take on, embark on, attempt",
+    "deck": "80 to 130 Booster",
+    "section": "booster-3",
+    "id": "undertake-164"
+  },
+  {
+    "word": "address",
+    "ipa": "/əˈdres/",
+    "meaning": "to deal with (a problem)",
+    "example": "We need to address this issue.",
+    "synonyms": "tackle, handle, confront",
+    "deck": "80 to 130 Booster",
+    "section": "booster-3",
+    "id": "address-165"
+  },
+  {
+    "word": "highlight",
+    "ipa": "/ˈhaɪlaɪt/",
+    "meaning": "to draw attention to",
+    "example": "The report highlights errors.",
+    "synonyms": "emphasize, spotlight, stress",
+    "deck": "80 to 130 Booster",
+    "section": "booster-3",
+    "id": "highlight-166"
+  },
+  {
+    "word": "examine",
+    "ipa": "/ɪɡˈzæmɪn/",
+    "meaning": "to inspect closely",
+    "example": "Researchers examine the data.",
+    "synonyms": "inspect, study, scrutinize",
+    "deck": "80 to 130 Booster",
+    "section": "booster-3",
+    "id": "examine-167"
+  },
+  {
+    "word": "pursue",
+    "ipa": "/pərˈsuː/",
+    "meaning": "to follow / strive for",
+    "example": "She pursues a career in law.",
+    "synonyms": "chase, seek, follow",
+    "deck": "80 to 130 Booster",
+    "section": "booster-3",
+    "id": "pursue-168"
+  },
+  {
+    "word": "derive",
+    "ipa": "/dɪˈraɪv/",
+    "meaning": "to obtain / originate from",
+    "example": "Profit derives from sales.",
+    "synonyms": "obtain, gain, stem from",
+    "deck": "80 to 130 Booster",
+    "section": "booster-3",
+    "id": "derive-169"
+  },
+  {
+    "word": "significant",
+    "ipa": "/sɪɡˈnɪfɪkənt/",
+    "meaning": "large enough to matter",
+    "example": "A significant rise in costs.",
+    "synonyms": "notable, considerable, marked",
+    "deck": "80 to 130 Booster",
+    "section": "booster-4",
+    "id": "significant-170"
+  },
+  {
+    "word": "evident",
+    "ipa": "/ˈevɪdənt/",
+    "meaning": "clearly seen / obvious",
+    "example": "The benefits are evident.",
+    "synonyms": "clear, obvious, apparent",
+    "deck": "80 to 130 Booster",
+    "section": "booster-4",
+    "id": "evident-171"
+  },
+  {
+    "word": "relevant",
+    "ipa": "/ˈreləvənt/",
+    "meaning": "connected to the matter",
+    "example": "Keep your answer relevant.",
+    "synonyms": "pertinent, applicable, related",
+    "deck": "80 to 130 Booster",
+    "section": "booster-4",
+    "id": "relevant-172"
+  },
+  {
+    "word": "feasible",
+    "ipa": "/ˈfiːzəbl/",
+    "meaning": "possible to do",
+    "example": "A feasible plan within budget.",
+    "synonyms": "viable, achievable, practical",
+    "deck": "80 to 130 Booster",
+    "section": "booster-4",
+    "id": "feasible-173"
+  },
+  {
+    "word": "adequate",
+    "ipa": "/ˈædɪkwət/",
+    "meaning": "enough / sufficient",
+    "example": "We have adequate resources.",
+    "synonyms": "sufficient, ample, satisfactory",
+    "deck": "80 to 130 Booster",
+    "section": "booster-4",
+    "id": "adequate-174"
+  },
+  {
+    "word": "diverse",
+    "ipa": "/daɪˈvɜːrs/",
+    "meaning": "varied / many kinds",
+    "example": "A diverse range of opinions.",
+    "synonyms": "varied, assorted, mixed",
+    "deck": "80 to 130 Booster",
+    "section": "booster-4",
+    "id": "diverse-175"
+  },
+  {
+    "word": "inevitable",
+    "ipa": "/ɪnˈevɪtəbl/",
+    "meaning": "unavoidable",
+    "example": "Change is inevitable.",
+    "synonyms": "unavoidable, certain, bound",
+    "deck": "80 to 130 Booster",
+    "section": "booster-4",
+    "id": "inevitable-176"
+  },
+  {
+    "word": "widespread",
+    "ipa": "/ˈwaɪdspred/",
+    "meaning": "found over a large area",
+    "example": "Widespread support for reform.",
+    "synonyms": "prevalent, extensive, common",
+    "deck": "80 to 130 Booster",
+    "section": "booster-4",
+    "id": "widespread-177"
+  },
+  {
+    "word": "reluctant",
+    "ipa": "/rɪˈlʌktənt/",
+    "meaning": "unwilling",
+    "example": "He was reluctant to agree.",
+    "synonyms": "unwilling, hesitant, averse",
+    "deck": "80 to 130 Booster",
+    "section": "booster-4",
+    "id": "reluctant-178"
+  },
+  {
+    "word": "consistent",
+    "ipa": "/kənˈsɪstənt/",
+    "meaning": "steady / not contradictory",
+    "example": "Her grades are consistent.",
+    "synonyms": "steady, stable, uniform",
+    "deck": "80 to 130 Booster",
+    "section": "booster-4",
+    "id": "consistent-179"
+  },
+  {
+    "word": "comprehensive",
+    "ipa": "/ˌkɑːmprɪˈhensɪv/",
+    "meaning": "complete / thorough",
+    "example": "A comprehensive guide.",
+    "synonyms": "thorough, complete, extensive",
+    "deck": "80 to 130 Booster",
+    "section": "booster-4",
+    "id": "comprehensive-180"
+  },
+  {
+    "word": "substantial",
+    "ipa": "/səbˈstænʃl/",
+    "meaning": "large / important",
+    "example": "Substantial progress was made.",
+    "synonyms": "considerable, sizable, major",
+    "deck": "80 to 130 Booster",
+    "section": "booster-4",
+    "id": "substantial-181"
+  },
+  {
+    "word": "crucial",
+    "ipa": "/ˈkruːʃl/",
+    "meaning": "extremely important",
+    "example": "A crucial decision.",
+    "synonyms": "vital, critical, essential",
+    "deck": "80 to 130 Booster",
+    "section": "booster-4",
+    "id": "crucial-182"
+  },
+  {
+    "word": "ambiguous",
+    "ipa": "/æmˈbɪɡjuəs/",
+    "meaning": "open to more than one meaning",
+    "example": "The wording is ambiguous.",
+    "synonyms": "unclear, vague, equivocal",
+    "deck": "80 to 130 Booster",
+    "section": "booster-4",
+    "id": "ambiguous-183"
+  },
+  {
+    "word": "profound",
+    "ipa": "/prəˈfaʊnd/",
+    "meaning": "very deep / intense",
+    "example": "A profound impact on society.",
+    "synonyms": "deep, far-reaching, intense",
+    "deck": "80 to 130 Booster",
+    "section": "booster-4",
+    "id": "profound-184"
+  },
+  {
+    "word": "factor",
+    "ipa": "/ˈfæktər/",
+    "meaning": "something that influences",
+    "example": "Cost is a key factor.",
+    "synonyms": "element, cause, influence",
+    "deck": "80 to 130 Booster",
+    "section": "booster-5",
+    "id": "factor-185"
+  },
+  {
+    "word": "impact",
+    "ipa": "/ˈɪmpækt/",
+    "meaning": "strong effect",
+    "example": "A major impact on jobs.",
+    "synonyms": "effect, influence, consequence",
+    "deck": "80 to 130 Booster",
+    "section": "booster-5",
+    "id": "impact-186"
+  },
+  {
+    "word": "approach",
+    "ipa": "/əˈproʊtʃ/",
+    "meaning": "a way of doing something",
+    "example": "A new approach to teaching.",
+    "synonyms": "method, strategy, technique",
+    "deck": "80 to 130 Booster",
+    "section": "booster-5",
+    "id": "approach-187"
+  },
+  {
+    "word": "benefit",
+    "ipa": "/ˈbenɪfɪt/",
+    "meaning": "an advantage",
+    "example": "The benefits outweigh the costs.",
+    "synonyms": "advantage, gain, perk",
+    "deck": "80 to 130 Booster",
+    "section": "booster-5",
+    "id": "benefit-188"
+  },
+  {
+    "word": "consequence",
+    "ipa": "/ˈkɑːnsɪkwens/",
+    "meaning": "a result",
+    "example": "Every choice has a consequence.",
+    "synonyms": "result, outcome, effect",
+    "deck": "80 to 130 Booster",
+    "section": "booster-5",
+    "id": "consequence-189"
+  },
+  {
+    "word": "tendency",
+    "ipa": "/ˈtendənsi/",
+    "meaning": "a usual pattern of behavior",
+    "example": "A tendency to overspend.",
+    "synonyms": "inclination, trend, propensity",
+    "deck": "80 to 130 Booster",
+    "section": "booster-5",
+    "id": "tendency-190"
+  },
+  {
+    "word": "perspective",
+    "ipa": "/pərˈspektɪv/",
+    "meaning": "a point of view",
+    "example": "From a global perspective.",
+    "synonyms": "viewpoint, outlook, angle",
+    "deck": "80 to 130 Booster",
+    "section": "booster-5",
+    "id": "perspective-191"
+  },
+  {
+    "word": "principle",
+    "ipa": "/ˈprɪnsəpl/",
+    "meaning": "a basic rule or belief",
+    "example": "Honesty is a core principle.",
+    "synonyms": "rule, doctrine, standard",
+    "deck": "80 to 130 Booster",
+    "section": "booster-5",
+    "id": "principle-192"
+  },
+  {
+    "word": "aspect",
+    "ipa": "/ˈæspekt/",
+    "meaning": "one part of something",
+    "example": "Consider every aspect.",
+    "synonyms": "feature, facet, element",
+    "deck": "80 to 130 Booster",
+    "section": "booster-5",
+    "id": "aspect-193"
+  },
+  {
+    "word": "obstacle",
+    "ipa": "/ˈɑːbstəkl/",
+    "meaning": "something blocking progress",
+    "example": "Fear is the biggest obstacle.",
+    "synonyms": "barrier, hurdle, hindrance",
+    "deck": "80 to 130 Booster",
+    "section": "booster-5",
+    "id": "obstacle-194"
+  },
+  {
+    "word": "outcome",
+    "ipa": "/ˈaʊtkʌm/",
+    "meaning": "a final result",
+    "example": "The outcome was positive.",
+    "synonyms": "result, conclusion, upshot",
+    "deck": "80 to 130 Booster",
+    "section": "booster-5",
+    "id": "outcome-195"
+  },
+  {
+    "word": "phenomenon",
+    "ipa": "/fəˈnɑːmɪnən/",
+    "meaning": "an observable event",
+    "example": "A natural phenomenon.",
+    "synonyms": "occurrence, event, marvel",
+    "deck": "80 to 130 Booster",
+    "section": "booster-5",
+    "id": "phenomenon-196"
+  },
+  {
+    "word": "criterion",
+    "ipa": "/kraɪˈtɪriən/",
+    "meaning": "a standard for judging",
+    "example": "Price is one criterion.",
+    "synonyms": "standard, benchmark, measure",
+    "deck": "80 to 130 Booster",
+    "section": "booster-5",
+    "id": "criterion-197"
+  },
+  {
+    "word": "significance",
+    "ipa": "/sɪɡˈnɪfɪkəns/",
+    "meaning": "importance",
+    "example": "The significance of the find.",
+    "synonyms": "importance, meaning, weight",
+    "deck": "80 to 130 Booster",
+    "section": "booster-5",
+    "id": "significance-198"
+  },
+  {
+    "word": "alternative",
+    "ipa": "/ɔːlˈtɜːrnətɪv/",
+    "meaning": "another option",
+    "example": "Is there an alternative?",
+    "synonyms": "option, substitute, choice",
+    "deck": "80 to 130 Booster",
+    "section": "booster-5",
+    "id": "alternative-199"
+  },
+  {
+    "word": "draw a conclusion",
+    "ipa": "",
+    "meaning": "to reach a conclusion",
+    "example": "We can draw a conclusion from this.",
+    "synonyms": "",
+    "deck": "80 to 130 Booster",
+    "section": "booster-6",
+    "id": "draw-a-conclusion-200"
+  },
+  {
+    "word": "play a role",
+    "ipa": "",
+    "meaning": "to have an effect",
+    "example": "Diet plays a role in health.",
+    "synonyms": "",
+    "deck": "80 to 130 Booster",
+    "section": "booster-6",
+    "id": "play-a-role-201"
+  },
+  {
+    "word": "make progress",
+    "ipa": "",
+    "meaning": "to advance",
+    "example": "She made significant progress.",
+    "synonyms": "",
+    "deck": "80 to 130 Booster",
+    "section": "booster-6",
+    "id": "make-progress-202"
+  },
+  {
+    "word": "pose a threat",
+    "ipa": "",
+    "meaning": "to be a danger",
+    "example": "Pollution poses a threat to wildlife.",
+    "synonyms": "",
+    "deck": "80 to 130 Booster",
+    "section": "booster-6",
+    "id": "pose-a-threat-203"
+  },
+  {
+    "word": "meet a deadline",
+    "ipa": "",
+    "meaning": "to finish on time",
+    "example": "We must meet the deadline.",
+    "synonyms": "",
+    "deck": "80 to 130 Booster",
+    "section": "booster-6",
+    "id": "meet-a-deadline-204"
+  },
+  {
+    "word": "raise awareness",
+    "ipa": "",
+    "meaning": "to inform people",
+    "example": "The campaign raises awareness.",
+    "synonyms": "",
+    "deck": "80 to 130 Booster",
+    "section": "booster-6",
+    "id": "raise-awareness-205"
+  },
+  {
+    "word": "take into account",
+    "ipa": "",
+    "meaning": "to consider",
+    "example": "Take into account the costs.",
+    "synonyms": "",
+    "deck": "80 to 130 Booster",
+    "section": "booster-6",
+    "id": "take-into-account-206"
+  },
+  {
+    "word": "have an impact on",
+    "ipa": "",
+    "meaning": "to affect",
+    "example": "Sleep has an impact on mood.",
+    "synonyms": "",
+    "deck": "80 to 130 Booster",
+    "section": "booster-6",
+    "id": "have-an-impact-on-207"
+  },
+  {
+    "word": "reach a consensus",
+    "ipa": "",
+    "meaning": "to agree",
+    "example": "They reached a consensus.",
+    "synonyms": "",
+    "deck": "80 to 130 Booster",
+    "section": "booster-6",
+    "id": "reach-a-consensus-208"
+  },
+  {
+    "word": "address an issue",
+    "ipa": "",
+    "meaning": "to deal with a problem",
+    "example": "We must address the issue now.",
+    "synonyms": "",
+    "deck": "80 to 130 Booster",
+    "section": "booster-6",
+    "id": "address-an-issue-209"
+  },
+  {
+    "word": "bear in mind",
+    "ipa": "",
+    "meaning": "to remember / consider",
+    "example": "Bear in mind the risks.",
+    "synonyms": "",
+    "deck": "80 to 130 Booster",
+    "section": "booster-6",
+    "id": "bear-in-mind-210"
+  },
+  {
+    "word": "gain insight into",
+    "ipa": "",
+    "meaning": "to understand better",
+    "example": "We gained insight into the cause.",
+    "synonyms": "",
+    "deck": "80 to 130 Booster",
+    "section": "booster-6",
+    "id": "gain-insight-into-211"
+  },
+  {
+    "word": "set a precedent",
+    "ipa": "",
+    "meaning": "to create an example",
+    "example": "The case set a precedent.",
+    "synonyms": "",
+    "deck": "80 to 130 Booster",
+    "section": "booster-6",
+    "id": "set-a-precedent-212"
+  },
+  {
+    "word": "strike a balance",
+    "ipa": "",
+    "meaning": "to find a fair middle",
+    "example": "Strike a balance between work and rest.",
+    "synonyms": "",
+    "deck": "80 to 130 Booster",
+    "section": "booster-6",
+    "id": "strike-a-balance-213"
+  },
+  {
+    "word": "shed light on",
+    "ipa": "",
+    "meaning": "to clarify",
+    "example": "The study sheds light on the issue.",
+    "synonyms": "",
+    "deck": "80 to 130 Booster",
+    "section": "booster-6",
+    "id": "shed-light-on-214"
+  },
+  {
+    "word": "analyze",
+    "ipa": "/ˈænəˌlaɪz/",
+    "meaning": "분석하다",
+    "example": "Scientists analyze data to find patterns.",
+    "synonyms": "examine, study, investigate",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "analyze-215"
+  },
+  {
+    "word": "approach",
+    "ipa": "/əˈproʊtʃ/",
+    "meaning": "접근 방법; 접근하다",
+    "example": "We need a new approach to solve this problem.",
+    "synonyms": "method, strategy, technique",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "approach-216"
+  },
+  {
+    "word": "area",
+    "ipa": "/ˈɛriːə/",
+    "meaning": "영역, 분야",
+    "example": "She works in the area of public health.",
+    "synonyms": "region, field, domain",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "area-217"
+  },
+  {
+    "word": "assess",
+    "ipa": "/əˈsɛs/",
+    "meaning": "평가하다",
+    "example": "Teachers assess students through tests.",
+    "synonyms": "evaluate, appraise, measure",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "assess-218"
+  },
+  {
+    "word": "assume",
+    "ipa": "/əˈsuːm/",
+    "meaning": "가정하다, 추정하다",
+    "example": "Don't assume everyone agrees with you.",
+    "synonyms": "presume, suppose, take for granted",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "assume-219"
+  },
+  {
+    "word": "authority",
+    "ipa": "/əˈθɔrətiː/",
+    "meaning": "권위, 권한",
+    "example": "The government has authority over taxation.",
+    "synonyms": "power, jurisdiction, control",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "authority-220"
+  },
+  {
+    "word": "available",
+    "ipa": "/əˈveɪləbəl/",
+    "meaning": "이용 가능한",
+    "example": "Fresh water is not always available.",
+    "synonyms": "accessible, obtainable, at hand",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "available-221"
+  },
+  {
+    "word": "benefit",
+    "ipa": "/ˈbɛnəfɪt/",
+    "meaning": "혜택, 이득",
+    "example": "Exercise has many health benefits.",
+    "synonyms": "advantage, gain, profit",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "benefit-222"
+  },
+  {
+    "word": "concept",
+    "ipa": "/ˈkɑnsɛpt/",
+    "meaning": "개념",
+    "example": "The concept of justice varies across cultures.",
+    "synonyms": "idea, notion, principle",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "concept-223"
+  },
+  {
+    "word": "consist",
+    "ipa": "/kənˈsɪst/",
+    "meaning": "구성되다 (of)",
+    "example": "The team consists of ten members.",
+    "synonyms": "comprise, be made up of, contain",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "consist-224"
+  },
+  {
+    "word": "context",
+    "ipa": "/ˈkɑntɛkst/",
+    "meaning": "맥락, 상황",
+    "example": "Understand words in context.",
+    "synonyms": "background, setting, circumstances",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "context-225"
+  },
+  {
+    "word": "contract",
+    "ipa": "/ˈkɑnˌtrækt/",
+    "meaning": "계약(서)",
+    "example": "She signed a two-year contract.",
+    "synonyms": "agreement, deal, treaty",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "contract-226"
+  },
+  {
+    "word": "create",
+    "ipa": "/kriːˈeɪt/",
+    "meaning": "창조하다, 만들다",
+    "example": "Artists create works of beauty.",
+    "synonyms": "make, produce, generate",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "create-227"
+  },
+  {
+    "word": "data",
+    "ipa": "/ˈdeɪtə/",
+    "meaning": "데이터, 자료",
+    "example": "The data shows a rising trend.",
+    "synonyms": "facts, figures, statistics",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "data-228"
+  },
+  {
+    "word": "define",
+    "ipa": "/dɪˈfaɪn/",
+    "meaning": "정의하다",
+    "example": "Define the term before using it.",
+    "synonyms": "explain, describe, specify",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "define-229"
+  },
+  {
+    "word": "derive",
+    "ipa": "/dərˈaɪv/",
+    "meaning": "유래하다; 끌어내다",
+    "example": "Many English words derive from Latin.",
+    "synonyms": "obtain, get, originate",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "derive-230"
+  },
+  {
+    "word": "distribute",
+    "ipa": "/dɪˈstrɪbjuːt/",
+    "meaning": "분배하다, 배포하다",
+    "example": "The organization distributes food to refugees.",
+    "synonyms": "spread, deliver, allocate",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "distribute-231"
+  },
+  {
+    "word": "economy",
+    "ipa": "/ɪˈkɑnəmiː/",
+    "meaning": "경제",
+    "example": "The economy grew by three percent.",
+    "synonyms": "financial system, trade, commerce",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "economy-232"
+  },
+  {
+    "word": "environment",
+    "ipa": "/ɪnˈvaɪrənmənt/",
+    "meaning": "환경",
+    "example": "We must protect the environment.",
+    "synonyms": "surroundings, habitat, ecosystem",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "environment-233"
+  },
+  {
+    "word": "establish",
+    "ipa": "/ɪˈstæblɪʃ/",
+    "meaning": "설립하다, 확립하다",
+    "example": "They established a new company.",
+    "synonyms": "found, set up, create",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "establish-234"
+  },
+  {
+    "word": "estimate",
+    "ipa": "/ˈɛstəmət/",
+    "meaning": "추정하다; 추정치",
+    "example": "Experts estimate the cost at millions.",
+    "synonyms": "calculate, approximate, gauge",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "estimate-235"
+  },
+  {
+    "word": "evidence",
+    "ipa": "/ˈɛvədəns/",
+    "meaning": "증거",
+    "example": "The evidence supports his claim.",
+    "synonyms": "proof, data, indication",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "evidence-236"
+  },
+  {
+    "word": "export",
+    "ipa": "/ˈɛkspɔrt/",
+    "meaning": "수출하다; 수출품",
+    "example": "Japan exports cars worldwide.",
+    "synonyms": "sell abroad, ship out, trade",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "export-237"
+  },
+  {
+    "word": "factor",
+    "ipa": "/ˈfæktər/",
+    "meaning": "요인, 요소",
+    "example": "Diet is a key factor in health.",
+    "synonyms": "element, component, aspect",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "factor-238"
+  },
+  {
+    "word": "finance",
+    "ipa": "/fəˈnæns/",
+    "meaning": "재정, 금융",
+    "example": "She works in corporate finance.",
+    "synonyms": "funding, investment, economics",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "finance-239"
+  },
+  {
+    "word": "formula",
+    "ipa": "/ˈfɔrmjələ/",
+    "meaning": "공식, 수식",
+    "example": "The formula for water is H₂O.",
+    "synonyms": "equation, rule, expression",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "formula-240"
+  },
+  {
+    "word": "function",
+    "ipa": "/ˈfʌŋkʃən/",
+    "meaning": "기능, 역할",
+    "example": "The function of a heart is to pump blood.",
+    "synonyms": "purpose, role, task",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "function-241"
+  },
+  {
+    "word": "identify",
+    "ipa": "/aɪˈdɛntəˌfaɪ/",
+    "meaning": "확인하다, 파악하다",
+    "example": "Can you identify the problem?",
+    "synonyms": "recognize, pinpoint, determine",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "identify-242"
+  },
+  {
+    "word": "income",
+    "ipa": "/ˈɪnˌkʌm/",
+    "meaning": "수입, 소득",
+    "example": "Her income doubled last year.",
+    "synonyms": "earnings, revenue, salary",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "income-243"
+  },
+  {
+    "word": "indicate",
+    "ipa": "/ˈɪndəˌkeɪt/",
+    "meaning": "나타내다, 가리키다",
+    "example": "Results indicate a positive trend.",
+    "synonyms": "show, signal, suggest",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "indicate-244"
+  },
+  {
+    "word": "individual",
+    "ipa": "/ˌɪndəˈvɪdʒəwəl/",
+    "meaning": "개인; 개별적인",
+    "example": "Each individual has unique needs.",
+    "synonyms": "person, single entity, unit",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "individual-245"
+  },
+  {
+    "word": "interpret",
+    "ipa": "/ˌɪnˈtɜːrprət/",
+    "meaning": "해석하다",
+    "example": "How do you interpret this poem?",
+    "synonyms": "explain, construe, understand",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "interpret-246"
+  },
+  {
+    "word": "involve",
+    "ipa": "/ˌɪnˈvɑlv/",
+    "meaning": "포함하다, 관련시키다",
+    "example": "The project involves many people.",
+    "synonyms": "include, entail, require",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "involve-247"
+  },
+  {
+    "word": "issue",
+    "ipa": "/ˈɪʃuː/",
+    "meaning": "문제, 쟁점",
+    "example": "Climate change is a major issue.",
+    "synonyms": "problem, matter, concern",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "issue-248"
+  },
+  {
+    "word": "labor",
+    "ipa": "/ˈleɪbər/",
+    "meaning": "노동; 수고",
+    "example": "Manual labor is demanding.",
+    "synonyms": "work, toil, effort",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "labor-249"
+  },
+  {
+    "word": "legal",
+    "ipa": "/ˈliːɡəl/",
+    "meaning": "법적인, 합법적인",
+    "example": "Get legal advice before signing.",
+    "synonyms": "lawful, legitimate, judicial",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "legal-250"
+  },
+  {
+    "word": "legislate",
+    "ipa": "/ˈlɛdʒɪˌsleɪt/",
+    "meaning": "법률을 제정하다",
+    "example": "Parliament legislates on taxation.",
+    "synonyms": "enact laws, pass legislation",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "legislate-251"
+  },
+  {
+    "word": "major",
+    "ipa": "/ˈmeɪdʒər/",
+    "meaning": "중요한, 주요한",
+    "example": "This is a major breakthrough.",
+    "synonyms": "significant, important, key",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "major-252"
+  },
+  {
+    "word": "method",
+    "ipa": "/ˈmɛθəd/",
+    "meaning": "방법, 방식",
+    "example": "What method do you use?",
+    "synonyms": "procedure, technique, approach",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "method-253"
+  },
+  {
+    "word": "occur",
+    "ipa": "/əˈkɜːr/",
+    "meaning": "발생하다, 일어나다",
+    "example": "Earthquakes occur without warning.",
+    "synonyms": "happen, take place, arise",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "occur-254"
+  },
+  {
+    "word": "percent",
+    "ipa": "/pərˈsɛnt/",
+    "meaning": "퍼센트, 백분율",
+    "example": "Fifty percent voted in favor.",
+    "synonyms": "proportion, fraction, rate",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "percent-255"
+  },
+  {
+    "word": "period",
+    "ipa": "/ˈpɪriːəd/",
+    "meaning": "기간, 시기",
+    "example": "A long period of silence followed.",
+    "synonyms": "time, span, duration, phase",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "period-256"
+  },
+  {
+    "word": "policy",
+    "ipa": "/ˈpɑləsiː/",
+    "meaning": "정책, 방침",
+    "example": "The company has a strict safety policy.",
+    "synonyms": "plan, strategy, guidelines",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "policy-257"
+  },
+  {
+    "word": "principle",
+    "ipa": "/ˈprɪnsəpəl/",
+    "meaning": "원칙, 원리",
+    "example": "Follow the principle of fairness.",
+    "synonyms": "rule, standard, guideline",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "principle-258"
+  },
+  {
+    "word": "procedure",
+    "ipa": "/prəˈsiːdʒər/",
+    "meaning": "절차, 과정",
+    "example": "Follow the correct procedure.",
+    "synonyms": "process, method, protocol",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "procedure-259"
+  },
+  {
+    "word": "process",
+    "ipa": "/ˈprɑˌsɛs/",
+    "meaning": "과정; 처리하다",
+    "example": "Learning is a gradual process.",
+    "synonyms": "procedure, series of steps, operation",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "process-260"
+  },
+  {
+    "word": "require",
+    "ipa": "/ˌriːˈkwaɪər/",
+    "meaning": "요구하다, 필요로 하다",
+    "example": "This job requires experience.",
+    "synonyms": "need, demand, call for",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "require-261"
+  },
+  {
+    "word": "research",
+    "ipa": "/riːˈsɜːrtʃ/",
+    "meaning": "연구, 조사",
+    "example": "Research shows that sleep is vital.",
+    "synonyms": "investigation, study, inquiry",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "research-262"
+  },
+  {
+    "word": "respond",
+    "ipa": "/rɪˈspɑnd/",
+    "meaning": "반응하다, 응답하다",
+    "example": "Please respond to my email.",
+    "synonyms": "reply, answer, react",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "respond-263"
+  },
+  {
+    "word": "role",
+    "ipa": "/ˈroʊl/",
+    "meaning": "역할",
+    "example": "Education plays a key role.",
+    "synonyms": "function, part, position",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "role-264"
+  },
+  {
+    "word": "section",
+    "ipa": "/ˈsɛkʃən/",
+    "meaning": "부분, 구역",
+    "example": "Read the first section carefully.",
+    "synonyms": "part, portion, division",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "section-265"
+  },
+  {
+    "word": "significant",
+    "ipa": "/səɡˈnɪfɪkənt/",
+    "meaning": "중요한, 상당한",
+    "example": "There was a significant improvement.",
+    "synonyms": "important, notable, meaningful",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "significant-266"
+  },
+  {
+    "word": "similar",
+    "ipa": "/ˈsɪmələr/",
+    "meaning": "비슷한, 유사한",
+    "example": "The two results are similar.",
+    "synonyms": "alike, comparable, resembling",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "similar-267"
+  },
+  {
+    "word": "source",
+    "ipa": "/ˈsɔrs/",
+    "meaning": "출처, 근원",
+    "example": "What is the source of this information?",
+    "synonyms": "origin, root, basis",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "source-268"
+  },
+  {
+    "word": "specific",
+    "ipa": "/spəˈsɪfɪk/",
+    "meaning": "구체적인, 특정한",
+    "example": "Be specific about what you need.",
+    "synonyms": "particular, precise, exact",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "specific-269"
+  },
+  {
+    "word": "structure",
+    "ipa": "/ˈstrʌktʃər/",
+    "meaning": "구조, 체계",
+    "example": "The sentence structure is complex.",
+    "synonyms": "organization, arrangement, framework",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "structure-270"
+  },
+  {
+    "word": "theory",
+    "ipa": "/ˈθɪriː/",
+    "meaning": "이론",
+    "example": "Darwin's theory of evolution.",
+    "synonyms": "hypothesis, explanation, model",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "theory-271"
+  },
+  {
+    "word": "vary",
+    "ipa": "/ˈvɛriː/",
+    "meaning": "다르다, 변하다",
+    "example": "Prices vary from store to store.",
+    "synonyms": "differ, change, fluctuate",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "vary-272"
+  },
+  {
+    "word": "achieve",
+    "ipa": "/əˈtʃiːv/",
+    "meaning": "달성하다, 성취하다",
+    "example": "Hard work helps you achieve success.",
+    "synonyms": "accomplish, attain, reach",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "achieve-273"
+  },
+  {
+    "word": "acquire",
+    "ipa": "/əˈkwaɪər/",
+    "meaning": "습득하다, 얻다",
+    "example": "She acquired new skills online.",
+    "synonyms": "gain, obtain, get",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "acquire-274"
+  },
+  {
+    "word": "administer",
+    "ipa": "/ədˈmɪnəstər/",
+    "meaning": "관리하다, 운영하다",
+    "example": "Who administers this program?",
+    "synonyms": "manage, run, oversee",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "administer-275"
+  },
+  {
+    "word": "affect",
+    "ipa": "/əˈfɛkt/",
+    "meaning": "영향을 미치다",
+    "example": "Pollution affects our health.",
+    "synonyms": "impact, influence, alter",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "affect-276"
+  },
+  {
+    "word": "appropriate",
+    "ipa": "/əˈproʊpriːət/",
+    "meaning": "적절한",
+    "example": "Wear appropriate clothing.",
+    "synonyms": "suitable, fitting, proper",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "appropriate-277"
+  },
+  {
+    "word": "aspect",
+    "ipa": "/ˈæˌspɛkt/",
+    "meaning": "측면, 양상",
+    "example": "Consider every aspect of the problem.",
+    "synonyms": "feature, element, facet",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "aspect-278"
+  },
+  {
+    "word": "assist",
+    "ipa": "/əˈsɪst/",
+    "meaning": "돕다, 지원하다",
+    "example": "Can you assist me with this?",
+    "synonyms": "help, support, aid",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "assist-279"
+  },
+  {
+    "word": "category",
+    "ipa": "/ˈkætəˌɡɔriː/",
+    "meaning": "범주, 종류",
+    "example": "Sort items into categories.",
+    "synonyms": "class, group, type",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "category-280"
+  },
+  {
+    "word": "chapter",
+    "ipa": "/ˈtʃæptər/",
+    "meaning": "장(章), 단원",
+    "example": "Read chapter three tonight.",
+    "synonyms": "section, part, division",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "chapter-281"
+  },
+  {
+    "word": "commission",
+    "ipa": "/kəˈmɪʃən/",
+    "meaning": "위원회; 위임하다",
+    "example": "A commission was set up to investigate.",
+    "synonyms": "committee, board, authority",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "commission-282"
+  },
+  {
+    "word": "community",
+    "ipa": "/kəˈmjuːnətiː/",
+    "meaning": "공동체, 지역 사회",
+    "example": "The community supported the school.",
+    "synonyms": "group, society, neighborhood",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "community-283"
+  },
+  {
+    "word": "complex",
+    "ipa": "/ˈkɑmplɛks/",
+    "meaning": "복잡한; 복합 단지",
+    "example": "The issue is very complex.",
+    "synonyms": "complicated, intricate, involved",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "complex-284"
+  },
+  {
+    "word": "compute",
+    "ipa": "/kəmˈpjuːt/",
+    "meaning": "계산하다",
+    "example": "Computers compute data quickly.",
+    "synonyms": "calculate, process, figure out",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "compute-285"
+  },
+  {
+    "word": "conclude",
+    "ipa": "/kənˈkluːd/",
+    "meaning": "결론을 내리다; 끝내다",
+    "example": "We can conclude that X is true.",
+    "synonyms": "decide, determine, deduce",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "conclude-286"
+  },
+  {
+    "word": "conduct",
+    "ipa": "/ˈkɑndəkt/",
+    "meaning": "수행하다; 행동",
+    "example": "They conducted an experiment.",
+    "synonyms": "carry out, perform, execute",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "conduct-287"
+  },
+  {
+    "word": "consequent",
+    "ipa": "/ˈkɑnsəkwənt/",
+    "meaning": "결과로 생기는",
+    "example": "The flood and consequent damage were severe.",
+    "synonyms": "resulting, following, ensuing",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "consequent-288"
+  },
+  {
+    "word": "construct",
+    "ipa": "/kənˈstrʌkt/",
+    "meaning": "건설하다, 구성하다",
+    "example": "They constructed a new bridge.",
+    "synonyms": "build, create, make",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "construct-289"
+  },
+  {
+    "word": "consume",
+    "ipa": "/kənˈsuːm/",
+    "meaning": "소비하다",
+    "example": "Cars consume large amounts of fuel.",
+    "synonyms": "use, devour, exhaust",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "consume-290"
+  },
+  {
+    "word": "credit",
+    "ipa": "/ˈkrɛdət/",
+    "meaning": "공로, 신용; 학점",
+    "example": "Give credit where it is due.",
+    "synonyms": "recognition, acknowledgment, praise",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "credit-291"
+  },
+  {
+    "word": "culture",
+    "ipa": "/ˈkʌltʃər/",
+    "meaning": "문화",
+    "example": "Every culture has unique traditions.",
+    "synonyms": "society, civilization, heritage",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "culture-292"
+  },
+  {
+    "word": "design",
+    "ipa": "/dɪˈzaɪn/",
+    "meaning": "설계하다; 디자인",
+    "example": "She designed the new logo.",
+    "synonyms": "plan, create, devise",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "design-293"
+  },
+  {
+    "word": "distinct",
+    "ipa": "/dɪˈstɪŋkt/",
+    "meaning": "뚜렷이 다른, 명확한",
+    "example": "The two concepts are distinct.",
+    "synonyms": "different, separate, unique",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "distinct-294"
+  },
+  {
+    "word": "element",
+    "ipa": "/ˈɛləmənt/",
+    "meaning": "요소, 성분",
+    "example": "Trust is an element of teamwork.",
+    "synonyms": "component, part, ingredient",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "element-295"
+  },
+  {
+    "word": "evaluate",
+    "ipa": "/ɪˈvæljuːˌeɪt/",
+    "meaning": "평가하다",
+    "example": "We need to evaluate the results.",
+    "synonyms": "assess, appraise, judge",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "evaluate-296"
+  },
+  {
+    "word": "feature",
+    "ipa": "/ˈfiːtʃər/",
+    "meaning": "특징, 특성",
+    "example": "A key feature of the plan.",
+    "synonyms": "characteristic, aspect, quality",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "feature-297"
+  },
+  {
+    "word": "final",
+    "ipa": "/ˈfaɪnəl/",
+    "meaning": "최종의, 마지막의",
+    "example": "This is the final stage.",
+    "synonyms": "last, concluding, ultimate",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "final-298"
+  },
+  {
+    "word": "focus",
+    "ipa": "/ˈfoʊkəs/",
+    "meaning": "집중하다; 초점",
+    "example": "Focus on the main idea.",
+    "synonyms": "concentrate, center, direct",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "focus-299"
+  },
+  {
+    "word": "impact",
+    "ipa": "/ˌɪmˈpækt/",
+    "meaning": "영향, 충격",
+    "example": "Technology has a huge impact.",
+    "synonyms": "effect, influence, consequence",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "impact-300"
+  },
+  {
+    "word": "injure",
+    "ipa": "/ˈɪndʒər/",
+    "meaning": "부상을 입히다",
+    "example": "He was injured in an accident.",
+    "synonyms": "harm, hurt, wound",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "injure-301"
+  },
+  {
+    "word": "institute",
+    "ipa": "/ˈɪnstəˌtuːt/",
+    "meaning": "기관; 설립하다",
+    "example": "A research institute was founded.",
+    "synonyms": "organization, establishment, foundation",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "institute-302"
+  },
+  {
+    "word": "invest",
+    "ipa": "/ˌɪnˈvɛst/",
+    "meaning": "투자하다",
+    "example": "She invested in real estate.",
+    "synonyms": "put money in, fund, finance",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "invest-303"
+  },
+  {
+    "word": "item",
+    "ipa": "/ˈaɪtəm/",
+    "meaning": "항목, 물품",
+    "example": "List each item separately.",
+    "synonyms": "thing, object, unit",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "item-304"
+  },
+  {
+    "word": "maintain",
+    "ipa": "/meɪnˈteɪn/",
+    "meaning": "유지하다",
+    "example": "Maintain a healthy lifestyle.",
+    "synonyms": "keep, preserve, sustain",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "maintain-305"
+  },
+  {
+    "word": "normal",
+    "ipa": "/ˈnɔrməl/",
+    "meaning": "정상적인, 보통의",
+    "example": "Normal body temperature is 37°C.",
+    "synonyms": "standard, regular, typical",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "normal-306"
+  },
+  {
+    "word": "obtain",
+    "ipa": "/əbˈteɪn/",
+    "meaning": "얻다, 획득하다",
+    "example": "How did you obtain this?",
+    "synonyms": "get, acquire, gain",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "obtain-307"
+  },
+  {
+    "word": "participate",
+    "ipa": "/pɑrˈtɪsəˌpeɪt/",
+    "meaning": "참가하다",
+    "example": "Participate in the discussion.",
+    "synonyms": "take part, join, engage",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "participate-308"
+  },
+  {
+    "word": "perceive",
+    "ipa": "/pərˈsiːv/",
+    "meaning": "인식하다, 감지하다",
+    "example": "How do you perceive this situation?",
+    "synonyms": "see, sense, recognize",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "perceive-309"
+  },
+  {
+    "word": "positive",
+    "ipa": "/ˈpɑzətɪv/",
+    "meaning": "긍정적인; 확실한",
+    "example": "She has a positive attitude.",
+    "synonyms": "good, optimistic, affirmative",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "positive-310"
+  },
+  {
+    "word": "potential",
+    "ipa": "/pəˈtɛnʃəl/",
+    "meaning": "가능성; 잠재적인",
+    "example": "She has great potential.",
+    "synonyms": "capability, possibility, promise",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "potential-311"
+  },
+  {
+    "word": "previous",
+    "ipa": "/ˈpriːviːəs/",
+    "meaning": "이전의",
+    "example": "My previous job was in banking.",
+    "synonyms": "former, earlier, prior",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "previous-312"
+  },
+  {
+    "word": "primary",
+    "ipa": "/ˈpraɪˌmɛriː/",
+    "meaning": "주요한, 1차적인",
+    "example": "Your primary goal is to pass.",
+    "synonyms": "main, chief, principal",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "primary-313"
+  },
+  {
+    "word": "purchase",
+    "ipa": "/ˈpɜːrtʃəs/",
+    "meaning": "구매하다; 구매",
+    "example": "He purchased a new laptop.",
+    "synonyms": "buy, acquire, obtain",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "purchase-314"
+  },
+  {
+    "word": "range",
+    "ipa": "/ˈreɪndʒ/",
+    "meaning": "범위; 다양한 종류",
+    "example": "A wide range of topics.",
+    "synonyms": "variety, scope, spectrum",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "range-315"
+  },
+  {
+    "word": "region",
+    "ipa": "/ˈriːdʒən/",
+    "meaning": "지역, 지방",
+    "example": "The northern region is cold.",
+    "synonyms": "area, zone, territory",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "region-316"
+  },
+  {
+    "word": "regulate",
+    "ipa": "/ˈrɛɡjəˌleɪt/",
+    "meaning": "규제하다, 조절하다",
+    "example": "The government regulates food safety.",
+    "synonyms": "control, govern, oversee",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "regulate-317"
+  },
+  {
+    "word": "relevant",
+    "ipa": "/ˈrɛləvənt/",
+    "meaning": "관련 있는, 적절한",
+    "example": "Provide relevant examples.",
+    "synonyms": "related, applicable, pertinent",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "relevant-318"
+  },
+  {
+    "word": "reside",
+    "ipa": "/rɪˈzaɪd/",
+    "meaning": "거주하다",
+    "example": "She resides in Tokyo.",
+    "synonyms": "live, dwell, inhabit",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "reside-319"
+  },
+  {
+    "word": "resource",
+    "ipa": "/ˈriːsɔrs/",
+    "meaning": "자원, 재원",
+    "example": "Water is a vital resource.",
+    "synonyms": "asset, supply, reserve",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "resource-320"
+  },
+  {
+    "word": "restrict",
+    "ipa": "/riːˈstrɪkt/",
+    "meaning": "제한하다",
+    "example": "Access is restricted to staff.",
+    "synonyms": "limit, confine, control",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "restrict-321"
+  },
+  {
+    "word": "secure",
+    "ipa": "/sɪˈkjʊr/",
+    "meaning": "안전한; 확보하다",
+    "example": "Make sure the door is secure.",
+    "synonyms": "safe, stable, protected",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "secure-322"
+  },
+  {
+    "word": "seek",
+    "ipa": "/ˈsiːk/",
+    "meaning": "추구하다, 찾다",
+    "example": "She seeks a better opportunity.",
+    "synonyms": "search for, look for, pursue",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "seek-323"
+  },
+  {
+    "word": "select",
+    "ipa": "/səˈlɛkt/",
+    "meaning": "선택하다, 고르다",
+    "example": "Select the best option.",
+    "synonyms": "choose, pick, opt for",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "select-324"
+  },
+  {
+    "word": "site",
+    "ipa": "/ˈsaɪt/",
+    "meaning": "장소, 부지",
+    "example": "The construction site is busy.",
+    "synonyms": "location, place, spot",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "site-325"
+  },
+  {
+    "word": "strategy",
+    "ipa": "/ˈstrætədʒiː/",
+    "meaning": "전략",
+    "example": "The team needs a better strategy.",
+    "synonyms": "plan, approach, method",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "strategy-326"
+  },
+  {
+    "word": "survey",
+    "ipa": "/sərˈveɪ/",
+    "meaning": "조사하다; 설문 조사",
+    "example": "They surveyed public opinion.",
+    "synonyms": "examine, study, investigate",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "survey-327"
+  },
+  {
+    "word": "text",
+    "ipa": "/ˈtɛkst/",
+    "meaning": "글, 문서",
+    "example": "The text is difficult to understand.",
+    "synonyms": "writing, words, content",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "text-328"
+  },
+  {
+    "word": "tradition",
+    "ipa": "/trəˈdɪʃən/",
+    "meaning": "전통, 관습",
+    "example": "Respect cultural traditions.",
+    "synonyms": "custom, practice, convention",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "tradition-329"
+  },
+  {
+    "word": "transfer",
+    "ipa": "/trænˈsfɜːr/",
+    "meaning": "이동하다; 이전",
+    "example": "Transfer the files to the server.",
+    "synonyms": "move, shift, transport",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "transfer-330"
+  },
+  {
+    "word": "alternative",
+    "ipa": "/ɔlˈtɜːrnətɪv/",
+    "meaning": "대안; 대안적인",
+    "example": "Is there an alternative solution?",
+    "synonyms": "option, choice, substitute",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "alternative-331"
+  },
+  {
+    "word": "circumstance",
+    "ipa": "/ˈsɜːrkəmˌstæns/",
+    "meaning": "상황, 환경",
+    "example": "The circumstances were unusual.",
+    "synonyms": "condition, situation, context",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "circumstance-332"
+  },
+  {
+    "word": "comment",
+    "ipa": "/ˈkɑmɛnt/",
+    "meaning": "논평하다; 논평",
+    "example": "Please comment on the proposal.",
+    "synonyms": "remark, note, observation",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "comment-333"
+  },
+  {
+    "word": "compensate",
+    "ipa": "/ˈkɑmpənˌseɪt/",
+    "meaning": "보상하다",
+    "example": "They compensated him for the damage.",
+    "synonyms": "make up for, reimburse, offset",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "compensate-334"
+  },
+  {
+    "word": "component",
+    "ipa": "/kəmˈpoʊnənt/",
+    "meaning": "구성 요소, 부품",
+    "example": "A key component of the system.",
+    "synonyms": "part, element, piece",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "component-335"
+  },
+  {
+    "word": "consent",
+    "ipa": "/kənˈsɛnt/",
+    "meaning": "동의; 동의하다",
+    "example": "You need parental consent.",
+    "synonyms": "permission, agreement, approval",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "consent-336"
+  },
+  {
+    "word": "considerable",
+    "ipa": "/kənˈsɪdərəbəl/",
+    "meaning": "상당한, 많은",
+    "example": "There was considerable resistance.",
+    "synonyms": "significant, substantial, sizeable",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "considerable-337"
+  },
+  {
+    "word": "constant",
+    "ipa": "/ˈkɑnstənt/",
+    "meaning": "일정한, 지속적인",
+    "example": "The noise was constant.",
+    "synonyms": "continuous, unchanging, steady",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "constant-338"
+  },
+  {
+    "word": "constrain",
+    "ipa": "/kənˈstreɪn/",
+    "meaning": "제약하다, 억제하다",
+    "example": "Budget limits constrained our options.",
+    "synonyms": "limit, restrict, confine",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "constrain-339"
+  },
+  {
+    "word": "contribute",
+    "ipa": "/kənˈtrɪbjuːt/",
+    "meaning": "기여하다, 공헌하다",
+    "example": "She contributed ideas to the project.",
+    "synonyms": "give, add, donate",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "contribute-340"
+  },
+  {
+    "word": "convene",
+    "ipa": "/kənˈviːn/",
+    "meaning": "소집하다, 소집되다",
+    "example": "A committee was convened.",
+    "synonyms": "assemble, gather, meet",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "convene-341"
+  },
+  {
+    "word": "coordinate",
+    "ipa": "/koʊˈɔrdənət/",
+    "meaning": "조율하다, 조정하다",
+    "example": "Coordinate efforts across teams.",
+    "synonyms": "organize, harmonize, align",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "coordinate-342"
+  },
+  {
+    "word": "core",
+    "ipa": "/ˈkɔr/",
+    "meaning": "핵심, 중심",
+    "example": "The core of the argument is simple.",
+    "synonyms": "center, heart, essence",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "core-343"
+  },
+  {
+    "word": "corporate",
+    "ipa": "/ˈkɔrpərət/",
+    "meaning": "기업의, 법인의",
+    "example": "Corporate culture matters.",
+    "synonyms": "business, company, organizational",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "corporate-344"
+  },
+  {
+    "word": "correspond",
+    "ipa": "/ˌkɔrəˈspɑnd/",
+    "meaning": "일치하다; 서신을 주고받다",
+    "example": "The results correspond to expectations.",
+    "synonyms": "match, agree, align",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "correspond-345"
+  },
+  {
+    "word": "criteria",
+    "ipa": "/kraɪˈtɪriːə/",
+    "meaning": "기준 (criterion의 복수)",
+    "example": "What criteria do you use?",
+    "synonyms": "standards, measures, requirements",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "criteria-346"
+  },
+  {
+    "word": "deduce",
+    "ipa": "/dɪˈduːs/",
+    "meaning": "추론하다, 추리하다",
+    "example": "We can deduce the answer from clues.",
+    "synonyms": "conclude, infer, reason",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "deduce-347"
+  },
+  {
+    "word": "demonstrate",
+    "ipa": "/ˈdɛmənˌstreɪt/",
+    "meaning": "입증하다, 시연하다",
+    "example": "Demonstrate how it works.",
+    "synonyms": "show, prove, display",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "demonstrate-348"
+  },
+  {
+    "word": "document",
+    "ipa": "/ˈdɑkjəmɛnt/",
+    "meaning": "기록하다; 문서",
+    "example": "Document all your findings.",
+    "synonyms": "record, write down, report",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "document-349"
+  },
+  {
+    "word": "dominate",
+    "ipa": "/ˈdɑməˌneɪt/",
+    "meaning": "지배하다",
+    "example": "One company dominates the market.",
+    "synonyms": "control, rule, govern",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "dominate-350"
+  },
+  {
+    "word": "emphasis",
+    "ipa": "/ˈɛmfəsəs/",
+    "meaning": "강조, 중점",
+    "example": "Place emphasis on safety.",
+    "synonyms": "stress, importance, weight",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "emphasis-351"
+  },
+  {
+    "word": "ensure",
+    "ipa": "/ɛnˈʃʊr/",
+    "meaning": "확실히 하다, 보장하다",
+    "example": "Ensure all doors are locked.",
+    "synonyms": "make sure, guarantee, secure",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "ensure-352"
+  },
+  {
+    "word": "exclude",
+    "ipa": "/ɪksˈkluːd/",
+    "meaning": "제외하다, 배제하다",
+    "example": "Exclude irrelevant information.",
+    "synonyms": "leave out, omit, ban",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "exclude-353"
+  },
+  {
+    "word": "framework",
+    "ipa": "/ˈfreɪmˌwɜːrk/",
+    "meaning": "틀, 체계, 구조",
+    "example": "Work within the legal framework.",
+    "synonyms": "structure, system, outline",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "framework-354"
+  },
+  {
+    "word": "fund",
+    "ipa": "/ˈfʌnd/",
+    "meaning": "자금을 지원하다; 자금",
+    "example": "The grant funds research.",
+    "synonyms": "finance, sponsor, support",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "fund-355"
+  },
+  {
+    "word": "illustrate",
+    "ipa": "/ˈɪləˌstreɪt/",
+    "meaning": "설명하다; 삽화를 넣다",
+    "example": "Illustrate your point with examples.",
+    "synonyms": "show, explain, demonstrate",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "illustrate-356"
+  },
+  {
+    "word": "immigrate",
+    "ipa": "/ˈɪməˌɡreɪt/",
+    "meaning": "이민 오다",
+    "example": "Many people immigrate for work.",
+    "synonyms": "move in, settle, relocate",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "immigrate-357"
+  },
+  {
+    "word": "imply",
+    "ipa": "/ˌɪmˈplaɪ/",
+    "meaning": "암시하다, 내포하다",
+    "example": "His silence implies agreement.",
+    "synonyms": "suggest, hint, indicate",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "imply-358"
+  },
+  {
+    "word": "initial",
+    "ipa": "/ˌɪˈnɪʃəl/",
+    "meaning": "초기의, 처음의",
+    "example": "My initial reaction was surprise.",
+    "synonyms": "first, early, beginning",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "initial-359"
+  },
+  {
+    "word": "instance",
+    "ipa": "/ˈɪnstəns/",
+    "meaning": "사례, 경우",
+    "example": "In this instance, rules apply.",
+    "synonyms": "example, case, occurrence",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "instance-360"
+  },
+  {
+    "word": "interact",
+    "ipa": "/ˌɪntərˈækt/",
+    "meaning": "상호 작용하다",
+    "example": "Students interact with peers daily.",
+    "synonyms": "communicate, engage, connect",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "interact-361"
+  },
+  {
+    "word": "justify",
+    "ipa": "/ˈdʒʌstəˌfaɪ/",
+    "meaning": "정당화하다",
+    "example": "How do you justify this expense?",
+    "synonyms": "explain, defend, rationalize",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "justify-362"
+  },
+  {
+    "word": "layer",
+    "ipa": "/ˈleɪər/",
+    "meaning": "층, 겹",
+    "example": "Add another layer of paint.",
+    "synonyms": "level, stratum, coating",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "layer-363"
+  },
+  {
+    "word": "link",
+    "ipa": "/ˈlɪŋk/",
+    "meaning": "연결하다; 연결",
+    "example": "These events are closely linked.",
+    "synonyms": "connect, join, relate",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "link-364"
+  },
+  {
+    "word": "locate",
+    "ipa": "/ˈloʊˌkeɪt/",
+    "meaning": "위치를 찾다; ~에 위치하다",
+    "example": "We need to locate the file.",
+    "synonyms": "find, position, place",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "locate-365"
+  },
+  {
+    "word": "maximum",
+    "ipa": "/ˈmæksəməm/",
+    "meaning": "최대(값); 최대의",
+    "example": "Reach your maximum potential.",
+    "synonyms": "greatest, highest, peak",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "maximum-366"
+  },
+  {
+    "word": "mechanism",
+    "ipa": "/ˈmɛkəˌnɪzəm/",
+    "meaning": "메커니즘, 작동 원리",
+    "example": "What mechanism drives this?",
+    "synonyms": "system, process, device",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "mechanism-367"
+  },
+  {
+    "word": "media",
+    "ipa": "/ˈmiːdiːə/",
+    "meaning": "언론, 미디어",
+    "example": "The media reported the story.",
+    "synonyms": "press, broadcast, news",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "media-368"
+  },
+  {
+    "word": "minimum",
+    "ipa": "/ˈmɪnəməm/",
+    "meaning": "최소(값); 최소의",
+    "example": "Keep the cost to a minimum.",
+    "synonyms": "least, lowest, smallest",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "minimum-369"
+  },
+  {
+    "word": "monitor",
+    "ipa": "/ˈmɑnətər/",
+    "meaning": "감시하다, 추적하다",
+    "example": "Monitor your progress carefully.",
+    "synonyms": "observe, watch, track",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "monitor-370"
+  },
+  {
+    "word": "motive",
+    "ipa": "/ˈmoʊtɪv/",
+    "meaning": "동기, 이유",
+    "example": "What was his motive?",
+    "synonyms": "reason, purpose, aim",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "motive-371"
+  },
+  {
+    "word": "neutral",
+    "ipa": "/ˈnuːtrəl/",
+    "meaning": "중립적인",
+    "example": "Stay neutral in the dispute.",
+    "synonyms": "impartial, unbiased, objective",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "neutral-372"
+  },
+  {
+    "word": "nevertheless",
+    "ipa": "/ˌnɛvərðəˈlɛs/",
+    "meaning": "그럼에도 불구하고",
+    "example": "He failed; nevertheless, he tried.",
+    "synonyms": "however, yet, still",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "nevertheless-373"
+  },
+  {
+    "word": "obvious",
+    "ipa": "/ˈɑbviːəs/",
+    "meaning": "명백한, 분명한",
+    "example": "The answer is obvious.",
+    "synonyms": "clear, evident, apparent",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "obvious-374"
+  },
+  {
+    "word": "occupy",
+    "ipa": "/ˈɑkjəˌpaɪ/",
+    "meaning": "차지하다; 거주하다",
+    "example": "They occupy the top floor.",
+    "synonyms": "inhabit, fill, use",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "occupy-375"
+  },
+  {
+    "word": "option",
+    "ipa": "/ˈɑpʃən/",
+    "meaning": "선택(지)",
+    "example": "You have several options.",
+    "synonyms": "choice, alternative, possibility",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "option-376"
+  },
+  {
+    "word": "output",
+    "ipa": "/ˈaʊtˌpʊt/",
+    "meaning": "산출량, 결과물",
+    "example": "Increase the factory's output.",
+    "synonyms": "production, yield, result",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "output-377"
+  },
+  {
+    "word": "overall",
+    "ipa": "/ˈoʊvərˌɔl/",
+    "meaning": "전반적인, 종합적인",
+    "example": "The overall result is positive.",
+    "synonyms": "total, general, comprehensive",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "overall-378"
+  },
+  {
+    "word": "parallel",
+    "ipa": "/ˈpɛrəˌlɛl/",
+    "meaning": "평행한; 유사한",
+    "example": "There are parallel developments.",
+    "synonyms": "simultaneous, corresponding, similar",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "parallel-379"
+  },
+  {
+    "word": "parameter",
+    "ipa": "/pərˈæmətər/",
+    "meaning": "매개변수; 한계",
+    "example": "Work within the set parameters.",
+    "synonyms": "limit, boundary, variable",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "parameter-380"
+  },
+  {
+    "word": "phase",
+    "ipa": "/ˈfeɪz/",
+    "meaning": "단계, 국면",
+    "example": "We are in the planning phase.",
+    "synonyms": "stage, period, step",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "phase-381"
+  },
+  {
+    "word": "predict",
+    "ipa": "/prɪˈdɪkt/",
+    "meaning": "예측하다",
+    "example": "Can you predict the outcome?",
+    "synonyms": "forecast, foresee, anticipate",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "predict-382"
+  },
+  {
+    "word": "prior",
+    "ipa": "/ˈpraɪər/",
+    "meaning": "이전의, 우선의",
+    "example": "Prior knowledge helps learning.",
+    "synonyms": "earlier, former, previous",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "prior-383"
+  },
+  {
+    "word": "professional",
+    "ipa": "/prəˈfɛʃənəl/",
+    "meaning": "전문적인; 전문가",
+    "example": "She gave professional advice.",
+    "synonyms": "skilled, expert, qualified",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "professional-384"
+  },
+  {
+    "word": "project",
+    "ipa": "/ˈprɑdʒɛkt/",
+    "meaning": "프로젝트; 예측하다",
+    "example": "We finished the project on time.",
+    "synonyms": "task, assignment, undertaking",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "project-385"
+  },
+  {
+    "word": "promote",
+    "ipa": "/prəˈmoʊt/",
+    "meaning": "촉진하다; 홍보하다",
+    "example": "Promote healthy habits.",
+    "synonyms": "support, advance, encourage",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "promote-386"
+  },
+  {
+    "word": "proportion",
+    "ipa": "/prəˈpɔrʃən/",
+    "meaning": "비율, 비중",
+    "example": "A large proportion of students passed.",
+    "synonyms": "fraction, ratio, share",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "proportion-387"
+  },
+  {
+    "word": "publish",
+    "ipa": "/ˈpʌblɪʃ/",
+    "meaning": "출판하다, 발표하다",
+    "example": "She published her findings.",
+    "synonyms": "release, issue, print",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "publish-388"
+  },
+  {
+    "word": "react",
+    "ipa": "/riːˈækt/",
+    "meaning": "반응하다",
+    "example": "How did you react to the news?",
+    "synonyms": "respond, act, reply",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "react-389"
+  },
+  {
+    "word": "register",
+    "ipa": "/ˈrɛdʒɪstər/",
+    "meaning": "등록하다; 등록부",
+    "example": "Register your name on the list.",
+    "synonyms": "record, enroll, note",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "register-390"
+  },
+  {
+    "word": "rely",
+    "ipa": "/rɪˈlaɪ/",
+    "meaning": "의존하다, 믿다",
+    "example": "You can rely on this system.",
+    "synonyms": "depend on, count on, trust",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "rely-391"
+  },
+  {
+    "word": "remove",
+    "ipa": "/riːˈmuːv/",
+    "meaning": "제거하다",
+    "example": "Remove the excess data.",
+    "synonyms": "eliminate, take away, delete",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "remove-392"
+  },
+  {
+    "word": "scheme",
+    "ipa": "/ˈskiːm/",
+    "meaning": "계획, 제도",
+    "example": "A new payment scheme was introduced.",
+    "synonyms": "plan, system, program",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "scheme-393"
+  },
+  {
+    "word": "sequence",
+    "ipa": "/ˈsiːkwəns/",
+    "meaning": "순서, 연속",
+    "example": "Follow the correct sequence.",
+    "synonyms": "order, series, succession",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "sequence-394"
+  },
+  {
+    "word": "shift",
+    "ipa": "/ˈʃɪft/",
+    "meaning": "변화; 이동하다",
+    "example": "There has been a shift in policy.",
+    "synonyms": "change, move, transfer",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "shift-395"
+  },
+  {
+    "word": "specify",
+    "ipa": "/ˈspɛsəˌfaɪ/",
+    "meaning": "명시하다, 구체적으로 말하다",
+    "example": "Please specify the requirements.",
+    "synonyms": "state, define, detail",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "specify-396"
+  },
+  {
+    "word": "sufficient",
+    "ipa": "/səˈfɪʃənt/",
+    "meaning": "충분한",
+    "example": "Is there sufficient evidence?",
+    "synonyms": "enough, adequate, ample",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "sufficient-397"
+  },
+  {
+    "word": "task",
+    "ipa": "/ˈtæsk/",
+    "meaning": "과제, 업무",
+    "example": "Complete the task on time.",
+    "synonyms": "job, assignment, duty",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "task-398"
+  },
+  {
+    "word": "technical",
+    "ipa": "/ˈtɛknɪkəl/",
+    "meaning": "기술적인, 전문적인",
+    "example": "This requires technical knowledge.",
+    "synonyms": "specialized, skilled, expert",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "technical-399"
+  },
+  {
+    "word": "technique",
+    "ipa": "/tɛkˈniːk/",
+    "meaning": "기술, 기법",
+    "example": "Practice this painting technique.",
+    "synonyms": "method, skill, procedure",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "technique-400"
+  },
+  {
+    "word": "technology",
+    "ipa": "/tɛkˈnɑlədʒiː/",
+    "meaning": "기술, 과학 기술",
+    "example": "Modern technology is advancing.",
+    "synonyms": "innovation, science, tools",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "technology-401"
+  },
+  {
+    "word": "valid",
+    "ipa": "/ˈvælɪd/",
+    "meaning": "유효한, 타당한",
+    "example": "Make a valid point.",
+    "synonyms": "sound, legitimate, acceptable",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "valid-402"
+  },
+  {
+    "word": "volume",
+    "ipa": "/ˈvɑljuːm/",
+    "meaning": "부피; 양, 음량",
+    "example": "A large volume of data.",
+    "synonyms": "amount, quantity, mass",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "volume-403"
+  },
+  {
+    "word": "access",
+    "ipa": "/ˈækˌsɛs/",
+    "meaning": "접근; 접근하다",
+    "example": "Access to education is a right.",
+    "synonyms": "entry, means, approach",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "access-404"
+  },
+  {
+    "word": "adequate",
+    "ipa": "/ˈædəkwət/",
+    "meaning": "충분한, 적절한",
+    "example": "The resources are adequate.",
+    "synonyms": "sufficient, satisfactory, enough",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "adequate-405"
+  },
+  {
+    "word": "annual",
+    "ipa": "/ˈænjuːəl/",
+    "meaning": "연간의, 매년의",
+    "example": "The company holds annual reviews.",
+    "synonyms": "yearly, once-a-year",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "annual-406"
+  },
+  {
+    "word": "apparent",
+    "ipa": "/əˈpɛrənt/",
+    "meaning": "명백한, 분명한",
+    "example": "Her talent was apparent.",
+    "synonyms": "obvious, evident, clear",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "apparent-407"
+  },
+  {
+    "word": "approximate",
+    "ipa": "/əˈprɑksəmət/",
+    "meaning": "대략적인; 근사치",
+    "example": "Give an approximate figure.",
+    "synonyms": "rough, estimated, close",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "approximate-408"
+  },
+  {
+    "word": "attitude",
+    "ipa": "/ˈætəˌtuːd/",
+    "meaning": "태도, 자세",
+    "example": "Have a positive attitude.",
+    "synonyms": "outlook, view, opinion",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "attitude-409"
+  },
+  {
+    "word": "attribute",
+    "ipa": "/ˈætrəˌbjuːt/",
+    "meaning": "특성; ~의 탓으로 돌리다",
+    "example": "Intelligence is not her only attribute.",
+    "synonyms": "quality, trait, characteristic",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "attribute-410"
+  },
+  {
+    "word": "civil",
+    "ipa": "/ˈsɪvəl/",
+    "meaning": "시민의, 민간의",
+    "example": "Civil rights are fundamental.",
+    "synonyms": "civic, public, citizen",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "civil-411"
+  },
+  {
+    "word": "code",
+    "ipa": "/ˈkoʊd/",
+    "meaning": "규범, 코드; 암호",
+    "example": "Follow the code of conduct.",
+    "synonyms": "system, rules, protocol",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "code-412"
+  },
+  {
+    "word": "commit",
+    "ipa": "/kəˈmɪt/",
+    "meaning": "전념하다; 저지르다",
+    "example": "They committed to the plan.",
+    "synonyms": "pledge, dedicate, carry out",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "commit-413"
+  },
+  {
+    "word": "communicate",
+    "ipa": "/kəˈmjuːnəˌkeɪt/",
+    "meaning": "의사소통하다, 전달하다",
+    "example": "Communicate your ideas clearly.",
+    "synonyms": "convey, share, express",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "communicate-414"
+  },
+  {
+    "word": "concentrate",
+    "ipa": "/ˈkɑnsənˌtreɪt/",
+    "meaning": "집중하다",
+    "example": "Concentrate on the main points.",
+    "synonyms": "focus, center, direct",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "concentrate-415"
+  },
+  {
+    "word": "confer",
+    "ipa": "/kənˈfɜːr/",
+    "meaning": "수여하다; 협의하다",
+    "example": "They conferred about the plan.",
+    "synonyms": "grant, discuss, consult",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "confer-416"
+  },
+  {
+    "word": "contrast",
+    "ipa": "/ˈkɑntræst/",
+    "meaning": "대조하다; 대조",
+    "example": "Contrast the two approaches.",
+    "synonyms": "compare, differ, oppose",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "contrast-417"
+  },
+  {
+    "word": "cycle",
+    "ipa": "/ˈsaɪkəl/",
+    "meaning": "순환, 주기",
+    "example": "The water cycle is important.",
+    "synonyms": "series, rotation, pattern",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "cycle-418"
+  },
+  {
+    "word": "debate",
+    "ipa": "/dəˈbeɪt/",
+    "meaning": "토론하다; 토론",
+    "example": "The debate was lively.",
+    "synonyms": "discussion, argument, dispute",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "debate-419"
+  },
+  {
+    "word": "despite",
+    "ipa": "/dɪˈspaɪt/",
+    "meaning": "~에도 불구하고",
+    "example": "She won despite the difficulty.",
+    "synonyms": "in spite of, regardless of",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "despite-420"
+  },
+  {
+    "word": "dimension",
+    "ipa": "/dɪˈmɛnʃən/",
+    "meaning": "차원; 측면",
+    "example": "Consider every dimension of the problem.",
+    "synonyms": "aspect, extent, measure",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "dimension-421"
+  },
+  {
+    "word": "domestic",
+    "ipa": "/dəˈmɛstɪk/",
+    "meaning": "국내의; 가정의",
+    "example": "Domestic policy matters.",
+    "synonyms": "home, national, internal",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "domestic-422"
+  },
+  {
+    "word": "emerge",
+    "ipa": "/ɪˈmɜːrdʒ/",
+    "meaning": "나타나다, 출현하다",
+    "example": "New evidence emerged.",
+    "synonyms": "appear, arise, surface",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "emerge-423"
+  },
+  {
+    "word": "error",
+    "ipa": "/ˈɛrər/",
+    "meaning": "오류, 실수",
+    "example": "Correct the error immediately.",
+    "synonyms": "mistake, fault, inaccuracy",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "error-424"
+  },
+  {
+    "word": "ethnic",
+    "ipa": "/ˈɛθnɪk/",
+    "meaning": "민족의, 인종의",
+    "example": "Ethnic diversity enriches society.",
+    "synonyms": "cultural, racial, national",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "ethnic-425"
+  },
+  {
+    "word": "goal",
+    "ipa": "/ˈɡoʊl/",
+    "meaning": "목표, 목적",
+    "example": "Set a clear goal.",
+    "synonyms": "aim, objective, target",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "goal-426"
+  },
+  {
+    "word": "grant",
+    "ipa": "/ˈɡrænt/",
+    "meaning": "수여하다; 보조금",
+    "example": "They granted him permission.",
+    "synonyms": "give, award, bestow",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "grant-427"
+  },
+  {
+    "word": "hence",
+    "ipa": "/ˈhɛns/",
+    "meaning": "따라서, 그러므로",
+    "example": "The data was incomplete; hence, the error.",
+    "synonyms": "therefore, thus, consequently",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "hence-428"
+  },
+  {
+    "word": "hypothesis",
+    "ipa": "/haɪˈpɑθəsəs/",
+    "meaning": "가설",
+    "example": "Test your hypothesis with data.",
+    "synonyms": "theory, assumption, proposition",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "hypothesis-429"
+  },
+  {
+    "word": "implement",
+    "ipa": "/ˈɪmpləmənt/",
+    "meaning": "실행하다, 시행하다",
+    "example": "Implement the new system.",
+    "synonyms": "carry out, execute, apply",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "implement-430"
+  },
+  {
+    "word": "implication",
+    "ipa": "/ˌɪmpləˈkeɪʃən/",
+    "meaning": "함축, 시사점; 결과",
+    "example": "Consider the implications carefully.",
+    "synonyms": "consequence, significance, meaning",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "implication-431"
+  },
+  {
+    "word": "impose",
+    "ipa": "/ˌɪmˈpoʊz/",
+    "meaning": "부과하다, 강요하다",
+    "example": "Don't impose your views on others.",
+    "synonyms": "enforce, force, inflict",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "impose-432"
+  },
+  {
+    "word": "integrate",
+    "ipa": "/ˈɪntəˌɡreɪt/",
+    "meaning": "통합하다",
+    "example": "Integrate all the data sources.",
+    "synonyms": "combine, merge, unify",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "integrate-433"
+  },
+  {
+    "word": "internal",
+    "ipa": "/ˌɪnˈtɜːrnəl/",
+    "meaning": "내부의, 국내의",
+    "example": "An internal review was conducted.",
+    "synonyms": "inner, inside, interior",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "internal-434"
+  },
+  {
+    "word": "levy",
+    "ipa": "/ˈlɛviː/",
+    "meaning": "세금을 부과하다; 세금",
+    "example": "A levy was placed on imports.",
+    "synonyms": "tax, charge, fee",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "levy-435"
+  },
+  {
+    "word": "logical",
+    "ipa": "/ˈlɑdʒɪkəl/",
+    "meaning": "논리적인",
+    "example": "That is a logical conclusion.",
+    "synonyms": "reasonable, rational, sensible",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "logical-436"
+  },
+  {
+    "word": "margin",
+    "ipa": "/ˈmɑrdʒən/",
+    "meaning": "여백; 차이, 마진",
+    "example": "Write notes in the margin.",
+    "synonyms": "edge, border, boundary",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "margin-437"
+  },
+  {
+    "word": "medical",
+    "ipa": "/ˈmɛdəkəl/",
+    "meaning": "의학의, 의료의",
+    "example": "Get medical advice from a doctor.",
+    "synonyms": "health, clinical, healthcare",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "medical-438"
+  },
+  {
+    "word": "mental",
+    "ipa": "/ˈmɛntəl/",
+    "meaning": "정신적인, 마음의",
+    "example": "Mental health is important.",
+    "synonyms": "psychological, cognitive, intellectual",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "mental-439"
+  },
+  {
+    "word": "modify",
+    "ipa": "/ˈmɑdəˌfaɪ/",
+    "meaning": "수정하다, 변경하다",
+    "example": "Modify your approach slightly.",
+    "synonyms": "change, adjust, alter",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "modify-440"
+  },
+  {
+    "word": "network",
+    "ipa": "/ˈnɛˌtwɜːrk/",
+    "meaning": "네트워크, 연결망",
+    "example": "She has a strong professional network.",
+    "synonyms": "system, web, connections",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "network-441"
+  },
+  {
+    "word": "notion",
+    "ipa": "/ˈnoʊʃən/",
+    "meaning": "개념, 생각",
+    "example": "I have no notion of what happened.",
+    "synonyms": "idea, belief, concept",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "notion-442"
+  },
+  {
+    "word": "objective",
+    "ipa": "/əbˈdʒɛktɪv/",
+    "meaning": "목표; 객관적인",
+    "example": "Our objective is to succeed.",
+    "synonyms": "goal, aim, target",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "objective-443"
+  },
+  {
+    "word": "orient",
+    "ipa": "/ˈɔriːˌɛnt/",
+    "meaning": "방향을 잡다; 적응시키다",
+    "example": "Orient yourself to the new environment.",
+    "synonyms": "align, direct, position",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "orient-444"
+  },
+  {
+    "word": "outcome",
+    "ipa": "/ˈaʊtˌkʌm/",
+    "meaning": "결과",
+    "example": "The outcome was unexpected.",
+    "synonyms": "result, consequence, effect",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "outcome-445"
+  },
+  {
+    "word": "participant",
+    "ipa": "/pɑrˈtɪsəpənt/",
+    "meaning": "참가자",
+    "example": "All participants signed a form.",
+    "synonyms": "member, contributor, attendee",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "participant-446"
+  },
+  {
+    "word": "persist",
+    "ipa": "/pərˈsɪst/",
+    "meaning": "지속하다, 계속하다",
+    "example": "Persist despite setbacks.",
+    "synonyms": "continue, endure, persevere",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "persist-447"
+  },
+  {
+    "word": "phenomenon",
+    "ipa": "/fəˈnɑməˌnɑn/",
+    "meaning": "현상",
+    "example": "Language change is a natural phenomenon.",
+    "synonyms": "event, occurrence, fact",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "phenomenon-448"
+  },
+  {
+    "word": "philosophy",
+    "ipa": "/fəˈlɑsəfiː/",
+    "meaning": "철학",
+    "example": "Philosophy challenges our assumptions.",
+    "synonyms": "worldview, thinking, doctrine",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "philosophy-449"
+  },
+  {
+    "word": "physical",
+    "ipa": "/ˈfɪzɪkəl/",
+    "meaning": "물리적인; 신체의",
+    "example": "Physical exercise is essential.",
+    "synonyms": "bodily, material, tangible",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "physical-450"
+  },
+  {
+    "word": "radical",
+    "ipa": "/ˈrædəkəl/",
+    "meaning": "근본적인; 급진적인",
+    "example": "A radical change was needed.",
+    "synonyms": "extreme, fundamental, drastic",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "radical-451"
+  },
+  {
+    "word": "random",
+    "ipa": "/ˈrændəm/",
+    "meaning": "무작위의",
+    "example": "Select samples at random.",
+    "synonyms": "arbitrary, haphazard, chance",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "random-452"
+  },
+  {
+    "word": "reinforce",
+    "ipa": "/ˌriːɪnˈfɔrs/",
+    "meaning": "강화하다, 보강하다",
+    "example": "Reinforce the key points.",
+    "synonyms": "strengthen, support, bolster",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "reinforce-453"
+  },
+  {
+    "word": "resolve",
+    "ipa": "/riːˈzɑlv/",
+    "meaning": "해결하다; 결심하다",
+    "example": "They resolved their differences.",
+    "synonyms": "settle, solve, fix",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "resolve-454"
+  },
+  {
+    "word": "retain",
+    "ipa": "/rɪˈteɪn/",
+    "meaning": "유지하다, 보유하다",
+    "example": "Retain the original copy.",
+    "synonyms": "keep, maintain, preserve",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "retain-455"
+  },
+  {
+    "word": "series",
+    "ipa": "/ˈsɪriːz/",
+    "meaning": "일련, 시리즈",
+    "example": "A series of experiments.",
+    "synonyms": "sequence, string, chain",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "series-456"
+  },
+  {
+    "word": "simulate",
+    "ipa": "/ˈsɪmjələt/",
+    "meaning": "모의 실험하다, 시뮬레이션하다",
+    "example": "Simulate real-world scenarios.",
+    "synonyms": "imitate, model, replicate",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "simulate-457"
+  },
+  {
+    "word": "sole",
+    "ipa": "/ˈsoʊl/",
+    "meaning": "유일한, 단독의",
+    "example": "She is the sole owner.",
+    "synonyms": "only, single, exclusive",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "sole-458"
+  },
+  {
+    "word": "somewhat",
+    "ipa": "/ˈsʌmˈwʌt/",
+    "meaning": "다소, 어느 정도",
+    "example": "The result was somewhat surprising.",
+    "synonyms": "rather, fairly, slightly",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "somewhat-459"
+  },
+  {
+    "word": "statistic",
+    "ipa": "/stəˈtɪstɪk/",
+    "meaning": "통계(치)",
+    "example": "This statistic is alarming.",
+    "synonyms": "figure, number, data point",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "statistic-460"
+  },
+  {
+    "word": "subsequent",
+    "ipa": "/ˈsʌbsəkwənt/",
+    "meaning": "이후의, 차후의",
+    "example": "Subsequent events proved him right.",
+    "synonyms": "later, following, ensuing",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "subsequent-461"
+  },
+  {
+    "word": "substitute",
+    "ipa": "/ˈsʌbstəˌtuːt/",
+    "meaning": "대체하다; 대체물",
+    "example": "Use water as a substitute for milk.",
+    "synonyms": "replacement, alternative, stand-in",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "substitute-462"
+  },
+  {
+    "word": "sustain",
+    "ipa": "/səˈsteɪn/",
+    "meaning": "유지하다, 지탱하다",
+    "example": "Can we sustain this growth?",
+    "synonyms": "maintain, support, continue",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "sustain-463"
+  },
+  {
+    "word": "symbol",
+    "ipa": "/ˈsɪmbəl/",
+    "meaning": "상징, 기호",
+    "example": "The dove is a symbol of peace.",
+    "synonyms": "sign, representation, emblem",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "symbol-464"
+  },
+  {
+    "word": "target",
+    "ipa": "/ˈtɑrɡət/",
+    "meaning": "목표; 대상",
+    "example": "What is your target audience?",
+    "synonyms": "goal, aim, objective",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "target-465"
+  },
+  {
+    "word": "thus",
+    "ipa": "/ˈðʌs/",
+    "meaning": "따라서, 그러므로",
+    "example": "He studied hard; thus, he passed.",
+    "synonyms": "therefore, hence, consequently",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "thus-466"
+  },
+  {
+    "word": "trend",
+    "ipa": "/ˈtrɛnd/",
+    "meaning": "경향, 추세",
+    "example": "The trend is toward remote work.",
+    "synonyms": "tendency, direction, movement",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "trend-467"
+  },
+  {
+    "word": "uniform",
+    "ipa": "/ˈjuːnəˌfɔrm/",
+    "meaning": "균일한, 통일된; 제복",
+    "example": "Apply uniform standards.",
+    "synonyms": "consistent, identical, even",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "uniform-468"
+  },
+  {
+    "word": "utilize",
+    "ipa": "/ˈjuːtəˌlaɪz/",
+    "meaning": "활용하다, 이용하다",
+    "example": "Utilize all available resources.",
+    "synonyms": "use, employ, apply",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "utilize-469"
+  },
+  {
+    "word": "accurate",
+    "ipa": "/ˈækjərət/",
+    "meaning": "정확한",
+    "example": "Provide accurate information.",
+    "synonyms": "correct, precise, exact",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "accurate-470"
+  },
+  {
+    "word": "acknowledge",
+    "ipa": "/ækˈnɑlɪdʒ/",
+    "meaning": "인정하다, 인식하다",
+    "example": "Acknowledge your mistakes.",
+    "synonyms": "admit, recognize, accept",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "acknowledge-471"
+  },
+  {
+    "word": "aggregate",
+    "ipa": "/ˈæɡrəɡət/",
+    "meaning": "집계; 합계의",
+    "example": "The aggregate score was high.",
+    "synonyms": "total, combined, collective",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "aggregate-472"
+  },
+  {
+    "word": "allocate",
+    "ipa": "/ˈæləˌkeɪt/",
+    "meaning": "할당하다, 배분하다",
+    "example": "Allocate funds to each department.",
+    "synonyms": "distribute, assign, apportion",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "allocate-473"
+  },
+  {
+    "word": "assign",
+    "ipa": "/əˈsaɪn/",
+    "meaning": "배정하다, 할당하다",
+    "example": "She was assigned the project.",
+    "synonyms": "give, appoint, designate",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "assign-474"
+  },
+  {
+    "word": "attach",
+    "ipa": "/əˈtætʃ/",
+    "meaning": "첨부하다, 붙이다",
+    "example": "Attach the file to the email.",
+    "synonyms": "fasten, connect, join",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "attach-475"
+  },
+  {
+    "word": "author",
+    "ipa": "/ˈɔθər/",
+    "meaning": "저자, 작가",
+    "example": "The author wrote a bestseller.",
+    "synonyms": "writer, creator, originator",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "author-476"
+  },
+  {
+    "word": "bond",
+    "ipa": "/ˈbɑnd/",
+    "meaning": "유대, 결합; 채권",
+    "example": "Their shared values created a bond.",
+    "synonyms": "tie, link, connection",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "bond-477"
+  },
+  {
+    "word": "brief",
+    "ipa": "/ˈbriːf/",
+    "meaning": "간략한; 브리핑하다",
+    "example": "Give a brief summary.",
+    "synonyms": "short, concise, quick",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "brief-478"
+  },
+  {
+    "word": "capable",
+    "ipa": "/ˈkeɪpəbəl/",
+    "meaning": "능력 있는, 유능한",
+    "example": "She is capable of great things.",
+    "synonyms": "able, competent, skilled",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "capable-479"
+  },
+  {
+    "word": "cite",
+    "ipa": "/ˈsaɪt/",
+    "meaning": "인용하다",
+    "example": "Cite your sources clearly.",
+    "synonyms": "quote, reference, mention",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "cite-480"
+  },
+  {
+    "word": "cooperate",
+    "ipa": "/koʊˈɑpərˌeɪt/",
+    "meaning": "협력하다, 협동하다",
+    "example": "Teams must cooperate to succeed.",
+    "synonyms": "collaborate, work together, partner",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "cooperate-481"
+  },
+  {
+    "word": "deny",
+    "ipa": "/dɪˈnaɪ/",
+    "meaning": "부인하다, 거부하다",
+    "example": "She denied involvement.",
+    "synonyms": "reject, dispute, refuse",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "deny-482"
+  },
+  {
+    "word": "differentiate",
+    "ipa": "/ˌdɪfərˈɛnʃiːˌeɪt/",
+    "meaning": "구별하다, 차별화하다",
+    "example": "Differentiate between the options.",
+    "synonyms": "distinguish, separate, discriminate",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "differentiate-483"
+  },
+  {
+    "word": "dispose",
+    "ipa": "/dɪˈspoʊz/",
+    "meaning": "처분하다, 처리하다",
+    "example": "Dispose of waste responsibly.",
+    "synonyms": "discard, throw away, eliminate",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "dispose-484"
+  },
+  {
+    "word": "draft",
+    "ipa": "/ˈdræft/",
+    "meaning": "초안; 초안을 작성하다",
+    "example": "Submit your first draft by Friday.",
+    "synonyms": "rough version, outline, sketch",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "draft-485"
+  },
+  {
+    "word": "enable",
+    "ipa": "/ɛˈneɪbəl/",
+    "meaning": "가능하게 하다",
+    "example": "Technology enables fast communication.",
+    "synonyms": "allow, permit, facilitate",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "enable-486"
+  },
+  {
+    "word": "energy",
+    "ipa": "/ˈɛnərdʒiː/",
+    "meaning": "에너지, 힘",
+    "example": "Solar energy is renewable.",
+    "synonyms": "power, force, fuel",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "energy-487"
+  },
+  {
+    "word": "enforce",
+    "ipa": "/ɛnˈfɔrs/",
+    "meaning": "집행하다, 강제하다",
+    "example": "The police enforce the law.",
+    "synonyms": "compel, implement, apply",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "enforce-488"
+  },
+  {
+    "word": "entity",
+    "ipa": "/ˈɛntətiː/",
+    "meaning": "존재, 개체; 법인",
+    "example": "A company is a legal entity.",
+    "synonyms": "unit, thing, object, body",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "entity-489"
+  },
+  {
+    "word": "equivalent",
+    "ipa": "/ɪˈkwɪvələnt/",
+    "meaning": "동등한; 동등물",
+    "example": "Find an equivalent expression.",
+    "synonyms": "equal, comparable, corresponding",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "equivalent-490"
+  },
+  {
+    "word": "evolve",
+    "ipa": "/ɪˈvɑlv/",
+    "meaning": "진화하다, 발전하다",
+    "example": "Species evolve over time.",
+    "synonyms": "develop, change, adapt",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "evolve-491"
+  },
+  {
+    "word": "expand",
+    "ipa": "/ɪkˈspænd/",
+    "meaning": "확장하다, 팽창하다",
+    "example": "The company plans to expand.",
+    "synonyms": "grow, increase, extend",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "expand-492"
+  },
+  {
+    "word": "expose",
+    "ipa": "/ɪkˈspoʊz/",
+    "meaning": "노출시키다; 폭로하다",
+    "example": "The study exposed the flaws.",
+    "synonyms": "reveal, uncover, disclose",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "expose-493"
+  },
+  {
+    "word": "external",
+    "ipa": "/ɪkˈstɜːrnəl/",
+    "meaning": "외부의",
+    "example": "External factors affected the result.",
+    "synonyms": "outside, outer, exterior",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "external-494"
+  },
+  {
+    "word": "facilitate",
+    "ipa": "/fəˈsɪləˌteɪt/",
+    "meaning": "촉진하다, 용이하게 하다",
+    "example": "This tool facilitates learning.",
+    "synonyms": "enable, ease, assist",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "facilitate-495"
+  },
+  {
+    "word": "fundamental",
+    "ipa": "/ˌfʌndəˈmɛntəl/",
+    "meaning": "근본적인, 기본적인",
+    "example": "Trust is fundamental to success.",
+    "synonyms": "basic, essential, core",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "fundamental-496"
+  },
+  {
+    "word": "generate",
+    "ipa": "/ˈdʒɛnərˌeɪt/",
+    "meaning": "생성하다, 만들어 내다",
+    "example": "Solar panels generate electricity.",
+    "synonyms": "produce, create, yield",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "generate-497"
+  },
+  {
+    "word": "generation",
+    "ipa": "/ˌdʒɛnərˈeɪʃən/",
+    "meaning": "세대",
+    "example": "The next generation will benefit.",
+    "synonyms": "age group, era, cohort",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "generation-498"
+  },
+  {
+    "word": "image",
+    "ipa": "/ˈɪmədʒ/",
+    "meaning": "이미지, 이미지; 상(像)",
+    "example": "The image was blurry.",
+    "synonyms": "picture, representation, photo",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "image-499"
+  },
+  {
+    "word": "liberal",
+    "ipa": "/ˈlɪˌbɜːrəl/",
+    "meaning": "자유로운; 진보적인",
+    "example": "A liberal approach is open-minded.",
+    "synonyms": "open-minded, tolerant, broad",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "liberal-500"
+  },
+  {
+    "word": "license",
+    "ipa": "/ˈlaɪsəns/",
+    "meaning": "면허, 허가",
+    "example": "You need a license to drive.",
+    "synonyms": "permission, permit, authorization",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "license-501"
+  },
+  {
+    "word": "logic",
+    "ipa": "/ˈlɑdʒɪk/",
+    "meaning": "논리",
+    "example": "The logic of the argument holds.",
+    "synonyms": "reasoning, rationale, sense",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "logic-502"
+  },
+  {
+    "word": "marginal",
+    "ipa": "/ˈmɑrdʒənəl/",
+    "meaning": "미미한, 한계의",
+    "example": "Only marginal improvements were seen.",
+    "synonyms": "slight, minor, small",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "marginal-503"
+  },
+  {
+    "word": "migrate",
+    "ipa": "/ˈmaɪˌɡreɪt/",
+    "meaning": "이주하다, 이동하다",
+    "example": "Birds migrate south in winter.",
+    "synonyms": "move, travel, relocate",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "migrate-504"
+  },
+  {
+    "word": "military",
+    "ipa": "/ˈmɪləˌtɛriː/",
+    "meaning": "군사의; 군대",
+    "example": "Military strategy changed.",
+    "synonyms": "armed, defense, combat",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "military-505"
+  },
+  {
+    "word": "minimal",
+    "ipa": "/ˈmɪnəməl/",
+    "meaning": "최소한의, 아주 적은",
+    "example": "The impact was minimal.",
+    "synonyms": "small, minor, negligible",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "minimal-506"
+  },
+  {
+    "word": "minority",
+    "ipa": "/maɪˈnɔrətiː/",
+    "meaning": "소수(집단)",
+    "example": "A minority opposed the change.",
+    "synonyms": "small group, few",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "minority-507"
+  },
+  {
+    "word": "mode",
+    "ipa": "/ˈmoʊd/",
+    "meaning": "방식, 모드",
+    "example": "Change the mode of transport.",
+    "synonyms": "method, way, form",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "mode-508"
+  },
+  {
+    "word": "mutual",
+    "ipa": "/ˈmjuːtʃuːəl/",
+    "meaning": "상호의, 공통의",
+    "example": "Mutual respect is essential.",
+    "synonyms": "shared, reciprocal, joint",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "mutual-509"
+  },
+  {
+    "word": "overseas",
+    "ipa": "/ˈoʊvərˈsiːz/",
+    "meaning": "해외에서; 해외의",
+    "example": "She studied overseas.",
+    "synonyms": "abroad, internationally",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "overseas-510"
+  },
+  {
+    "word": "panel",
+    "ipa": "/ˈpænəl/",
+    "meaning": "패널, 전문가 집단",
+    "example": "The panel reviewed the proposal.",
+    "synonyms": "group, committee, board",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "panel-511"
+  },
+  {
+    "word": "paradigm",
+    "ipa": "/ˈpɛrəˌdaɪm/",
+    "meaning": "패러다임, 모범 사례",
+    "example": "This is a new paradigm.",
+    "synonyms": "model, framework, example",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "paradigm-512"
+  },
+  {
+    "word": "passive",
+    "ipa": "/ˈpæsɪv/",
+    "meaning": "수동적인",
+    "example": "Don't be passive; take action.",
+    "synonyms": "inactive, submissive, inert",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "passive-513"
+  },
+  {
+    "word": "perspective",
+    "ipa": "/pərˈspɛktɪv/",
+    "meaning": "관점, 시각",
+    "example": "Consider a new perspective.",
+    "synonyms": "viewpoint, standpoint, angle",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "perspective-514"
+  },
+  {
+    "word": "precise",
+    "ipa": "/prɪˈsaɪs/",
+    "meaning": "정밀한, 정확한",
+    "example": "Be precise in your measurements.",
+    "synonyms": "exact, accurate, specific",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "precise-515"
+  },
+  {
+    "word": "prime",
+    "ipa": "/ˈpraɪm/",
+    "meaning": "주요한; 최상의",
+    "example": "Prime minister leads the country.",
+    "synonyms": "main, chief, leading",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "prime-516"
+  },
+  {
+    "word": "prohibit",
+    "ipa": "/proʊˈhɪbət/",
+    "meaning": "금지하다",
+    "example": "Smoking is prohibited here.",
+    "synonyms": "ban, forbid, disallow",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "prohibit-517"
+  },
+  {
+    "word": "ratio",
+    "ipa": "/ˈreɪʃiːˌoʊ/",
+    "meaning": "비율, 비",
+    "example": "The ratio of boys to girls.",
+    "synonyms": "proportion, fraction, comparison",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "ratio-518"
+  },
+  {
+    "word": "recover",
+    "ipa": "/rɪˈkʌvər/",
+    "meaning": "회복하다",
+    "example": "She recovered quickly.",
+    "synonyms": "heal, return to normal, regain",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "recover-519"
+  },
+  {
+    "word": "reveal",
+    "ipa": "/rɪˈviːl/",
+    "meaning": "드러내다, 밝히다",
+    "example": "The report revealed the truth.",
+    "synonyms": "show, disclose, uncover",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "reveal-520"
+  },
+  {
+    "word": "scope",
+    "ipa": "/ˈskoʊp/",
+    "meaning": "범위, 영역",
+    "example": "The scope of the project is wide.",
+    "synonyms": "extent, range, reach",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "scope-521"
+  },
+  {
+    "word": "sector",
+    "ipa": "/ˈsɛktər/",
+    "meaning": "부문, 분야",
+    "example": "The public sector employs many.",
+    "synonyms": "area, part, division",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "sector-522"
+  },
+  {
+    "word": "stable",
+    "ipa": "/ˈsteɪbəl/",
+    "meaning": "안정적인",
+    "example": "The economy is stable.",
+    "synonyms": "steady, firm, secure",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "stable-523"
+  },
+  {
+    "word": "status",
+    "ipa": "/ˈstætəs/",
+    "meaning": "지위, 상태",
+    "example": "What is your employment status?",
+    "synonyms": "position, rank, standing",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "status-524"
+  },
+  {
+    "word": "straightforward",
+    "ipa": "/ˈstreɪtˈfɔrwərd/",
+    "meaning": "간단한, 직접적인",
+    "example": "The task is straightforward.",
+    "synonyms": "simple, clear, easy",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "straightforward-525"
+  },
+  {
+    "word": "subsidy",
+    "ipa": "/ˈsʌbsɪdiː/",
+    "meaning": "보조금",
+    "example": "Farming subsidies help rural areas.",
+    "synonyms": "grant, allowance, support",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "subsidy-526"
+  },
+  {
+    "word": "symbolic",
+    "ipa": "/sɪmˈbɑlɪk/",
+    "meaning": "상징적인",
+    "example": "A symbolic gesture of peace.",
+    "synonyms": "representative, emblematic",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "symbolic-527"
+  },
+  {
+    "word": "thesis",
+    "ipa": "/ˈθiːsəs/",
+    "meaning": "논문; 논지",
+    "example": "State your thesis clearly.",
+    "synonyms": "argument, claim, proposition",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "thesis-528"
+  },
+  {
+    "word": "trace",
+    "ipa": "/ˈtreɪs/",
+    "meaning": "추적하다; 흔적",
+    "example": "Trace the history of the word.",
+    "synonyms": "follow, track, find",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "trace-529"
+  },
+  {
+    "word": "transport",
+    "ipa": "/trænˈspɔrt/",
+    "meaning": "운송하다; 교통수단",
+    "example": "Transport goods safely.",
+    "synonyms": "carry, convey, move",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "transport-530"
+  },
+  {
+    "word": "ultimate",
+    "ipa": "/ˈʌltəmət/",
+    "meaning": "궁극적인, 최종적인",
+    "example": "The ultimate goal is peace.",
+    "synonyms": "final, supreme, highest",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "ultimate-531"
+  },
+  {
+    "word": "unique",
+    "ipa": "/juːˈniːk/",
+    "meaning": "독특한, 유일한",
+    "example": "Each person is unique.",
+    "synonyms": "one-of-a-kind, distinctive, singular",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "unique-532"
+  },
+  {
+    "word": "vehicle",
+    "ipa": "/ˈviːhɪkəl/",
+    "meaning": "차량; 수단",
+    "example": "Use any available vehicle.",
+    "synonyms": "transport, conveyance, carrier",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "vehicle-533"
+  },
+  {
+    "word": "visible",
+    "ipa": "/ˈvɪzəbəl/",
+    "meaning": "눈에 보이는, 가시적인",
+    "example": "The change was clearly visible.",
+    "synonyms": "observable, apparent, perceptible",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "visible-534"
+  },
+  {
+    "word": "abstract",
+    "ipa": "/æbˈstrækt/",
+    "meaning": "추상적인; 요약",
+    "example": "Mathematics deals with abstract concepts.",
+    "synonyms": "theoretical, conceptual, notional",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "abstract-535"
+  },
+  {
+    "word": "aid",
+    "ipa": "/ˈeɪd/",
+    "meaning": "도움, 원조; 돕다",
+    "example": "Foreign aid was sent to the region.",
+    "synonyms": "help, assistance, support",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "aid-536"
+  },
+  {
+    "word": "channel",
+    "ipa": "/ˈtʃænəl/",
+    "meaning": "경로, 채널",
+    "example": "Use official channels.",
+    "synonyms": "route, path, medium",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "channel-537"
+  },
+  {
+    "word": "classic",
+    "ipa": "/ˈklæsɪk/",
+    "meaning": "전형적인; 고전",
+    "example": "A classic experiment in physics.",
+    "synonyms": "definitive, exemplary, model",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "classic-538"
+  },
+  {
+    "word": "comprehensive",
+    "ipa": "/ˌkɑmpriːˈhɛnsɪv/",
+    "meaning": "포괄적인, 종합적인",
+    "example": "A comprehensive review was done.",
+    "synonyms": "thorough, complete, full",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "comprehensive-539"
+  },
+  {
+    "word": "comprise",
+    "ipa": "/kəmˈpraɪz/",
+    "meaning": "구성하다, 이루다",
+    "example": "The team comprises five people.",
+    "synonyms": "consist of, include, contain",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "comprise-540"
+  },
+  {
+    "word": "confirm",
+    "ipa": "/kənˈfɜːrm/",
+    "meaning": "확인하다, 확정하다",
+    "example": "Confirm your booking.",
+    "synonyms": "verify, validate, establish",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "confirm-541"
+  },
+  {
+    "word": "contrary",
+    "ipa": "/ˈkɑntrɛriː/",
+    "meaning": "반대의; 반대",
+    "example": "On the contrary, she agreed.",
+    "synonyms": "opposite, opposing, reverse",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "contrary-542"
+  },
+  {
+    "word": "convert",
+    "ipa": "/ˈkɑnvərt/",
+    "meaning": "전환하다, 변환하다",
+    "example": "Convert the file to PDF.",
+    "synonyms": "change, transform, switch",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "convert-543"
+  },
+  {
+    "word": "couple",
+    "ipa": "/ˈkʌpəl/",
+    "meaning": "한 쌍; 두어 개",
+    "example": "A couple of minor errors.",
+    "synonyms": "pair, two, a few",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "couple-544"
+  },
+  {
+    "word": "decade",
+    "ipa": "/dɛˈkeɪd/",
+    "meaning": "10년",
+    "example": "Over the past decade.",
+    "synonyms": "ten years, ten-year period",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "decade-545"
+  },
+  {
+    "word": "decline",
+    "ipa": "/dɪˈklaɪn/",
+    "meaning": "감소하다; 거절하다",
+    "example": "Interest in the topic declined.",
+    "synonyms": "decrease, fall, reduce",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "decline-546"
+  },
+  {
+    "word": "discretion",
+    "ipa": "/dɪˈskrɛʃən/",
+    "meaning": "재량, 분별력",
+    "example": "Use your discretion wisely.",
+    "synonyms": "judgment, choice, freedom",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "discretion-547"
+  },
+  {
+    "word": "domain",
+    "ipa": "/doʊˈmeɪn/",
+    "meaning": "영역, 분야",
+    "example": "Her domain is molecular biology.",
+    "synonyms": "field, area, sphere",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "domain-548"
+  },
+  {
+    "word": "equate",
+    "ipa": "/ɪˈkweɪt/",
+    "meaning": "동일시하다",
+    "example": "Don't equate success with money.",
+    "synonyms": "equalize, compare, identify",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "equate-549"
+  },
+  {
+    "word": "ethical",
+    "ipa": "/ˈɛθɪkəl/",
+    "meaning": "윤리적인",
+    "example": "Consider the ethical implications.",
+    "synonyms": "moral, principled, right",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "ethical-550"
+  },
+  {
+    "word": "exhibit",
+    "ipa": "/ɪɡˈzɪbɪt/",
+    "meaning": "전시하다; 나타내다",
+    "example": "They exhibited their work.",
+    "synonyms": "display, show, present",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "exhibit-551"
+  },
+  {
+    "word": "expertise",
+    "ipa": "/ˌɛkspərˈtiːz/",
+    "meaning": "전문 지식, 전문성",
+    "example": "She has expertise in data analysis.",
+    "synonyms": "skill, knowledge, proficiency",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "expertise-552"
+  },
+  {
+    "word": "explicit",
+    "ipa": "/ɪkˈsplɪsət/",
+    "meaning": "명시적인, 명백한",
+    "example": "Give explicit instructions.",
+    "synonyms": "clear, direct, specific",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "explicit-553"
+  },
+  {
+    "word": "exploit",
+    "ipa": "/ˈɛkˌsplɔɪt/",
+    "meaning": "활용하다; 착취하다",
+    "example": "Exploit all available resources.",
+    "synonyms": "use, utilize, take advantage of",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "exploit-554"
+  },
+  {
+    "word": "federal",
+    "ipa": "/ˈfɛdərəl/",
+    "meaning": "연방의",
+    "example": "Federal law applies everywhere.",
+    "synonyms": "national, central, governmental",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "federal-555"
+  },
+  {
+    "word": "flexible",
+    "ipa": "/ˈflɛksəbəl/",
+    "meaning": "유연한, 융통성 있는",
+    "example": "A flexible schedule helps.",
+    "synonyms": "adaptable, open, adjustable",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "flexible-556"
+  },
+  {
+    "word": "furthermore",
+    "ipa": "/ˈfɜːrðərˌmɔr/",
+    "meaning": "더욱이, 게다가",
+    "example": "Furthermore, the data supports this.",
+    "synonyms": "moreover, additionally, also",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "furthermore-557"
+  },
+  {
+    "word": "global",
+    "ipa": "/ˈɡloʊbəl/",
+    "meaning": "세계적인, 전 지구적인",
+    "example": "A global perspective is important.",
+    "synonyms": "worldwide, international, universal",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "global-558"
+  },
+  {
+    "word": "grade",
+    "ipa": "/ˈɡreɪd/",
+    "meaning": "등급; 성적",
+    "example": "The product is of high grade.",
+    "synonyms": "level, quality, rank",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "grade-559"
+  },
+  {
+    "word": "guarantee",
+    "ipa": "/ˌɡɛrənˈtiː/",
+    "meaning": "보장하다; 보증",
+    "example": "I guarantee the accuracy.",
+    "synonyms": "assure, promise, ensure",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "guarantee-560"
+  },
+  {
+    "word": "hierarchy",
+    "ipa": "/ˈhaɪərˌɑrkiː/",
+    "meaning": "위계, 계층 구조",
+    "example": "Understand the hierarchy of needs.",
+    "synonyms": "ranking, order, structure",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "hierarchy-561"
+  },
+  {
+    "word": "highlight",
+    "ipa": "/ˈhaɪˌlaɪt/",
+    "meaning": "강조하다; 하이라이트",
+    "example": "Highlight the key findings.",
+    "synonyms": "emphasize, stress, underline",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "highlight-562"
+  },
+  {
+    "word": "implicit",
+    "ipa": "/ˌɪmˈplɪsət/",
+    "meaning": "암묵적인, 내포된",
+    "example": "There was an implicit threat.",
+    "synonyms": "implied, indirect, understood",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "implicit-563"
+  },
+  {
+    "word": "incorporate",
+    "ipa": "/ˌɪnˈkɔrpərˌeɪt/",
+    "meaning": "통합하다, 포함하다",
+    "example": "Incorporate feedback into the draft.",
+    "synonyms": "include, integrate, embed",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "incorporate-564"
+  },
+  {
+    "word": "innovate",
+    "ipa": "/ˈɪnəˌveɪt/",
+    "meaning": "혁신하다",
+    "example": "Innovate to stay competitive.",
+    "synonyms": "invent, create, pioneer",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "innovate-565"
+  },
+  {
+    "word": "intelligent",
+    "ipa": "/ˌɪnˈtɛlədʒənt/",
+    "meaning": "지적인, 영리한",
+    "example": "An intelligent approach is needed.",
+    "synonyms": "smart, clever, knowledgeable",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "intelligent-566"
+  },
+  {
+    "word": "intense",
+    "ipa": "/ˌɪnˈtɛns/",
+    "meaning": "강렬한, 극심한",
+    "example": "Intense competition drives innovation.",
+    "synonyms": "extreme, powerful, strong",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "intense-567"
+  },
+  {
+    "word": "investigate",
+    "ipa": "/ˌɪnˈvɛstəˌɡeɪt/",
+    "meaning": "조사하다, 수사하다",
+    "example": "Investigate the cause of failure.",
+    "synonyms": "examine, probe, research",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "investigate-568"
+  },
+  {
+    "word": "lecture",
+    "ipa": "/ˈlɛktʃər/",
+    "meaning": "강의; 강의하다",
+    "example": "Attend the lecture on Friday.",
+    "synonyms": "talk, lesson, address",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "lecture-569"
+  },
+  {
+    "word": "mature",
+    "ipa": "/məˈtʃʊr/",
+    "meaning": "성숙한; 성숙하다",
+    "example": "A mature market grows slowly.",
+    "synonyms": "developed, grown, adult",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "mature-570"
+  },
+  {
+    "word": "maximize",
+    "ipa": "/ˈmæksəˌmaɪz/",
+    "meaning": "극대화하다",
+    "example": "Maximize your chances of success.",
+    "synonyms": "increase, optimize, boost",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "maximize-571"
+  },
+  {
+    "word": "minimize",
+    "ipa": "/ˈmɪnəˌmaɪz/",
+    "meaning": "최소화하다",
+    "example": "Minimize the risk of error.",
+    "synonyms": "reduce, decrease, limit",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "minimize-572"
+  },
+  {
+    "word": "motivation",
+    "ipa": "/ˌmoʊtəˈveɪʃən/",
+    "meaning": "동기(부여)",
+    "example": "High motivation leads to success.",
+    "synonyms": "drive, incentive, desire",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "motivation-573"
+  },
+  {
+    "word": "novel",
+    "ipa": "/ˈnɑvəl/",
+    "meaning": "새로운, 신기한; 소설",
+    "example": "A novel approach was taken.",
+    "synonyms": "new, innovative, original",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "novel-574"
+  },
+  {
+    "word": "plot",
+    "ipa": "/ˈplɑt/",
+    "meaning": "줄거리; 도표; 계획하다",
+    "example": "Plot the data on a graph.",
+    "synonyms": "plan, map, chart",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "plot-575"
+  },
+  {
+    "word": "plus",
+    "ipa": "/ˈplʌs/",
+    "meaning": "게다가; 장점",
+    "example": "This is a plus, not a minus.",
+    "synonyms": "advantage, benefit, bonus",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "plus-576"
+  },
+  {
+    "word": "practitioner",
+    "ipa": "/prækˈtɪʃənər/",
+    "meaning": "실무자, 전문가",
+    "example": "She is a medical practitioner.",
+    "synonyms": "professional, expert, specialist",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "practitioner-577"
+  },
+  {
+    "word": "preliminary",
+    "ipa": "/prɪˈlɪməˌnɛriː/",
+    "meaning": "예비의, 사전의",
+    "example": "A preliminary study was done.",
+    "synonyms": "initial, introductory, early",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "preliminary-578"
+  },
+  {
+    "word": "principal",
+    "ipa": "/ˈprɪnsəpəl/",
+    "meaning": "주요한; 교장",
+    "example": "The principal reason is cost.",
+    "synonyms": "main, primary, chief",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "principal-579"
+  },
+  {
+    "word": "propose",
+    "ipa": "/prəˈpoʊz/",
+    "meaning": "제안하다",
+    "example": "She proposed a solution.",
+    "synonyms": "suggest, recommend, put forward",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "propose-580"
+  },
+  {
+    "word": "refine",
+    "ipa": "/rəˈfaɪn/",
+    "meaning": "개선하다, 정제하다",
+    "example": "Refine your argument.",
+    "synonyms": "improve, polish, perfect",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "refine-581"
+  },
+  {
+    "word": "regime",
+    "ipa": "/rəˈʒiːm/",
+    "meaning": "체제, 정권",
+    "example": "The regime changed abruptly.",
+    "synonyms": "government, system, rule",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "regime-582"
+  },
+  {
+    "word": "reluctant",
+    "ipa": "/rɪˈlʌktənt/",
+    "meaning": "내키지 않는, 꺼리는",
+    "example": "He was reluctant to agree.",
+    "synonyms": "unwilling, hesitant, resistant",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "reluctant-583"
+  },
+  {
+    "word": "rigid",
+    "ipa": "/ˈrɪdʒəd/",
+    "meaning": "엄격한, 굳은",
+    "example": "A rigid schedule limits flexibility.",
+    "synonyms": "stiff, inflexible, fixed",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "rigid-584"
+  },
+  {
+    "word": "stability",
+    "ipa": "/stəˈbɪlɪtiː/",
+    "meaning": "안정성",
+    "example": "Economic stability is vital.",
+    "synonyms": "steadiness, firmness, balance",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "stability-585"
+  },
+  {
+    "word": "style",
+    "ipa": "/ˈstaɪl/",
+    "meaning": "스타일, 방식",
+    "example": "Develop your own style.",
+    "synonyms": "manner, way, approach",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "style-586"
+  },
+  {
+    "word": "survive",
+    "ipa": "/sərˈvaɪv/",
+    "meaning": "살아남다, 존속하다",
+    "example": "Species must adapt to survive.",
+    "synonyms": "endure, live on, persist",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "survive-587"
+  },
+  {
+    "word": "suspend",
+    "ipa": "/səˈspɛnd/",
+    "meaning": "중단하다; 정직시키다",
+    "example": "Suspend all activities.",
+    "synonyms": "halt, pause, stop",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "suspend-588"
+  },
+  {
+    "word": "adapt",
+    "ipa": "/əˈdæpt/",
+    "meaning": "적응하다, 조정하다",
+    "example": "Adapt to changing circumstances.",
+    "synonyms": "adjust, modify, change",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "adapt-589"
+  },
+  {
+    "word": "ambiguous",
+    "ipa": "/æmˈbɪɡjuːəs/",
+    "meaning": "모호한",
+    "example": "The instruction was ambiguous.",
+    "synonyms": "unclear, vague, uncertain",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "ambiguous-590"
+  },
+  {
+    "word": "analogy",
+    "ipa": "/əˈnælədʒiː/",
+    "meaning": "유추, 비유",
+    "example": "Use an analogy to explain.",
+    "synonyms": "comparison, parallel, metaphor",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "analogy-591"
+  },
+  {
+    "word": "anticipate",
+    "ipa": "/ænˈtɪsəˌpeɪt/",
+    "meaning": "예상하다, 기대하다",
+    "example": "Anticipate problems before they arise.",
+    "synonyms": "expect, foresee, predict",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "anticipate-592"
+  },
+  {
+    "word": "assemble",
+    "ipa": "/əˈsɛmbəl/",
+    "meaning": "모으다; 조립하다",
+    "example": "Assemble the evidence.",
+    "synonyms": "gather, collect, bring together",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "assemble-593"
+  },
+  {
+    "word": "bias",
+    "ipa": "/ˈbaɪəs/",
+    "meaning": "편향, 편견",
+    "example": "Avoid bias in research.",
+    "synonyms": "prejudice, tendency, slant",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "bias-594"
+  },
+  {
+    "word": "cease",
+    "ipa": "/ˈsiːs/",
+    "meaning": "중단하다, 멈추다",
+    "example": "Production will cease next month.",
+    "synonyms": "stop, end, halt",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "cease-595"
+  },
+  {
+    "word": "challenge",
+    "ipa": "/ˈtʃæləndʒ/",
+    "meaning": "도전; 어려운 일",
+    "example": "This is a major challenge.",
+    "synonyms": "difficulty, problem, test",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "challenge-596"
+  },
+  {
+    "word": "clarify",
+    "ipa": "/ˈklɛrəˌfaɪ/",
+    "meaning": "명확히 하다",
+    "example": "Please clarify your point.",
+    "synonyms": "explain, clear up, elaborate",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "clarify-597"
+  },
+  {
+    "word": "clause",
+    "ipa": "/ˈklɔz/",
+    "meaning": "조항; 절(節)",
+    "example": "Review the final clause.",
+    "synonyms": "section, provision, term",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "clause-598"
+  },
+  {
+    "word": "coherent",
+    "ipa": "/koʊˈhɪrənt/",
+    "meaning": "일관된, 논리적인",
+    "example": "Present a coherent argument.",
+    "synonyms": "logical, clear, consistent",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "coherent-599"
+  },
+  {
+    "word": "coincide",
+    "ipa": "/ˌkoʊɪnˈsaɪd/",
+    "meaning": "동시에 일어나다; 일치하다",
+    "example": "The dates coincide.",
+    "synonyms": "match, correspond, align",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "coincide-600"
+  },
+  {
+    "word": "commence",
+    "ipa": "/kəˈmɛns/",
+    "meaning": "시작하다",
+    "example": "Work will commence in January.",
+    "synonyms": "begin, start, initiate",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "commence-601"
+  },
+  {
+    "word": "compatible",
+    "ipa": "/kəmˈpætəbəl/",
+    "meaning": "양립할 수 있는, 호환되는",
+    "example": "Are the systems compatible?",
+    "synonyms": "suitable, consistent, matching",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "compatible-602"
+  },
+  {
+    "word": "compile",
+    "ipa": "/kəmˈpaɪl/",
+    "meaning": "편집하다, 모으다",
+    "example": "Compile a list of sources.",
+    "synonyms": "collect, gather, assemble",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "compile-603"
+  },
+  {
+    "word": "complement",
+    "ipa": "/ˈkɑmpləmənt/",
+    "meaning": "보완하다; 보완물",
+    "example": "The colors complement each other.",
+    "synonyms": "enhance, complete, supplement",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "complement-604"
+  },
+  {
+    "word": "conceive",
+    "ipa": "/kənˈsiːv/",
+    "meaning": "생각해내다, 임신하다",
+    "example": "He conceived a new idea.",
+    "synonyms": "think up, invent, imagine",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "conceive-605"
+  },
+  {
+    "word": "conform",
+    "ipa": "/kənˈfɔrm/",
+    "meaning": "따르다, 순응하다",
+    "example": "Conform to the standards.",
+    "synonyms": "comply, follow, obey",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "conform-606"
+  },
+  {
+    "word": "converse",
+    "ipa": "/ˈkɑnvərs/",
+    "meaning": "대화하다; 반대의",
+    "example": "We conversed for an hour.",
+    "synonyms": "talk, chat, discuss",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "converse-607"
+  },
+  {
+    "word": "detect",
+    "ipa": "/dɪˈtɛkt/",
+    "meaning": "감지하다, 발견하다",
+    "example": "Detect errors in the code.",
+    "synonyms": "find, identify, discover",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "detect-608"
+  },
+  {
+    "word": "discrete",
+    "ipa": "/dɪˈskriːt/",
+    "meaning": "개별적인, 분리된",
+    "example": "Discrete steps in a process.",
+    "synonyms": "separate, distinct, individual",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "discrete-609"
+  },
+  {
+    "word": "eliminate",
+    "ipa": "/ɪˈlɪməˌneɪt/",
+    "meaning": "제거하다, 없애다",
+    "example": "Eliminate errors from the text.",
+    "synonyms": "remove, get rid of, eradicate",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "eliminate-610"
+  },
+  {
+    "word": "empirical",
+    "ipa": "/ˌɛmˈpɪrɪkəl/",
+    "meaning": "경험적인, 실증적인",
+    "example": "Use empirical data.",
+    "synonyms": "observed, experimental, measured",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "empirical-611"
+  },
+  {
+    "word": "format",
+    "ipa": "/ˈfɔrˌmæt/",
+    "meaning": "형식, 포맷; 서식을 맞추다",
+    "example": "Use the correct format.",
+    "synonyms": "layout, structure, design",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "format-612"
+  },
+  {
+    "word": "forthcoming",
+    "ipa": "/ˈfɔrθˈkʌmɪŋ/",
+    "meaning": "곧 있을, 다가오는",
+    "example": "The forthcoming report.",
+    "synonyms": "upcoming, approaching, imminent",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "forthcoming-613"
+  },
+  {
+    "word": "found",
+    "ipa": "/ˈfaʊnd/",
+    "meaning": "설립하다",
+    "example": "They founded the company.",
+    "synonyms": "establish, create, set up",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "found-614"
+  },
+  {
+    "word": "identical",
+    "ipa": "/aɪˈdɛntɪkəl/",
+    "meaning": "동일한, 똑같은",
+    "example": "The two results were identical.",
+    "synonyms": "same, equal, matching",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "identical-615"
+  },
+  {
+    "word": "ideology",
+    "ipa": "/ˌaɪdiːˈɑlədʒiː/",
+    "meaning": "이념, 사상 체계",
+    "example": "The ideology shaped policy.",
+    "synonyms": "beliefs, doctrine, worldview",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "ideology-616"
+  },
+  {
+    "word": "inadequate",
+    "ipa": "/ˌɪˈnædəkwət/",
+    "meaning": "불충분한, 부적절한",
+    "example": "Inadequate preparation leads to failure.",
+    "synonyms": "insufficient, poor, lacking",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "inadequate-617"
+  },
+  {
+    "word": "incline",
+    "ipa": "/ˌɪnˈklaɪn/",
+    "meaning": "경향이 있다; 기울다",
+    "example": "She inclines toward caution.",
+    "synonyms": "tend, lean, be disposed",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "incline-618"
+  },
+  {
+    "word": "inhibit",
+    "ipa": "/ˌɪnˈhɪbət/",
+    "meaning": "억제하다, 방해하다",
+    "example": "Fear can inhibit learning.",
+    "synonyms": "hinder, prevent, restrain",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "inhibit-619"
+  },
+  {
+    "word": "initiate",
+    "ipa": "/ˌɪˈnɪʃiːˌeɪt/",
+    "meaning": "시작하다, 개시하다",
+    "example": "Initiate the review process.",
+    "synonyms": "start, begin, launch",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "initiate-620"
+  },
+  {
+    "word": "inherent",
+    "ipa": "/ɪnˈhɪrənt/",
+    "meaning": "본래의, 내재된",
+    "example": "Inherent flaws in the system.",
+    "synonyms": "inborn, natural, built-in",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "inherent-621"
+  },
+  {
+    "word": "insight",
+    "ipa": "/ˈɪnˌsaɪt/",
+    "meaning": "통찰(력)",
+    "example": "Gain insight into the problem.",
+    "synonyms": "understanding, perception, awareness",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "insight-622"
+  },
+  {
+    "word": "integral",
+    "ipa": "/ˈɪntəɡrəl/",
+    "meaning": "필수적인, 핵심적인",
+    "example": "An integral part of the plan.",
+    "synonyms": "essential, fundamental, central",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "integral-623"
+  },
+  {
+    "word": "invoke",
+    "ipa": "/ˌɪnˈvoʊk/",
+    "meaning": "원용하다; 불러일으키다",
+    "example": "Invoke the rule of law.",
+    "synonyms": "call on, appeal to, apply",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "invoke-624"
+  },
+  {
+    "word": "label",
+    "ipa": "/ˈleɪbəl/",
+    "meaning": "분류하다; 라벨",
+    "example": "Label each sample carefully.",
+    "synonyms": "name, tag, classify",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "label-625"
+  },
+  {
+    "word": "negate",
+    "ipa": "/nɪˈɡeɪt/",
+    "meaning": "무효화하다, 부정하다",
+    "example": "Errors negate the results.",
+    "synonyms": "cancel, nullify, invalidate",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "negate-626"
+  },
+  {
+    "word": "norm",
+    "ipa": "/ˈnɔrm/",
+    "meaning": "규범, 표준",
+    "example": "Social norms vary.",
+    "synonyms": "standard, rule, convention",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "norm-627"
+  },
+  {
+    "word": "overlap",
+    "ipa": "/ˈoʊvərˌlæp/",
+    "meaning": "겹치다; 중복",
+    "example": "The two topics overlap.",
+    "synonyms": "intersect, coincide, share",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "overlap-628"
+  },
+  {
+    "word": "partner",
+    "ipa": "/ˈpɑrtnər/",
+    "meaning": "파트너, 동반자",
+    "example": "Find a business partner.",
+    "synonyms": "associate, colleague, collaborator",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "partner-629"
+  },
+  {
+    "word": "rational",
+    "ipa": "/ˈræʃənəl/",
+    "meaning": "이성적인, 합리적인",
+    "example": "Make a rational decision.",
+    "synonyms": "logical, reasoned, sensible",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "rational-630"
+  },
+  {
+    "word": "abbreviate",
+    "ipa": "/əˈbriːviːˌeɪt/",
+    "meaning": "줄이다, 약자로 쓰다",
+    "example": "Abbreviate the long title.",
+    "synonyms": "shorten, condense, truncate",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "abbreviate-631"
+  },
+  {
+    "word": "accommodate",
+    "ipa": "/əˈkɑməˌdeɪt/",
+    "meaning": "수용하다; 적응하다",
+    "example": "Can the venue accommodate 200 people?",
+    "synonyms": "hold, adapt, house",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "accommodate-632"
+  },
+  {
+    "word": "accumulate",
+    "ipa": "/əˈkjuːmjəˌleɪt/",
+    "meaning": "축적하다, 모으다",
+    "example": "Accumulate evidence over time.",
+    "synonyms": "gather, build up, collect",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "accumulate-633"
+  },
+  {
+    "word": "ambiguity",
+    "ipa": "/ˌæmbɪˈɡjuːətiː/",
+    "meaning": "모호함, 애매함",
+    "example": "Avoid ambiguity in your writing.",
+    "synonyms": "vagueness, uncertainty, unclearness",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "ambiguity-634"
+  },
+  {
+    "word": "arbitrary",
+    "ipa": "/ˈɑrbəˌtrɛriː/",
+    "meaning": "임의적인, 자의적인",
+    "example": "The decision seemed arbitrary.",
+    "synonyms": "random, chance, unreasoned",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "arbitrary-635"
+  },
+  {
+    "word": "chart",
+    "ipa": "/ˈtʃɑrt/",
+    "meaning": "도표, 차트; 도표로 나타내다",
+    "example": "Chart the progress over time.",
+    "synonyms": "diagram, graph, map",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "chart-636"
+  },
+  {
+    "word": "chronological",
+    "ipa": "/ˌkrɑnəˈlɑdʒɪkəl/",
+    "meaning": "시간순의",
+    "example": "Present events in chronological order.",
+    "synonyms": "sequential, in order, time-based",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "chronological-637"
+  },
+  {
+    "word": "colleague",
+    "ipa": "/ˈkɑliːɡ/",
+    "meaning": "동료",
+    "example": "Discuss with your colleagues.",
+    "synonyms": "co-worker, peer, associate",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "colleague-638"
+  },
+  {
+    "word": "constraint",
+    "ipa": "/kənˈstreɪnt/",
+    "meaning": "제약, 제한",
+    "example": "Work within budget constraints.",
+    "synonyms": "limit, restriction, boundary",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "constraint-639"
+  },
+  {
+    "word": "controversy",
+    "ipa": "/ˈkɑntrəˌvɜːrsiː/",
+    "meaning": "논란, 논쟁",
+    "example": "The decision caused controversy.",
+    "synonyms": "debate, dispute, argument",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "controversy-640"
+  },
+  {
+    "word": "correlation",
+    "ipa": "/ˌkɔrəˈleɪʃən/",
+    "meaning": "상관관계",
+    "example": "There is a correlation between X and Y.",
+    "synonyms": "relationship, connection, link",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "correlation-641"
+  },
+  {
+    "word": "criterion",
+    "ipa": "/kraɪˈtɪriːən/",
+    "meaning": "기준 (criteria의 단수)",
+    "example": "The main criterion is accuracy.",
+    "synonyms": "standard, measure, rule",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "criterion-642"
+  },
+  {
+    "word": "dynamic",
+    "ipa": "/daɪˈnæmɪk/",
+    "meaning": "역동적인; 역학",
+    "example": "A dynamic environment.",
+    "synonyms": "changing, active, energetic",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "dynamic-643"
+  },
+  {
+    "word": "efficient",
+    "ipa": "/ɪˈfɪʃənt/",
+    "meaning": "효율적인",
+    "example": "An efficient method saves time.",
+    "synonyms": "productive, effective, streamlined",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "efficient-644"
+  },
+  {
+    "word": "enhance",
+    "ipa": "/ɛnˈhæns/",
+    "meaning": "향상시키다, 강화하다",
+    "example": "Enhance the quality of work.",
+    "synonyms": "improve, strengthen, boost",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "enhance-645"
+  },
+  {
+    "word": "finite",
+    "ipa": "/ˈfaɪˌnaɪt/",
+    "meaning": "유한한, 한정된",
+    "example": "Resources are finite.",
+    "synonyms": "limited, bounded, restricted",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "finite-646"
+  },
+  {
+    "word": "fluctuate",
+    "ipa": "/ˈflʌktʃəˌweɪt/",
+    "meaning": "변동하다, 오르내리다",
+    "example": "Prices fluctuate with demand.",
+    "synonyms": "vary, change, swing",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "fluctuate-647"
+  },
+  {
+    "word": "innovation",
+    "ipa": "/ˌɪnəˈveɪʃən/",
+    "meaning": "혁신",
+    "example": "Technological innovation drives growth.",
+    "synonyms": "invention, novelty, breakthrough",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "innovation-648"
+  },
+  {
+    "word": "collapse",
+    "ipa": "/kəˈlæps/",
+    "meaning": "무너지다, 붕괴하다",
+    "example": "The system may collapse.",
+    "synonyms": "fail, break down, fall",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "collapse-649"
+  },
+  {
+    "word": "concurrent",
+    "ipa": "/kənˈkɜːrənt/",
+    "meaning": "동시의, 병행하는",
+    "example": "Concurrent tasks were handled.",
+    "synonyms": "simultaneous, parallel, overlapping",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "concurrent-650"
+  },
+  {
+    "word": "contemporary",
+    "ipa": "/kənˈtɛmpərˌɛriː/",
+    "meaning": "현대의; 동시대의",
+    "example": "Contemporary art reflects society.",
+    "synonyms": "modern, current, present-day",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "contemporary-651"
+  },
+  {
+    "word": "contradict",
+    "ipa": "/ˌkɑntrəˈdɪkt/",
+    "meaning": "반박하다, 모순되다",
+    "example": "Don't contradict the evidence.",
+    "synonyms": "oppose, deny, dispute",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "contradict-652"
+  },
+  {
+    "word": "controversial",
+    "ipa": "/ˌkɑntrəˈvɜːrʃəl/",
+    "meaning": "논쟁이 많은",
+    "example": "A controversial decision.",
+    "synonyms": "disputed, debated, contested",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "controversial-653"
+  },
+  {
+    "word": "correlate",
+    "ipa": "/ˈkɔrəˌleɪt/",
+    "meaning": "상관관계가 있다",
+    "example": "These variables correlate.",
+    "synonyms": "relate, correspond, connect",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "correlate-654"
+  },
+  {
+    "word": "deviate",
+    "ipa": "/ˈdiːviːˌeɪt/",
+    "meaning": "벗어나다, 이탈하다",
+    "example": "Don't deviate from the plan.",
+    "synonyms": "stray, diverge, depart",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "deviate-655"
+  },
+  {
+    "word": "dominant",
+    "ipa": "/ˈdɑmənənt/",
+    "meaning": "지배적인, 우세한",
+    "example": "The dominant theory.",
+    "synonyms": "leading, primary, main",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "dominant-656"
+  },
+  {
+    "word": "exceed",
+    "ipa": "/ɪkˈsiːd/",
+    "meaning": "초과하다, 능가하다",
+    "example": "Results exceeded expectations.",
+    "synonyms": "surpass, go beyond, outdo",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "exceed-657"
+  },
+  {
+    "word": "adjacent",
+    "ipa": "/əˈdʒeɪsənt/",
+    "meaning": "인접한, 옆의",
+    "example": "The rooms are adjacent.",
+    "synonyms": "next to, neighboring, nearby",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "adjacent-658"
+  },
+  {
+    "word": "albeit",
+    "ipa": "/ɔlˈbiːɪt/",
+    "meaning": "비록 ~이지만",
+    "example": "He succeeded, albeit slowly.",
+    "synonyms": "although, even though, though",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "albeit-659"
+  },
+  {
+    "word": "attain",
+    "ipa": "/əˈteɪn/",
+    "meaning": "달성하다, 이루다",
+    "example": "Attain a high level of skill.",
+    "synonyms": "achieve, reach, accomplish",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "attain-660"
+  },
+  {
+    "word": "constitute",
+    "ipa": "/ˈkɑnstəˌtuːt/",
+    "meaning": "구성하다, ~에 해당하다",
+    "example": "This constitutes a violation.",
+    "synonyms": "make up, represent, form",
+    "deck": "AWL 570",
+    "section": "awl",
+    "id": "constitute-661"
+  }
+]
