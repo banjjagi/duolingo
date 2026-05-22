@@ -6618,5 +6618,1355 @@
     "deck": "AWL 570",
     "section": "awl",
     "id": "constitute-661"
+  },
+  {
+    "word": "advocate",
+    "ipa": "/ˈædvəkət/",
+    "meaning": "옹호하다, 주장하다",
+    "example": "She advocates for stricter environmental laws.",
+    "synonyms": "support, champion, promote",
+    "deck": "DET Advanced",
+    "section": "advanced",
+    "id": "advocate-662"
+  },
+  {
+    "word": "alleviate",
+    "ipa": "/əˈliːviːˌeɪt/",
+    "meaning": "완화하다, 경감하다",
+    "example": "Rest can alleviate stress.",
+    "synonyms": "ease, relieve, reduce",
+    "deck": "DET Advanced",
+    "section": "advanced",
+    "id": "alleviate-663"
+  },
+  {
+    "word": "articulate",
+    "ipa": "/ɑrˈtɪkjəˌleɪt/",
+    "meaning": "명확히 표현하다; 분명한",
+    "example": "He articulated his ideas clearly.",
+    "synonyms": "express, convey, voice",
+    "deck": "DET Advanced",
+    "section": "advanced",
+    "id": "articulate-664"
+  },
+  {
+    "word": "ascertain",
+    "ipa": "/ˌæsərˈteɪn/",
+    "meaning": "확인하다, 알아내다",
+    "example": "We need to ascertain the facts.",
+    "synonyms": "determine, find out, verify",
+    "deck": "DET Advanced",
+    "section": "advanced",
+    "id": "ascertain-665"
+  },
+  {
+    "word": "augment",
+    "ipa": "/ɔɡˈmɛnt/",
+    "meaning": "늘리다, 증가시키다",
+    "example": "She augmented her income with freelance work.",
+    "synonyms": "increase, enhance, supplement",
+    "deck": "DET Advanced",
+    "section": "advanced",
+    "id": "augment-666"
+  },
+  {
+    "word": "bolster",
+    "ipa": "/ˈboʊlstər/",
+    "meaning": "강화하다, 북돋우다",
+    "example": "New evidence bolsters the theory.",
+    "synonyms": "strengthen, reinforce, support",
+    "deck": "DET Advanced",
+    "section": "advanced",
+    "id": "bolster-667"
+  },
+  {
+    "word": "circumvent",
+    "ipa": "/ˌsɜːrkəmˈvɛnt/",
+    "meaning": "우회하다, 피하다",
+    "example": "They tried to circumvent the rules.",
+    "synonyms": "bypass, avoid, get around",
+    "deck": "DET Advanced",
+    "section": "advanced",
+    "id": "circumvent-668"
+  },
+  {
+    "word": "collaborate",
+    "ipa": "/kəˈlæbərˌeɪt/",
+    "meaning": "협력하다, 공동 작업하다",
+    "example": "Scientists collaborate to solve global problems.",
+    "synonyms": "cooperate, work together, partner",
+    "deck": "DET Advanced",
+    "section": "advanced",
+    "id": "collaborate-669"
+  },
+  {
+    "word": "delineate",
+    "ipa": "/dɪˈlɪniːˌeɪt/",
+    "meaning": "묘사하다, 윤곽을 그리다",
+    "example": "The report delineates the main challenges.",
+    "synonyms": "describe, outline, define",
+    "deck": "DET Advanced",
+    "section": "advanced",
+    "id": "delineate-670"
+  },
+  {
+    "word": "depict",
+    "ipa": "/dɪˈpɪkt/",
+    "meaning": "묘사하다, 나타내다",
+    "example": "The painting depicts a rural scene.",
+    "synonyms": "portray, show, represent",
+    "deck": "DET Advanced",
+    "section": "advanced",
+    "id": "depict-671"
+  },
+  {
+    "word": "discern",
+    "ipa": "/dɪˈsɜːrn/",
+    "meaning": "식별하다, 분간하다",
+    "example": "It is hard to discern the truth.",
+    "synonyms": "perceive, detect, distinguish",
+    "deck": "DET Advanced",
+    "section": "advanced",
+    "id": "discern-672"
+  },
+  {
+    "word": "disseminate",
+    "ipa": "/dɪˈsɛməˌneɪt/",
+    "meaning": "전파하다, 보급하다",
+    "example": "The internet disseminates information rapidly.",
+    "synonyms": "spread, distribute, circulate",
+    "deck": "DET Advanced",
+    "section": "advanced",
+    "id": "disseminate-673"
+  },
+  {
+    "word": "elaborate",
+    "ipa": "/ɪˈlæbrət/",
+    "meaning": "자세히 설명하다; 정교한",
+    "example": "Could you elaborate on your point?",
+    "synonyms": "explain in detail, expand, develop",
+    "deck": "DET Advanced",
+    "section": "advanced",
+    "id": "elaborate-674"
+  },
+  {
+    "word": "encompass",
+    "ipa": "/ɛnˈkʌmpəs/",
+    "meaning": "포함하다, 아우르다",
+    "example": "The course encompasses many topics.",
+    "synonyms": "include, cover, embrace",
+    "deck": "DET Advanced",
+    "section": "advanced",
+    "id": "encompass-675"
+  },
+  {
+    "word": "foster",
+    "ipa": "/ˈfɑstər/",
+    "meaning": "육성하다, 촉진하다",
+    "example": "Schools foster creativity in students.",
+    "synonyms": "encourage, nurture, promote",
+    "deck": "DET Advanced",
+    "section": "advanced",
+    "id": "foster-676"
+  },
+  {
+    "word": "hinder",
+    "ipa": "/ˈhɪndər/",
+    "meaning": "방해하다, 저해하다",
+    "example": "Lack of sleep hinders performance.",
+    "synonyms": "impede, obstruct, hamper",
+    "deck": "DET Advanced",
+    "section": "advanced",
+    "id": "hinder-677"
+  },
+  {
+    "word": "impede",
+    "ipa": "/ˌɪmˈpiːd/",
+    "meaning": "방해하다, 지연시키다",
+    "example": "Bureaucracy can impede progress.",
+    "synonyms": "hinder, block, obstruct",
+    "deck": "DET Advanced",
+    "section": "advanced",
+    "id": "impede-678"
+  },
+  {
+    "word": "infer",
+    "ipa": "/ˌɪnˈfɜːr/",
+    "meaning": "추론하다, 추측하다",
+    "example": "What can we infer from the data?",
+    "synonyms": "deduce, conclude, gather",
+    "deck": "DET Advanced",
+    "section": "advanced",
+    "id": "infer-679"
+  },
+  {
+    "word": "mitigate",
+    "ipa": "/ˈmɪtəˌɡeɪt/",
+    "meaning": "완화하다, 줄이다",
+    "example": "We must mitigate the risks.",
+    "synonyms": "reduce, lessen, alleviate",
+    "deck": "DET Advanced",
+    "section": "advanced",
+    "id": "mitigate-680"
+  },
+  {
+    "word": "portray",
+    "ipa": "/pɔrˈtreɪ/",
+    "meaning": "묘사하다, 표현하다",
+    "example": "The novel portrays life in the 19th century.",
+    "synonyms": "depict, represent, describe",
+    "deck": "DET Advanced",
+    "section": "advanced",
+    "id": "portray-681"
+  },
+  {
+    "word": "scrutinize",
+    "ipa": "/ˈskruːtəˌnaɪz/",
+    "meaning": "꼼꼼히 조사하다",
+    "example": "Auditors scrutinize financial records.",
+    "synonyms": "examine closely, inspect, analyze",
+    "deck": "DET Advanced",
+    "section": "advanced",
+    "id": "scrutinize-682"
+  },
+  {
+    "word": "speculate",
+    "ipa": "/ˈspɛkjəˌleɪt/",
+    "meaning": "추측하다, 사색하다",
+    "example": "Experts speculate about the cause.",
+    "synonyms": "guess, theorize, hypothesize",
+    "deck": "DET Advanced",
+    "section": "advanced",
+    "id": "speculate-683"
+  },
+  {
+    "word": "undermine",
+    "ipa": "/ˈʌndərˌmaɪn/",
+    "meaning": "약화시키다, 손상시키다",
+    "example": "Constant criticism undermines confidence.",
+    "synonyms": "weaken, erode, subvert",
+    "deck": "DET Advanced",
+    "section": "advanced",
+    "id": "undermine-684"
+  },
+  {
+    "word": "validate",
+    "ipa": "/ˈvælədeɪt/",
+    "meaning": "검증하다, 확인하다",
+    "example": "Validate your findings with further tests.",
+    "synonyms": "confirm, verify, substantiate",
+    "deck": "DET Advanced",
+    "section": "advanced",
+    "id": "validate-685"
+  },
+  {
+    "word": "contend",
+    "ipa": "/kənˈtɛnd/",
+    "meaning": "주장하다; 경쟁하다",
+    "example": "She contends that the policy is flawed.",
+    "synonyms": "argue, claim, assert",
+    "deck": "DET Advanced",
+    "section": "advanced",
+    "id": "contend-686"
+  },
+  {
+    "word": "contrive",
+    "ipa": "/kənˈtraɪv/",
+    "meaning": "고안하다, 꾸미다",
+    "example": "They contrived a solution to the problem.",
+    "synonyms": "devise, engineer, invent",
+    "deck": "DET Advanced",
+    "section": "advanced",
+    "id": "contrive-687"
+  },
+  {
+    "word": "corroborate",
+    "ipa": "/kərˈɑbərˌeɪt/",
+    "meaning": "확증하다, 뒷받침하다",
+    "example": "Witnesses corroborated his account.",
+    "synonyms": "confirm, support, verify",
+    "deck": "DET Advanced",
+    "section": "advanced",
+    "id": "corroborate-688"
+  },
+  {
+    "word": "culminate",
+    "ipa": "/ˈkʌlmɪˌneɪt/",
+    "meaning": "절정에 달하다",
+    "example": "Years of work culminated in success.",
+    "synonyms": "peak, climax, result in",
+    "deck": "DET Advanced",
+    "section": "advanced",
+    "id": "culminate-689"
+  },
+  {
+    "word": "diminish",
+    "ipa": "/dɪˈmɪnɪʃ/",
+    "meaning": "줄어들다, 약화시키다",
+    "example": "Noise diminishes concentration.",
+    "synonyms": "reduce, lessen, decrease",
+    "deck": "DET Advanced",
+    "section": "advanced",
+    "id": "diminish-690"
+  },
+  {
+    "word": "elicit",
+    "ipa": "/ɪˈlɪsɪt/",
+    "meaning": "이끌어 내다, 유발하다",
+    "example": "The question elicited a strong reaction.",
+    "synonyms": "evoke, draw out, provoke",
+    "deck": "DET Advanced",
+    "section": "advanced",
+    "id": "elicit-691"
+  },
+  {
+    "word": "exacerbate",
+    "ipa": "/ɪɡˈzæsərˌbeɪt/",
+    "meaning": "악화시키다",
+    "example": "Stress can exacerbate health problems.",
+    "synonyms": "worsen, aggravate, intensify",
+    "deck": "DET Advanced",
+    "section": "advanced",
+    "id": "exacerbate-692"
+  },
+  {
+    "word": "exemplify",
+    "ipa": "/ɪɡˈzɛmpləˌfaɪ/",
+    "meaning": "예시하다, 전형이 되다",
+    "example": "This case exemplifies the problem well.",
+    "synonyms": "illustrate, demonstrate, typify",
+    "deck": "DET Advanced",
+    "section": "advanced",
+    "id": "exemplify-693"
+  },
+  {
+    "word": "gauge",
+    "ipa": "/ˈɡeɪdʒ/",
+    "meaning": "측정하다; 가늠하다",
+    "example": "It is difficult to gauge public opinion.",
+    "synonyms": "measure, assess, estimate",
+    "deck": "DET Advanced",
+    "section": "advanced",
+    "id": "gauge-694"
+  },
+  {
+    "word": "illuminate",
+    "ipa": "/ˌɪˈluːmɪnɪt/",
+    "meaning": "밝히다, 명확히 하다",
+    "example": "The study illuminates an overlooked issue.",
+    "synonyms": "clarify, shed light on, explain",
+    "deck": "DET Advanced",
+    "section": "advanced",
+    "id": "illuminate-695"
+  },
+  {
+    "word": "inhibit",
+    "ipa": "/ˌɪnˈhɪbət/",
+    "meaning": "억제하다, 방해하다",
+    "example": "Fear inhibits creative thinking.",
+    "synonyms": "hinder, prevent, suppress",
+    "deck": "DET Advanced",
+    "section": "advanced",
+    "id": "inhibit-696"
+  },
+  {
+    "word": "mandate",
+    "ipa": "/ˈmænˌdeɪt/",
+    "meaning": "의무화하다; 명령",
+    "example": "The law mandates annual inspections.",
+    "synonyms": "require, order, compel",
+    "deck": "DET Advanced",
+    "section": "advanced",
+    "id": "mandate-697"
+  },
+  {
+    "word": "merit",
+    "ipa": "/ˈmɛrət/",
+    "meaning": "가치가 있다; 장점",
+    "example": "The idea merits further consideration.",
+    "synonyms": "deserve, warrant, be worth",
+    "deck": "DET Advanced",
+    "section": "advanced",
+    "id": "merit-698"
+  },
+  {
+    "word": "negate",
+    "ipa": "/nɪˈɡeɪt/",
+    "meaning": "부정하다, 무효화하다",
+    "example": "One error can negate all progress.",
+    "synonyms": "nullify, cancel, invalidate",
+    "deck": "DET Advanced",
+    "section": "advanced",
+    "id": "negate-699"
+  },
+  {
+    "word": "obscure",
+    "ipa": "/əbsˈkjʊr/",
+    "meaning": "모호하게 하다; 잘 알려지지 않은",
+    "example": "Technical jargon can obscure meaning.",
+    "synonyms": "hide, conceal, complicate",
+    "deck": "DET Advanced",
+    "section": "advanced",
+    "id": "obscure-700"
+  },
+  {
+    "word": "pertain",
+    "ipa": "/pərˈteɪn/",
+    "meaning": "관련되다, 해당되다",
+    "example": "These rules pertain to all staff.",
+    "synonyms": "relate, apply, concern",
+    "deck": "DET Advanced",
+    "section": "advanced",
+    "id": "pertain-701"
+  },
+  {
+    "word": "postulate",
+    "ipa": "/ˈpɑstʃəˌleɪt/",
+    "meaning": "가정하다, 공리로 세우다",
+    "example": "She postulated a new theory.",
+    "synonyms": "assume, hypothesize, propose",
+    "deck": "DET Advanced",
+    "section": "advanced",
+    "id": "postulate-702"
+  },
+  {
+    "word": "presuppose",
+    "ipa": "/ˌpriːsəˈpoʊz/",
+    "meaning": "전제하다, 예상하다",
+    "example": "The plan presupposes sufficient funding.",
+    "synonyms": "assume, take for granted, imply",
+    "deck": "DET Advanced",
+    "section": "advanced",
+    "id": "presuppose-703"
+  },
+  {
+    "word": "proliferate",
+    "ipa": "/proʊˈlɪfərˌeɪt/",
+    "meaning": "급증하다, 번성하다",
+    "example": "Social media platforms have proliferated.",
+    "synonyms": "multiply, spread, increase rapidly",
+    "deck": "DET Advanced",
+    "section": "advanced",
+    "id": "proliferate-704"
+  },
+  {
+    "word": "reconcile",
+    "ipa": "/ˈrɛkənˌsaɪl/",
+    "meaning": "화해시키다; 조화시키다",
+    "example": "It is hard to reconcile the two views.",
+    "synonyms": "harmonize, resolve, make consistent",
+    "deck": "DET Advanced",
+    "section": "advanced",
+    "id": "reconcile-705"
+  },
+  {
+    "word": "rectify",
+    "ipa": "/ˈrɛktəˌfaɪ/",
+    "meaning": "바로잡다, 수정하다",
+    "example": "Steps were taken to rectify the error.",
+    "synonyms": "correct, fix, remedy",
+    "deck": "DET Advanced",
+    "section": "advanced",
+    "id": "rectify-706"
+  },
+  {
+    "word": "refute",
+    "ipa": "/rɪˈfjuːt/",
+    "meaning": "반박하다, 논박하다",
+    "example": "She refuted the claim with evidence.",
+    "synonyms": "disprove, rebut, counter",
+    "deck": "DET Advanced",
+    "section": "advanced",
+    "id": "refute-707"
+  },
+  {
+    "word": "reiterate",
+    "ipa": "/riːˈɪtərˌeɪt/",
+    "meaning": "반복하다, 되풀이하다",
+    "example": "Let me reiterate the main points.",
+    "synonyms": "repeat, restate, emphasize again",
+    "deck": "DET Advanced",
+    "section": "advanced",
+    "id": "reiterate-708"
+  },
+  {
+    "word": "substantiate",
+    "ipa": "/səbˈstæntʃiːˌeɪt/",
+    "meaning": "입증하다, 실증하다",
+    "example": "Can you substantiate your claims?",
+    "synonyms": "prove, confirm, verify",
+    "deck": "DET Advanced",
+    "section": "advanced",
+    "id": "substantiate-709"
+  },
+  {
+    "word": "supersede",
+    "ipa": "/ˌsuːpərˈsiːd/",
+    "meaning": "대체하다, 능가하다",
+    "example": "New technology supersedes old methods.",
+    "synonyms": "replace, displace, succeed",
+    "deck": "DET Advanced",
+    "section": "advanced",
+    "id": "supersede-710"
+  },
+  {
+    "word": "transcend",
+    "ipa": "/trænˈsɛnd/",
+    "meaning": "초월하다, 능가하다",
+    "example": "Great art transcends cultural boundaries.",
+    "synonyms": "go beyond, surpass, exceed",
+    "deck": "DET Advanced",
+    "section": "advanced",
+    "id": "transcend-711"
+  },
+  {
+    "word": "ambivalent",
+    "ipa": "/æmˈbɪvələnt/",
+    "meaning": "양면적인, 상반된 감정의",
+    "example": "She felt ambivalent about the decision.",
+    "synonyms": "conflicted, undecided, torn",
+    "deck": "DET Advanced",
+    "section": "advanced",
+    "id": "ambivalent-712"
+  },
+  {
+    "word": "analogous",
+    "ipa": "/əˈnæləɡəs/",
+    "meaning": "유사한, 비슷한",
+    "example": "The situation is analogous to last year.",
+    "synonyms": "similar, comparable, parallel",
+    "deck": "DET Advanced",
+    "section": "advanced",
+    "id": "analogous-713"
+  },
+  {
+    "word": "arbitrary",
+    "ipa": "/ˈɑrbəˌtrɛriː/",
+    "meaning": "임의적인, 독단적인",
+    "example": "The rule seems arbitrary and unfair.",
+    "synonyms": "random, capricious, unreasoned",
+    "deck": "DET Advanced",
+    "section": "advanced",
+    "id": "arbitrary-714"
+  },
+  {
+    "word": "coherent",
+    "ipa": "/koʊˈhɪrənt/",
+    "meaning": "일관된, 논리적인",
+    "example": "Present a coherent argument.",
+    "synonyms": "logical, consistent, clear",
+    "deck": "DET Advanced",
+    "section": "advanced",
+    "id": "coherent-715"
+  },
+  {
+    "word": "contentious",
+    "ipa": "/kənˈtɛnʃəs/",
+    "meaning": "논쟁의 여지가 있는",
+    "example": "Climate policy is a contentious issue.",
+    "synonyms": "controversial, disputed, debatable",
+    "deck": "DET Advanced",
+    "section": "advanced",
+    "id": "contentious-716"
+  },
+  {
+    "word": "elusive",
+    "ipa": "/ɪˈluːsɪv/",
+    "meaning": "파악하기 어려운, 잡기 힘든",
+    "example": "The solution remained elusive.",
+    "synonyms": "hard to find, fleeting, intangible",
+    "deck": "DET Advanced",
+    "section": "advanced",
+    "id": "elusive-717"
+  },
+  {
+    "word": "erroneous",
+    "ipa": "/ɛˈroʊniːəs/",
+    "meaning": "잘못된, 부정확한",
+    "example": "The report contained erroneous data.",
+    "synonyms": "incorrect, wrong, mistaken",
+    "deck": "DET Advanced",
+    "section": "advanced",
+    "id": "erroneous-718"
+  },
+  {
+    "word": "excessive",
+    "ipa": "/ɪkˈsɛsɪv/",
+    "meaning": "과도한, 지나친",
+    "example": "Excessive stress is harmful.",
+    "synonyms": "extreme, too much, unreasonable",
+    "deck": "DET Advanced",
+    "section": "advanced",
+    "id": "excessive-719"
+  },
+  {
+    "word": "feasible",
+    "ipa": "/ˈfiːzəbəl/",
+    "meaning": "실현 가능한, 타당한",
+    "example": "Is the plan feasible within budget?",
+    "synonyms": "possible, practicable, viable",
+    "deck": "DET Advanced",
+    "section": "advanced",
+    "id": "feasible-720"
+  },
+  {
+    "word": "formidable",
+    "ipa": "/ˈfɔrmədəbəl/",
+    "meaning": "강력한, 만만치 않은",
+    "example": "She faced formidable challenges.",
+    "synonyms": "daunting, powerful, impressive",
+    "deck": "DET Advanced",
+    "section": "advanced",
+    "id": "formidable-721"
+  },
+  {
+    "word": "imperative",
+    "ipa": "/ˌɪmˈpɛrətɪv/",
+    "meaning": "필수적인; 명령법",
+    "example": "It is imperative to act now.",
+    "synonyms": "essential, crucial, necessary",
+    "deck": "DET Advanced",
+    "section": "advanced",
+    "id": "imperative-722"
+  },
+  {
+    "word": "inherent",
+    "ipa": "/ɪnˈhɪrənt/",
+    "meaning": "내재된, 본래의",
+    "example": "There are inherent risks in the plan.",
+    "synonyms": "inborn, natural, built-in",
+    "deck": "DET Advanced",
+    "section": "advanced",
+    "id": "inherent-723"
+  },
+  {
+    "word": "intrinsic",
+    "ipa": "/ˌɪnˈtrɪnsɪk/",
+    "meaning": "본질적인, 고유한",
+    "example": "The intrinsic value of education.",
+    "synonyms": "essential, innate, fundamental",
+    "deck": "DET Advanced",
+    "section": "advanced",
+    "id": "intrinsic-724"
+  },
+  {
+    "word": "lucid",
+    "ipa": "/ˈluːsəd/",
+    "meaning": "명쾌한, 명료한",
+    "example": "His explanation was lucid and helpful.",
+    "synonyms": "clear, transparent, intelligible",
+    "deck": "DET Advanced",
+    "section": "advanced",
+    "id": "lucid-725"
+  },
+  {
+    "word": "meticulous",
+    "ipa": "/məˈtɪkjələs/",
+    "meaning": "꼼꼼한, 세심한",
+    "example": "She is meticulous in her research.",
+    "synonyms": "careful, thorough, precise",
+    "deck": "DET Advanced",
+    "section": "advanced",
+    "id": "meticulous-726"
+  },
+  {
+    "word": "paramount",
+    "ipa": "/ˈpɛrəˌmaʊnt/",
+    "meaning": "가장 중요한, 최우선의",
+    "example": "Safety is of paramount importance.",
+    "synonyms": "most important, supreme, chief",
+    "deck": "DET Advanced",
+    "section": "advanced",
+    "id": "paramount-727"
+  },
+  {
+    "word": "pervasive",
+    "ipa": "/pərˈveɪsɪv/",
+    "meaning": "만연한, 널리 퍼진",
+    "example": "Social media has a pervasive influence.",
+    "synonyms": "widespread, ubiquitous, prevalent",
+    "deck": "DET Advanced",
+    "section": "advanced",
+    "id": "pervasive-728"
+  },
+  {
+    "word": "plausible",
+    "ipa": "/ˈplɔzəbəl/",
+    "meaning": "그럴듯한, 믿을 만한",
+    "example": "His explanation sounds plausible.",
+    "synonyms": "credible, believable, reasonable",
+    "deck": "DET Advanced",
+    "section": "advanced",
+    "id": "plausible-729"
+  },
+  {
+    "word": "profound",
+    "ipa": "/proʊˈfaʊnd/",
+    "meaning": "심오한, 깊은",
+    "example": "The discovery had a profound impact.",
+    "synonyms": "deep, significant, far-reaching",
+    "deck": "DET Advanced",
+    "section": "advanced",
+    "id": "profound-730"
+  },
+  {
+    "word": "redundant",
+    "ipa": "/rɪˈdʌndənt/",
+    "meaning": "불필요한, 중복된",
+    "example": "The sentence contains redundant words.",
+    "synonyms": "superfluous, unnecessary, repetitive",
+    "deck": "DET Advanced",
+    "section": "advanced",
+    "id": "redundant-731"
+  },
+  {
+    "word": "robust",
+    "ipa": "/roʊˈbʌst/",
+    "meaning": "강건한, 튼튼한",
+    "example": "We need a robust methodology.",
+    "synonyms": "strong, sturdy, resilient",
+    "deck": "DET Advanced",
+    "section": "advanced",
+    "id": "robust-732"
+  },
+  {
+    "word": "salient",
+    "ipa": "/ˈseɪliːənt/",
+    "meaning": "두드러진, 가장 중요한",
+    "example": "Highlight the salient points.",
+    "synonyms": "prominent, notable, key",
+    "deck": "DET Advanced",
+    "section": "advanced",
+    "id": "salient-733"
+  },
+  {
+    "word": "substantial",
+    "ipa": "/səbˈstænʃəl/",
+    "meaning": "상당한, 실질적인",
+    "example": "There was a substantial improvement.",
+    "synonyms": "considerable, significant, large",
+    "deck": "DET Advanced",
+    "section": "advanced",
+    "id": "substantial-734"
+  },
+  {
+    "word": "subtle",
+    "ipa": "/ˈsʌtəl/",
+    "meaning": "미묘한, 포착하기 어려운",
+    "example": "There is a subtle difference between them.",
+    "synonyms": "delicate, fine, understated",
+    "deck": "DET Advanced",
+    "section": "advanced",
+    "id": "subtle-735"
+  },
+  {
+    "word": "systematic",
+    "ipa": "/ˌsɪstəˈmætɪk/",
+    "meaning": "체계적인, 조직적인",
+    "example": "A systematic approach is needed.",
+    "synonyms": "methodical, organized, structured",
+    "deck": "DET Advanced",
+    "section": "advanced",
+    "id": "systematic-736"
+  },
+  {
+    "word": "tangible",
+    "ipa": "/ˈtændʒəbəl/",
+    "meaning": "유형의, 실재하는",
+    "example": "We need tangible evidence.",
+    "synonyms": "concrete, real, physical",
+    "deck": "DET Advanced",
+    "section": "advanced",
+    "id": "tangible-737"
+  },
+  {
+    "word": "tentative",
+    "ipa": "/ˈtɛntətɪv/",
+    "meaning": "잠정적인, 확정되지 않은",
+    "example": "These are tentative conclusions.",
+    "synonyms": "provisional, preliminary, uncertain",
+    "deck": "DET Advanced",
+    "section": "advanced",
+    "id": "tentative-738"
+  },
+  {
+    "word": "trivial",
+    "ipa": "/ˈtrɪviːəl/",
+    "meaning": "사소한, 하찮은",
+    "example": "Don't waste time on trivial matters.",
+    "synonyms": "minor, insignificant, petty",
+    "deck": "DET Advanced",
+    "section": "advanced",
+    "id": "trivial-739"
+  },
+  {
+    "word": "ubiquitous",
+    "ipa": "/juːˈbɪkwɪtəs/",
+    "meaning": "어디에나 있는, 도처에 있는",
+    "example": "Smartphones are now ubiquitous.",
+    "synonyms": "everywhere, omnipresent, universal",
+    "deck": "DET Advanced",
+    "section": "advanced",
+    "id": "ubiquitous-740"
+  },
+  {
+    "word": "versatile",
+    "ipa": "/ˈvɜːrsətəl/",
+    "meaning": "다재다능한, 다용도의",
+    "example": "She is a versatile writer.",
+    "synonyms": "flexible, adaptable, all-round",
+    "deck": "DET Advanced",
+    "section": "advanced",
+    "id": "versatile-741"
+  },
+  {
+    "word": "viable",
+    "ipa": "/ˈvaɪəbəl/",
+    "meaning": "실행 가능한, 생존 가능한",
+    "example": "Is this a viable solution?",
+    "synonyms": "feasible, workable, practicable",
+    "deck": "DET Advanced",
+    "section": "advanced",
+    "id": "viable-742"
+  },
+  {
+    "word": "volatile",
+    "ipa": "/ˈvɑlətəl/",
+    "meaning": "변동이 심한; 불안정한",
+    "example": "The stock market is volatile.",
+    "synonyms": "unstable, unpredictable, changeable",
+    "deck": "DET Advanced",
+    "section": "advanced",
+    "id": "volatile-743"
+  },
+  {
+    "word": "abstraction",
+    "ipa": "/æbˈstrækʃən/",
+    "meaning": "추상화, 추상적 개념",
+    "example": "Philosophy deals with abstraction.",
+    "synonyms": "concept, generalization, idea",
+    "deck": "DET Advanced",
+    "section": "advanced",
+    "id": "abstraction-744"
+  },
+  {
+    "word": "adversity",
+    "ipa": "/ædˈvɜːrsɪˌtiː/",
+    "meaning": "역경, 고난",
+    "example": "She thrived despite adversity.",
+    "synonyms": "hardship, difficulty, misfortune",
+    "deck": "DET Advanced",
+    "section": "advanced",
+    "id": "adversity-745"
+  },
+  {
+    "word": "assertion",
+    "ipa": "/əˈsɜːrʃən/",
+    "meaning": "주장, 단언",
+    "example": "His assertion lacks supporting evidence.",
+    "synonyms": "claim, statement, declaration",
+    "deck": "DET Advanced",
+    "section": "advanced",
+    "id": "assertion-746"
+  },
+  {
+    "word": "coherence",
+    "ipa": "/koʊˈhɪrəns/",
+    "meaning": "일관성, 논리적 연결",
+    "example": "The essay lacks coherence.",
+    "synonyms": "consistency, logic, unity",
+    "deck": "DET Advanced",
+    "section": "advanced",
+    "id": "coherence-747"
+  },
+  {
+    "word": "connotation",
+    "ipa": "/ˌkɑnəˈteɪʃən/",
+    "meaning": "함축, 내포된 의미",
+    "example": "The word has negative connotations.",
+    "synonyms": "implication, undertone, association",
+    "deck": "DET Advanced",
+    "section": "advanced",
+    "id": "connotation-748"
+  },
+  {
+    "word": "deduction",
+    "ipa": "/dɪˈdʌkʃən/",
+    "meaning": "공제; 연역, 추론",
+    "example": "Logical deduction leads to the answer.",
+    "synonyms": "reasoning, inference, conclusion",
+    "deck": "DET Advanced",
+    "section": "advanced",
+    "id": "deduction-749"
+  },
+  {
+    "word": "deficiency",
+    "ipa": "/dɪˈfɪʃənsiː/",
+    "meaning": "결핍, 부족",
+    "example": "A vitamin deficiency can cause illness.",
+    "synonyms": "lack, shortage, inadequacy",
+    "deck": "DET Advanced",
+    "section": "advanced",
+    "id": "deficiency-750"
+  },
+  {
+    "word": "discrepancy",
+    "ipa": "/dɪˈskrɛpənsiː/",
+    "meaning": "불일치, 차이",
+    "example": "There is a discrepancy in the figures.",
+    "synonyms": "inconsistency, difference, gap",
+    "deck": "DET Advanced",
+    "section": "advanced",
+    "id": "discrepancy-751"
+  },
+  {
+    "word": "distinction",
+    "ipa": "/dɪˈstɪŋkʃən/",
+    "meaning": "차이; 탁월함",
+    "example": "There is a clear distinction between them.",
+    "synonyms": "difference, contrast, differentiation",
+    "deck": "DET Advanced",
+    "section": "advanced",
+    "id": "distinction-752"
+  },
+  {
+    "word": "fallacy",
+    "ipa": "/ˈfæləsiː/",
+    "meaning": "오류, 잘못된 생각",
+    "example": "That argument is based on a fallacy.",
+    "synonyms": "error, misconception, false belief",
+    "deck": "DET Advanced",
+    "section": "advanced",
+    "id": "fallacy-753"
+  },
+  {
+    "word": "feasibility",
+    "ipa": "/ˌfiːzəˈbɪlətiː/",
+    "meaning": "실현 가능성",
+    "example": "Study the feasibility of the project.",
+    "synonyms": "practicality, viability, possibility",
+    "deck": "DET Advanced",
+    "section": "advanced",
+    "id": "feasibility-754"
+  },
+  {
+    "word": "inference",
+    "ipa": "/ˈɪnfərəns/",
+    "meaning": "추론, 결론",
+    "example": "Draw an inference from the data.",
+    "synonyms": "conclusion, deduction, interpretation",
+    "deck": "DET Advanced",
+    "section": "advanced",
+    "id": "inference-755"
+  },
+  {
+    "word": "integrity",
+    "ipa": "/ˌɪnˈtɛɡrətiː/",
+    "meaning": "성실함; 온전함",
+    "example": "Act with integrity in all situations.",
+    "synonyms": "honesty, uprightness, wholeness",
+    "deck": "DET Advanced",
+    "section": "advanced",
+    "id": "integrity-756"
+  },
+  {
+    "word": "misconception",
+    "ipa": "/mɪskənˈsɛpʃən/",
+    "meaning": "오해, 잘못된 생각",
+    "example": "There are many misconceptions about diet.",
+    "synonyms": "misunderstanding, false belief, error",
+    "deck": "DET Advanced",
+    "section": "advanced",
+    "id": "misconception-757"
+  },
+  {
+    "word": "nuance",
+    "ipa": "/ˈnuːɑns/",
+    "meaning": "뉘앙스, 미묘한 차이",
+    "example": "Understand the nuances of the language.",
+    "synonyms": "subtlety, shade, fine distinction",
+    "deck": "DET Advanced",
+    "section": "advanced",
+    "id": "nuance-758"
+  },
+  {
+    "word": "perception",
+    "ipa": "/pərˈsɛpʃən/",
+    "meaning": "인식, 지각",
+    "example": "Our perception of risk varies.",
+    "synonyms": "awareness, view, understanding",
+    "deck": "DET Advanced",
+    "section": "advanced",
+    "id": "perception-759"
+  },
+  {
+    "word": "precedent",
+    "ipa": "/ˈprɛsɪdənt/",
+    "meaning": "선례, 전례",
+    "example": "This sets a dangerous precedent.",
+    "synonyms": "example, model, prior case",
+    "deck": "DET Advanced",
+    "section": "advanced",
+    "id": "precedent-760"
+  },
+  {
+    "word": "premise",
+    "ipa": "/ˈprɛmɪs/",
+    "meaning": "전제, 근거",
+    "example": "The argument rests on a faulty premise.",
+    "synonyms": "assumption, basis, presupposition",
+    "deck": "DET Advanced",
+    "section": "advanced",
+    "id": "premise-761"
+  },
+  {
+    "word": "prevalence",
+    "ipa": "/ˈprɛvələns/",
+    "meaning": "보급, 만연",
+    "example": "The prevalence of obesity is rising.",
+    "synonyms": "frequency, commonness, widespread occurrence",
+    "deck": "DET Advanced",
+    "section": "advanced",
+    "id": "prevalence-762"
+  },
+  {
+    "word": "rhetoric",
+    "ipa": "/ˈrɛtərɪk/",
+    "meaning": "수사법; 미사여구",
+    "example": "The speech was full of empty rhetoric.",
+    "synonyms": "persuasive language, oratory, eloquence",
+    "deck": "DET Advanced",
+    "section": "advanced",
+    "id": "rhetoric-763"
+  },
+  {
+    "word": "scrutiny",
+    "ipa": "/ˈskruːtəniː/",
+    "meaning": "면밀한 조사, 세밀한 검토",
+    "example": "The decision came under public scrutiny.",
+    "synonyms": "close examination, inspection, attention",
+    "deck": "DET Advanced",
+    "section": "advanced",
+    "id": "scrutiny-764"
+  },
+  {
+    "word": "speculation",
+    "ipa": "/ˌspɛkjəˈleɪʃən/",
+    "meaning": "추측, 사색; 투기",
+    "example": "There is much speculation about the cause.",
+    "synonyms": "conjecture, theory, guesswork",
+    "deck": "DET Advanced",
+    "section": "advanced",
+    "id": "speculation-765"
+  },
+  {
+    "word": "testimony",
+    "ipa": "/ˈtɛstəˌmoʊniː/",
+    "meaning": "증언, 증거",
+    "example": "Her testimony was crucial to the case.",
+    "synonyms": "evidence, statement, account",
+    "deck": "DET Advanced",
+    "section": "advanced",
+    "id": "testimony-766"
+  },
+  {
+    "word": "validity",
+    "ipa": "/vəˈlɪdətiː/",
+    "meaning": "타당성, 유효성",
+    "example": "Question the validity of the results.",
+    "synonyms": "soundness, legitimacy, credibility",
+    "deck": "DET Advanced",
+    "section": "advanced",
+    "id": "validity-767"
+  },
+  {
+    "word": "ambiguity",
+    "ipa": "/ˌæmbɪˈɡjuːətiː/",
+    "meaning": "모호함, 애매함",
+    "example": "Avoid ambiguity in academic writing.",
+    "synonyms": "vagueness, uncertainty, double meaning",
+    "deck": "DET Advanced",
+    "section": "advanced",
+    "id": "ambiguity-768"
+  },
+  {
+    "word": "consensus",
+    "ipa": "/kənˈsɛnsəs/",
+    "meaning": "합의, 의견 일치",
+    "example": "There is broad consensus on this issue.",
+    "synonyms": "agreement, accord, unanimity",
+    "deck": "DET Advanced",
+    "section": "advanced",
+    "id": "consensus-769"
+  },
+  {
+    "word": "dichotomy",
+    "ipa": "/daɪˈkɑtəmiː/",
+    "meaning": "이분법, 이원 대립",
+    "example": "The dichotomy between theory and practice.",
+    "synonyms": "division, contrast, split",
+    "deck": "DET Advanced",
+    "section": "advanced",
+    "id": "dichotomy-770"
+  },
+  {
+    "word": "disposition",
+    "ipa": "/ˌdɪspəˈzɪʃən/",
+    "meaning": "성향, 기질; 배치",
+    "example": "She has a disposition toward caution.",
+    "synonyms": "tendency, inclination, temperament",
+    "deck": "DET Advanced",
+    "section": "advanced",
+    "id": "disposition-771"
+  },
+  {
+    "word": "endeavor",
+    "ipa": "/ɪnˈdɛvər/",
+    "meaning": "노력, 시도",
+    "example": "Her endeavors finally paid off.",
+    "synonyms": "effort, attempt, undertaking",
+    "deck": "DET Advanced",
+    "section": "advanced",
+    "id": "endeavor-772"
+  },
+  {
+    "word": "expenditure",
+    "ipa": "/ɪkˈspɛndətʃər/",
+    "meaning": "지출, 비용",
+    "example": "Government expenditure on health rose.",
+    "synonyms": "spending, outlay, expense",
+    "deck": "DET Advanced",
+    "section": "advanced",
+    "id": "expenditure-773"
+  },
+  {
+    "word": "hierarchy",
+    "ipa": "/ˈhaɪərˌɑrkiː/",
+    "meaning": "위계, 계층 구조",
+    "example": "Challenge the existing hierarchy.",
+    "synonyms": "ranking, order, pecking order",
+    "deck": "DET Advanced",
+    "section": "advanced",
+    "id": "hierarchy-774"
+  },
+  {
+    "word": "hypothesis",
+    "ipa": "/haɪˈpɑθəsəs/",
+    "meaning": "가설",
+    "example": "The hypothesis was tested experimentally.",
+    "synonyms": "theory, assumption, postulate",
+    "deck": "DET Advanced",
+    "section": "advanced",
+    "id": "hypothesis-775"
+  },
+  {
+    "word": "incentive",
+    "ipa": "/ˌɪnˈsɛntɪv/",
+    "meaning": "동기, 유인책",
+    "example": "Offer an incentive to increase productivity.",
+    "synonyms": "motivation, stimulus, reward",
+    "deck": "DET Advanced",
+    "section": "advanced",
+    "id": "incentive-776"
+  },
+  {
+    "word": "magnitude",
+    "ipa": "/ˈmæɡnəˌtuːd/",
+    "meaning": "규모, 크기",
+    "example": "The magnitude of the problem is clear.",
+    "synonyms": "size, scale, extent",
+    "deck": "DET Advanced",
+    "section": "advanced",
+    "id": "magnitude-777"
+  },
+  {
+    "word": "paradigm",
+    "ipa": "/ˈpɛrəˌdaɪm/",
+    "meaning": "패러다임, 사고의 틀",
+    "example": "A paradigm shift in science.",
+    "synonyms": "model, framework, standard",
+    "deck": "DET Advanced",
+    "section": "advanced",
+    "id": "paradigm-778"
+  },
+  {
+    "word": "rationale",
+    "ipa": "/ˌræʃəˈnæl/",
+    "meaning": "이론적 근거, 이유",
+    "example": "Explain the rationale behind the decision.",
+    "synonyms": "reason, justification, logic",
+    "deck": "DET Advanced",
+    "section": "advanced",
+    "id": "rationale-779"
+  },
+  {
+    "word": "repercussion",
+    "ipa": "/ˌriːpərˈkʌʃən/",
+    "meaning": "반향, 파장",
+    "example": "The decision had major repercussions.",
+    "synonyms": "consequence, effect, impact",
+    "deck": "DET Advanced",
+    "section": "advanced",
+    "id": "repercussion-780"
+  },
+  {
+    "word": "resilience",
+    "ipa": "/rɪˈzɪliːəns/",
+    "meaning": "회복력, 탄력성",
+    "example": "Children show remarkable resilience.",
+    "synonyms": "toughness, adaptability, strength",
+    "deck": "DET Advanced",
+    "section": "advanced",
+    "id": "resilience-781"
+  },
+  {
+    "word": "skepticism",
+    "ipa": "/ˈskɛptɪˌsɪzəm/",
+    "meaning": "회의주의, 의구심",
+    "example": "There is widespread skepticism about the plan.",
+    "synonyms": "doubt, disbelief, questioning",
+    "deck": "DET Advanced",
+    "section": "advanced",
+    "id": "skepticism-782"
+  },
+  {
+    "word": "trajectory",
+    "ipa": "/trəˈdʒɛktəriː/",
+    "meaning": "궤적, 진행 경로",
+    "example": "The economy is on an upward trajectory.",
+    "synonyms": "path, course, direction",
+    "deck": "DET Advanced",
+    "section": "advanced",
+    "id": "trajectory-783"
+  },
+  {
+    "word": "notwithstanding",
+    "ipa": "/ˌnɑtwɪθˈstændɪŋ/",
+    "meaning": "~에도 불구하고",
+    "example": "Notwithstanding the risks, they proceeded.",
+    "synonyms": "despite, regardless of, in spite of",
+    "deck": "DET Advanced",
+    "section": "advanced",
+    "id": "notwithstanding-784"
+  },
+  {
+    "word": "consequently",
+    "ipa": "/ˈkɑnsəkwəntliː/",
+    "meaning": "결과적으로, 따라서",
+    "example": "The experiment failed; consequently, it was repeated.",
+    "synonyms": "therefore, as a result, hence",
+    "deck": "DET Advanced",
+    "section": "advanced",
+    "id": "consequently-785"
+  },
+  {
+    "word": "conversely",
+    "ipa": "/ˈkɑnvərsliː/",
+    "meaning": "반대로, 역으로",
+    "example": "Conversely, some argue the opposite.",
+    "synonyms": "on the other hand, in contrast, oppositely",
+    "deck": "DET Advanced",
+    "section": "advanced",
+    "id": "conversely-786"
+  },
+  {
+    "word": "henceforth",
+    "ipa": "/ˈhɛnˈsfɔrθ/",
+    "meaning": "이후부터, 앞으로는",
+    "example": "Henceforth, all reports must be verified.",
+    "synonyms": "from now on, in future, thereafter",
+    "deck": "DET Advanced",
+    "section": "advanced",
+    "id": "henceforth-787"
+  },
+  {
+    "word": "incidentally",
+    "ipa": "/ˌɪnsɪˈdɛntəliː/",
+    "meaning": "부수적으로, 그런데",
+    "example": "Incidentally, this also reduces costs.",
+    "synonyms": "by the way, in passing, additionally",
+    "deck": "DET Advanced",
+    "section": "advanced",
+    "id": "incidentally-788"
+  },
+  {
+    "word": "inherently",
+    "ipa": "/ɪnˈhɪrəntliː/",
+    "meaning": "본질적으로",
+    "example": "The system is inherently flawed.",
+    "synonyms": "fundamentally, essentially, naturally",
+    "deck": "DET Advanced",
+    "section": "advanced",
+    "id": "inherently-789"
+  },
+  {
+    "word": "predominantly",
+    "ipa": "/ˌprɪˈdɑmənəntˌliː/",
+    "meaning": "주로, 대부분",
+    "example": "The population is predominantly urban.",
+    "synonyms": "mainly, mostly, largely",
+    "deck": "DET Advanced",
+    "section": "advanced",
+    "id": "predominantly-790"
+  },
+  {
+    "word": "presumably",
+    "ipa": "/prəˈzuːməbliː/",
+    "meaning": "아마, 추정컨대",
+    "example": "Presumably, they will agree.",
+    "synonyms": "probably, likely, apparently",
+    "deck": "DET Advanced",
+    "section": "advanced",
+    "id": "presumably-791"
+  },
+  {
+    "word": "respectively",
+    "ipa": "/rɪˈspɛktɪvliː/",
+    "meaning": "각각, 순서대로",
+    "example": "A and B scored 90 and 85 respectively.",
+    "synonyms": "separately, individually, in that order",
+    "deck": "DET Advanced",
+    "section": "advanced",
+    "id": "respectively-792"
+  },
+  {
+    "word": "simultaneously",
+    "ipa": "/ˌsaɪməlˈteɪniːəsliː/",
+    "meaning": "동시에",
+    "example": "Events occurred simultaneously.",
+    "synonyms": "at the same time, concurrently, together",
+    "deck": "DET Advanced",
+    "section": "advanced",
+    "id": "simultaneously-793"
+  },
+  {
+    "word": "subsequently",
+    "ipa": "/ˈsʌbsəkwəntliː/",
+    "meaning": "이후에, 뒤이어",
+    "example": "Subsequently, new evidence emerged.",
+    "synonyms": "afterward, later, following this",
+    "deck": "DET Advanced",
+    "section": "advanced",
+    "id": "subsequently-794"
+  },
+  {
+    "word": "whereas",
+    "ipa": "/wɛˈræz/",
+    "meaning": "반면에, ~인 데 비해",
+    "example": "He is outgoing, whereas she is reserved.",
+    "synonyms": "while, in contrast, but",
+    "deck": "DET Advanced",
+    "section": "advanced",
+    "id": "whereas-795"
+  },
+  {
+    "word": "whereby",
+    "ipa": "/wɛrˈbaɪ/",
+    "meaning": "그것에 의해, ~하는 방법으로",
+    "example": "A system whereby votes are counted online.",
+    "synonyms": "by which, through which, by means of",
+    "deck": "DET Advanced",
+    "section": "advanced",
+    "id": "whereby-796"
   }
 ]

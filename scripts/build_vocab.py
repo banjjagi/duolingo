@@ -187,6 +187,28 @@ def parse_awl():
     return rows
 
 
+def parse_advanced():
+    try:
+        from advanced_data import ADVANCED
+    except Exception as e:  # noqa: BLE001
+        print(f"  (advanced_data not loaded: {e})")
+        return []
+    rows = []
+    seen = set()
+    for entry in ADVANCED:
+        word, meaning, example, syn = entry
+        w = word.strip()
+        if w.lower() in seen:
+            continue
+        seen.add(w.lower())
+        rows.append({
+            "word": w, "ipa": ipa_for(w), "meaning": meaning.strip(),
+            "example": example.strip(), "synonyms": syn.strip(),
+            "deck": "DET Advanced", "section": "advanced",
+        })
+    return rows
+
+
 def main():
     rows = []
     core = ROOT / "det_vocab.md"
@@ -196,6 +218,7 @@ def main():
     if booster.exists():
         rows += parse_booster(booster)
     rows += parse_awl()
+    rows += parse_advanced()
 
     # strip markdown emphasis from examples, assign ids
     for i, r in enumerate(rows):
