@@ -31,9 +31,12 @@ body {
 
 .topbar {
   display: flex;
-  align-items: baseline;
+  align-items: center;
+  justify-content: space-between;
   gap: 10px;
 }
+.topbar-left { display: flex; align-items: baseline; gap: 10px; }
+.topbar-right { display: flex; align-items: center; gap: 10px; }
 .topbar h1 {
   font-size: 24px;
   margin: 0;
@@ -43,6 +46,27 @@ body {
   color: var(--muted);
   font-weight: 600;
 }
+.btn-google {
+  display: flex; align-items: center;
+  background: #fff; color: #3c4043;
+  border: 1px solid #dadce0; border-radius: 6px;
+  padding: 6px 14px; font-size: 13px; font-weight: 500;
+  cursor: pointer; white-space: nowrap;
+}
+.btn-google:hover { background: #f8f9fa; }
+.btn-ghost {
+  background: none; border: 1px solid var(--muted);
+  color: var(--muted); border-radius: 6px;
+  padding: 4px 10px; font-size: 12px; cursor: pointer;
+}
+.btn-ghost:hover { color: var(--fg); border-color: var(--fg); }
+.user-info { display: flex; align-items: center; gap: 8px; }
+.user-email { font-size: 13px; color: var(--muted); }
+.sync-badge {
+  font-size: 12px; color: var(--accent);
+  animation: pulse 1s infinite;
+}
+@keyframes pulse { 0%,100%{opacity:1} 50%{opacity:.4} }
 
 .tabs {
   display: flex;
