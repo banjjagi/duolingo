@@ -6,3 +6,5 @@ scripts/__pycache__/
 *.pyc
 tsconfig.tsbuildinfo
 .claude/
+.env
+.env.local
