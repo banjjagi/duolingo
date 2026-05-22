@@ -122,7 +122,7 @@ export default function Quiz({ words, progress, onGrade }: Props) {
       <div className="quiz-prompt">
         <span className="quiz-word">{q.word.word}</span>
         {ttsSupported() && (
-          <button className="speak-btn" onClick={() => speak(q.word.word)}>
+          <button className="speak-btn" onClick={() => void speak(q.word.word)}>
             🔊
           </button>
         )}
