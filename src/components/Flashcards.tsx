@@ -77,7 +77,7 @@ export default function Flashcards({ words, progress, onGrade }: Props) {
               title="Play pronunciation"
               onClick={(e) => {
                 e.stopPropagation();
-                speak(current.word);
+                void speak(current.word);
               }}
             >
               🔊
@@ -101,7 +101,7 @@ export default function Flashcards({ words, progress, onGrade }: Props) {
                   title="Play example"
                   onClick={(e) => {
                     e.stopPropagation();
-                    speak(current.example);
+                    void speak(current.example);
                   }}
                 >
                   🔊
